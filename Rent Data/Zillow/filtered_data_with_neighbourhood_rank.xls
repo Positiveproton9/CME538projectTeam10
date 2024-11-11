@@ -1,0 +1,378 @@
+Property URL,Rental price (USD per month),Living area,Bedrooms,Bathrooms,Street address,Latitude,Longitude,geometry,Neighbourhood,Neighbourhood Rank
+https://www.zillow.com/homedetails/413-Markham-St-Toronto-ON-M6G-2L1/2063459583_zpid/,2400.0,900.0,1.0,1.0,413 Markham St,43.66035,-79.41031,POINT (-79.41031 43.66035),Palmerston-Little Italy,9
+https://www.zillow.com/homedetails/1221-King-St-W-7026-Toronto-ON-M6K-1G3/2054131263_zpid/,2200.0,500.0,1.0,1.0,1221 King St W,43.638584,-79.427666,POINT (-79.427666 43.638584),South Parkdale,144
+https://www.zillow.com/homedetails/47-Lower-River-St-Toronto-ON-M5A-0G1/2079696219_zpid/,2200.0,500.0,1.0,1.0,47 Lower River St,43.656498,-79.35554,POINT (-79.35554 43.656498),Moss Park,69
+https://www.zillow.com/homedetails/120-Rowntree-Mill-Rd-2-Toronto-ON-M9L-1C9/442326900_zpid/,1645.0,800.0,1.0,1.0,120 Rowntree Mill Rd,43.7535,-79.577644,POINT (-79.577644 43.7535),Humber Summit,151
+https://www.zillow.com/homedetails/1100-Sheppard-Ave-W-1003-Toronto-ON-M3K-0E4/442260890_zpid/,2400.0,626.0,1.0,1.0,1100 Sheppard Ave W,43.75193,-79.4667,POINT (-79.4667 43.75193),York University Heights,145
+https://www.zillow.com/homedetails/2839-Keele-St-9-Toronto-ON-M3M-2G7/442256079_zpid/,2150.0,600.0,1.0,1.0,2839 Keele St,43.732067,-79.48294,POINT (-79.48294 43.732067),Downsview,136
+https://www.zillow.com/homedetails/368-George-St-301-Toronto-ON-M5A-2N3/442319710_zpid/,1749.0,550.0,1.0,1.0,368 George St,43.659748,-79.374695,POINT (-79.374695 43.659748),Moss Park,69
+https://www.zillow.com/homedetails/1-Thyra-Ave-2-Toronto-ON-M4C-5G4/442151118_zpid/,2195.0,550.0,1.0,1.0,1 Thyra Ave,43.691334,-79.29028,POINT (-79.29028 43.691334),Taylor-Massey,61
+https://www.zillow.com/homedetails/130-Lakeridge-Dr-2-Toronto-ON-M1C-5K2/442151037_zpid/,1755.0,1200.0,1.0,1.0,130 Lakeridge Dr,43.775177,-79.13667,POINT (-79.13667 43.775177),Centennial Scarborough,66
+https://www.zillow.com/homedetails/812-150-Sudbury-St-812-Toronto-ON-M6J-3S7/442083099_zpid/,2300.0,580.0,1.0,1.0,812 Sudbury St,43.640938,-79.42296,POINT (-79.42296 43.640938),Little Portugal,38
+https://www.zillow.com/homedetails/140-Carlton-St-Toronto-ON-M5A-3W7/2079698966_zpid/,2250.0,750.0,1.0,1.0,140 Carlton St,43.663155,-79.37519,POINT (-79.37519 43.663155),Cabbagetown-South St.James Town,7
+https://www.zillow.com/homedetails/900-Mount-Pleasant-Rd-310-Toronto-ON-M4P-3J9/442102967_zpid/,2400.0,600.0,1.0,1.0,900 Mount Pleasant Rd,43.711735,-79.39191,POINT (-79.39191 43.711735),North Toronto,55
+https://www.zillow.com/homedetails/212-Eglinton-Ave-E-811-Toronto-ON-M4P-0A3/2069752428_zpid/,2550.0,608.0,1.0,1.0,212 Eglinton Ave E,43.708378,-79.3921,POINT (-79.3921 43.708378),North Toronto,55
+https://www.zillow.com/homedetails/671-Crawford-St-1-Toronto-ON-M6G-3K1/442026123_zpid/,2450.0,635.0,1.0,1.0,671 Crawford St,43.6613,-79.42118,POINT (-79.42118 43.6613),Palmerston-Little Italy,9
+https://www.zillow.com/homedetails/188-Redpath-Ave-502-Toronto-ON-M4P-3J2/441725633_zpid/,2300.0,670.0,1.0,1.0,188 Redpath Ave,43.709927,-79.393906,POINT (-79.393906 43.709927),North Toronto,55
+https://www.zillow.com/homedetails/40-Nanton-Ave-2-Toronto-ON-M4W-2Y9/441580301_zpid/,3500.0,1000.0,1.0,1.0,40 Nanton Ave,43.67585,-79.3722,POINT (-79.3722 43.67585),Rosedale-Moore Park,44
+https://www.zillow.com/homedetails/30-Canterbury-Pl-UNIT-905-Toronto-ON-M2N-0B9/2067535432_zpid/,2499.0,700.0,1.0,1.0,30 Canterbury Pl,43.773167,-79.41544,POINT (-79.41544 43.773167),Willowdale West,54
+https://www.zillow.com/homedetails/373-Markham-St-5-Toronto-ON-M6G-2K8/441702453_zpid/,1699.0,450.0,1.0,1.0,373 Markham St,43.658653,-79.40964,POINT (-79.40964 43.658653),Palmerston-Little Italy,9
+https://www.zillow.com/homedetails/51-Richardson-Ave-2-Toronto-ON-M6M-3R8/441552832_zpid/,1750.0,650.0,1.0,1.0,51 Richardson Ave,43.69396,-79.47228,POINT (-79.47228 43.69396),Beechborough-Greenbrook,153
+https://www.zillow.com/homedetails/798-Ossington-Ave-M-Toronto-ON-M6G-3V1/439813097_zpid/,2400.0,900.0,1.0,1.0,798 Ossington Ave,43.663624,-79.42659,POINT (-79.42659 43.663624),Dovercourt Village,23
+https://www.zillow.com/homedetails/132-Silverhill-Dr-BASEMENT-Toronto-ON-M9B-3W7/440623226_zpid/,1900.0,800.0,1.0,1.0,132 Silverhill Dr,43.631847,-79.55065,POINT (-79.55065 43.631847),Etobicoke City Centre,64
+https://www.zillow.com/homedetails/1864-Danforth-Ave-301-Toronto-ON-M4C-1J4/407207193_zpid/,2500.0,900.0,1.0,1.0,1864 Danforth Ave,43.684925,-79.31732,POINT (-79.31732 43.684925),Danforth,1
+https://www.zillow.com/homedetails/3321-Dundas-St-W-4-Toronto-ON-M6P-2A6/439183000_zpid/,1950.0,800.0,1.0,1.0,3321 Dundas St W,43.665386,-79.48082,POINT (-79.48082 43.665386),Junction Area,41
+https://www.zillow.com/homedetails/28-Macpherson-Ave-3-Toronto-ON-M5R-1W8/345679167_zpid/,2330.0,680.0,1.0,1.0,28 Macpherson Ave,43.679073,-79.39192,POINT (-79.39192 43.679073),Annex,12
+https://www.zillow.com/homedetails/135-Maitland-St-401-Toronto-ON-M4Y-1E5/442365867_zpid/,2300.0,550.0,1.0,1.0,135 Maitland St,43.664978,-79.37821,POINT (-79.37821 43.664978),Church-Wellesley,28
+https://www.zillow.com/homedetails/196-Exbury-Rd-Toronto-ON-M3M-0B9/2054139387_zpid/,2499.0,871.0,1.0,1.0,196 Exbury Rd,43.728775,-79.509056,POINT (-79.509056 43.728775),Oakdale-Beverley Heights,154
+https://www.zillow.com/homedetails/2720-Dundas-St-W-Toronto-ON-M6P-1Y2/436330002_zpid/,2600.0,650.0,1.0,1.0,2720 Dundas St W,43.66509,-79.459694,POINT (-79.459694 43.66509),Junction Area,41
+https://www.zillow.com/b/driftwood-apartments-toronto-on-ChdGBr/,1999.0,700.0,1.0,1.0,101 Driftwood Ave,43.754513,-79.51328,POINT (-79.51328 43.754513),Glenfield-Jane Heights,143
+https://www.zillow.com/homedetails/21-Carlton-St-1804-Toronto-ON-M5B-1L3/2070097961_zpid/,2450.0,550.0,1.0,1.0,21 Carlton St,43.661102,-79.38193,POINT (-79.38193 43.661102),Downtown Yonge East,34
+https://www.zillow.com/homedetails/295-Wright-Ave-0-Toronto-ON-M6R-1L8/442350570_zpid/,2400.0,800.0,1.0,1.0,295 Wright Ave,43.644062,-79.454796,POINT (-79.454796 43.644062),High Park-Swansea,37
+https://www.zillow.com/homedetails/70-Heath-St-W-211-Toronto-ON-M4V-1T4/442350276_zpid/,2350.0,698.0,1.0,1.0,70 Heath St W,43.689915,-79.39863,POINT (-79.39863 43.689915),Yonge-St.Clair,49
+https://www.zillow.com/homedetails/135-Lawton-Blvd-306-Toronto-ON-M4V-1Z6/442350277_zpid/,2350.0,640.0,1.0,1.0,135 Lawton Blvd,43.69491,-79.39688,POINT (-79.39688 43.69491),Yonge-St.Clair,49
+https://www.zillow.com/homedetails/200-Bloor-St-W-2008-Toronto-ON-M5S-0B1/2070341761_zpid/,2450.0,550.0,1.0,1.0,200 Bloor St W,43.66874,-79.39542,POINT (-79.39542 43.66874),Annex,12
+https://www.zillow.com/homedetails/25-Telegram-Mews-2905-Toronto-ON-M5V-3Z1/2071887383_zpid/,2550.0,650.0,1.0,1.0,25 Telegram Mews,43.640995,-79.39457,POINT (-79.39457 43.640995),Harbourfront-CityPlace,21
+https://www.zillow.com/homedetails/90-Canon-Jackson-Dr-E-Toronto-ON-M6M-2G1/442325115_zpid/,2250.0,599.0,1.0,1.0,90 Canon Jackson Dr E,43.69802,-79.47222,POINT (-79.47222 43.69802),Beechborough-Greenbrook,153
+https://www.zillow.com/homedetails/2500-Bridletowne-Cir-Toronto-ON-M1W-2V6/442325116_zpid/,2300.0,899.0,1.0,1.0,2500 Bridletowne Cir,43.801365,-79.3177,POINT (-79.3177 43.801365),East L'Amoreaux,85
+https://www.zillow.com/homedetails/3830-Bathurst-St-Toronto-ON-M3H-6C5/442312917_zpid/,2699.0,899.0,1.0,1.0,3830 Bathurst St,43.739513,-79.434944,POINT (-79.434944 43.739513),Clanton Park,76
+https://www.zillow.com/homedetails/5-Brookbanks-Dr-Toronto-ON-M3A-2S7/442312918_zpid/,2650.0,1199.0,1.0,1.0,5 Brookbanks Dr,43.751858,-79.33335,POINT (-79.33335 43.751858),Parkwoods-O'Connor Hills,115
+https://www.zillow.com/homedetails/317-The-Kingsway-1-Toronto-ON-M9A-3V3/442306839_zpid/,2199.0,750.0,1.0,1.0,317 The Kingsway,43.665073,-79.52345,POINT (-79.52345 43.665073),Edenbridge-Humber Valley,84
+https://www.zillow.com/homedetails/125-Isaac-Devins-Blvd-Toronto-ON-M9M-0C4/442289375_zpid/,2000.0,700.0,1.0,1.0,125 Isaac Devins Blvd,43.731136,-79.53174,POINT (-79.53174 43.731136),Pelmo Park-Humberlea,91
+https://www.zillow.com/homedetails/336-Ossington-Ave-Toronto-ON-M6J-3A4/2057216620_zpid/,2300.0,700.0,1.0,1.0,336 Ossington Ave,43.651768,-79.42191,POINT (-79.42191 43.651768),Trinity-Bellwoods,10
+https://www.zillow.com/homedetails/9-Wingreen-Ct-7-Toronto-ON-M3B-1B8/440959429_zpid/,2300.0,675.0,1.0,1.0,9 Wingreen Ct,43.7386,-79.34322,POINT (-79.34322 43.7386),Banbury-Don Mills,78
+https://www.zillow.com/homedetails/2033-Kennedy-Rd-Toronto-ON-M1T-3H9/2054937825_zpid/,2300.0,699.0,1.0,1.0,2033 Kennedy Rd,43.797707,-79.29501,POINT (-79.29501 43.797707),East L'Amoreaux,85
+https://www.zillow.com/homedetails/1720-Eglinton-Ave-E-Toronto-ON-M4A-2X8/2066368953_zpid/,2500.0,700.0,1.0,1.0,1720 Eglinton Ave E,43.72638,-79.31152,POINT (-79.31152 43.72638),Victoria Village,129
+https://www.zillow.com/homedetails/12-Rusholme-Dr-103-Toronto-ON-M6J-3J9/442182157_zpid/,2474.0,668.0,1.0,1.0,12 Rusholme Dr,43.65006,-79.42855,POINT (-79.42855 43.65006),Little Portugal,38
+https://www.zillow.com/homedetails/801-King-St-W-Toronto-ON-M5V-3C9/2078964856_zpid/,2500.0,660.0,1.0,1.0,801 King St W,43.642742,-79.407074,POINT (-79.407074 43.642742),West Queen West,2
+https://www.zillow.com/homedetails/484-Avenue-Rd-Toronto-ON-M4V-2J4/441866636_zpid/,2250.0,722.0,1.0,1.0,484 Avenue Rd,43.68731,-79.40233,POINT (-79.40233 43.68731),Casa Loma,29
+https://www.zillow.com/homedetails/2265-Victoria-Park-Ave-Toronto-ON-M1R-1W3/2079392885_zpid/,2330.0,620.0,1.0,1.0,2265 Victoria Park Ave,43.762814,-79.31678,POINT (-79.31678 43.762814),Wexford/Maryvale,128
+https://www.zillow.com/homedetails/5-Brockley-Dr-Toronto-ON-M1P-3J2/442131672_zpid/,2375.0,660.0,1.0,1.0,5 Brockley Dr,43.753483,-79.26263,POINT (-79.26263 43.753483),Bendale-Glen Andrew,124
+https://www.zillow.com/homedetails/445-Eglinton-Ave-E-704-Toronto-ON-M4P-1N1/442131615_zpid/,2100.0,777.0,1.0,1.0,445 Eglinton Ave E,43.709652,-79.38263,POINT (-79.38263 43.709652),Mount Pleasant East,14
+https://www.zillow.com/homedetails/87-Dovercourt-Rd-B-Toronto-ON-M6J-3C2/2071869294_zpid/,2200.0,750.0,1.0,1.0,87 Dovercourt Rd,43.642612,-79.42183,POINT (-79.42183 43.642612),West Queen West,2
+https://www.zillow.com/homedetails/318-King-St-E-806-Toronto-ON-M5A-0C1/442306775_zpid/,2350.0,550.0,1.0,1.0,318 King St E,43.652588,-79.36379,POINT (-79.36379 43.652588),Moss Park,69
+https://www.zillow.com/homedetails/3171-Bathurst-St-Toronto-ON-M6A-2B1/2054308142_zpid/,2459.0,650.0,1.0,1.0,3171 Bathurst St,43.722095,-79.43005,POINT (-79.43005 43.722095),Bedford Park-Nortown,46
+https://www.zillow.com/homedetails/1100-Sheppard-Ave-W-Toronto-ON-M3J-0G8/401757518_zpid/,2450.0,500.0,1.0,1.0,1100 Sheppard Ave W,43.751926,-79.4667,POINT (-79.4667 43.751926),York University Heights,145
+https://www.zillow.com/homedetails/577-Annette-St-Toronto-ON-M6S-2C3/2064252464_zpid/,1695.0,600.0,1.0,1.0,577 Annette St,43.65969,-79.48082,POINT (-79.48082 43.65969),Runnymede-Bloor West Village,3
+https://www.zillow.com/homedetails/50-Brian-Harrison-Way-Toronto-ON-M1P-5J4/2084859151_zpid/,2475.0,697.0,1.0,1.0,50 Brian Harrison Way,43.773823,-79.25895,POINT (-79.25895 43.773823),Bendale-Glen Andrew,124
+https://www.zillow.com/homedetails/201-Carlaw-Ave-UNIT-120-Toronto-ON-M4M-2S3/441147017_zpid/,3000.0,699.0,1.0,1.0,201 Carlaw Ave,43.662476,-79.340065,POINT (-79.340065 43.662476),South Riverdale,58
+https://www.zillow.com/homedetails/1220-Bayview-Ave-Toronto-ON-M4G-2Z7/441734800_zpid/,2150.0,558.0,1.0,1.0,1220 Bayview Ave,43.696426,-79.37204,POINT (-79.37204 43.696426),Leaside-Bennington,19
+https://www.zillow.com/homedetails/45-Balliol-St-Toronto-ON-M4S-1C3/441175295_zpid/,2249.0,669.0,1.0,1.0,45 Balliol St,43.69736,-79.395,POINT (-79.395 43.69736),South Eglinton-Davisville,20
+https://www.zillow.com/homedetails/2190-Weston-Rd-2180-Toronto-ON-M9N-1Y2/2055452720_zpid/,2150.0,580.0,1.0,1.0,2190 Weston Rd,43.703114,-79.52653,POINT (-79.52653 43.703114),Weston,155
+https://www.zillow.com/homedetails/1A-Vermont-Ave-28-Toronto-ON-M6G-1X6/2053264708_zpid/,2099.0,700.0,1.0,1.0,1A Vermont Ave,43.671906,-79.414246,POINT (-79.414246 43.671906),Annex,12
+https://www.zillow.com/homedetails/381-Front-St-W-Toronto-ON-M5V-3R8/2081182359_zpid/,2490.0,699.0,1.0,1.0,381 Front St W,43.642868,-79.39278,POINT (-79.39278 43.642868),Harbourfront-CityPlace,21
+https://www.zillow.com/homedetails/60-Jones-Ave-B-Toronto-ON-M4M-2Z8/440401411_zpid/,1800.0,400.0,1.0,1.0,60 Jones Ave,43.66413,-79.33371,POINT (-79.33371 43.66413),South Riverdale,58
+https://www.zillow.com/homedetails/31-Upper-Canada-Dr-412-Toronto-ON-M2P-1S3/2071830467_zpid/,2000.0,720.0,1.0,1.0,31 Upper Canada Dr,43.753204,-79.404366,POINT (-79.404366 43.753204),St.Andrew-Windfields,90
+https://www.zillow.com/homedetails/24-Forest-Manor-Rd-Toronto-ON-M2J-1M3/439506151_zpid/,2285.0,694.0,1.0,1.0,24 Forest Manor Rd,43.771057,-79.34464,POINT (-79.34464 43.771057),Henry Farm,88
+https://www.zillow.com/homedetails/88-Scott-St-3010-Toronto-ON-M5E-0A9/2070420647_zpid/,2500.0,595.0,1.0,1.0,88 Scott St,43.648415,-79.376465,POINT (-79.376465 43.648415),Downtown Yonge East,34
+https://www.zillow.com/homedetails/494-Avenue-Rd-UNIT-A-Toronto-ON-M4V-2J5/440784809_zpid/,2195.0,625.0,1.0,1.0,494 Avenue Rd UNIT A,43.687767,-79.40248,POINT (-79.40248 43.687767),Casa Loma,29
+https://www.zillow.com/homedetails/2407-Lake-Shore-Blvd-W-14-Toronto-ON-M8V-1C5/440984025_zpid/,1945.0,600.0,1.0,1.0,2407 Lake Shore Blvd W,43.61423,-79.488716,POINT (-79.488716 43.61423),Humber Bay Shores,68
+https://www.zillow.com/homedetails/238-Bonis-Ave-Toronto-ON-M1T-3W7/2084217467_zpid/,2450.0,647.0,1.0,1.0,238 Bonis Ave,43.785908,-79.289856,POINT (-79.289856 43.785908),Tam O'Shanter-Sullivan,99
+https://www.zillow.com/homedetails/100-Falstaff-Ave-North-York-ON-M6L-2E4/440541746_zpid/,2000.0,600.0,1.0,1.0,100 Falstaff Ave,43.717358,-79.49951,POINT (-79.49951 43.717358),Rustic,150
+https://www.zillow.com/homedetails/225-Davisville-Ave-Toronto-ON-M4S-1G9/439490489_zpid/,2025.0,530.0,1.0,1.0,225 Davisville Ave,43.69957,-79.38822,POINT (-79.38822 43.69957),South Eglinton-Davisville,20
+https://www.zillow.com/homedetails/21-Richardson-St-Toronto-ON-M5A-4J9/441626275_zpid/,1995.0,400.0,1.0,1.0,21 Richardson St,43.645042,-79.36796,POINT (-79.36796 43.645042),St Lawrence-East Bayfront-The Islands,35
+https://www.zillow.com/homedetails/38-Iannuzzi-St-Toronto-ON-M5V-0G7/2075684927_zpid/,2500.0,599.0,1.0,1.0,38 Iannuzzi St,43.63716,-79.40099,POINT (-79.40099 43.63716),Fort York-Liberty Village,52
+https://www.zillow.com/homedetails/80-John-St-1602-Toronto-ON-M5V-3X4/2067748887_zpid/,2350.0,448.0,1.0,1.0,80 John St,43.64684,-79.39027,POINT (-79.39027 43.64684),Wellington Place,5
+https://www.zillow.com/homedetails/2800-Keele-St-706-Toronto-ON-M3M-0B8/2067272275_zpid/,2120.0,488.0,1.0,1.0,2800 Keele St,43.728653,-79.48333,POINT (-79.48333 43.728653),Downsview,136
+https://www.zillow.com/homedetails/4500-Jane-St-701-Toronto-ON-M3N-2K6/442149605_zpid/,2419.0,842.0,1.0,1.0,4500 Jane St,43.766468,-79.52048,POINT (-79.52048 43.766468),Black Creek,157
+https://www.zillow.com/homedetails/88-Queen-St-E-Toronto-ON-M5C-1S1/2087449298_zpid/,2100.0,518.0,1.0,1.0,88 Queen St E,43.65368,-79.37465,POINT (-79.37465 43.65368),Downtown Yonge East,34
+https://www.zillow.com/homedetails/9-Craigton-Dr-102-Toronto-ON-M1L-2N5/440751159_zpid/,1999.0,673.0,1.0,1.0,9 Craigton Dr,43.726833,-79.30211,POINT (-79.30211 43.726833),Wexford/Maryvale,128
+https://www.zillow.com/homedetails/125-Blue-Jays-Way-1901-Toronto-ON-M5V-0N5/442408103_zpid/,2650.0,550.0,1.0,1.0,125 Blue Jays Way,43.645805,-79.39205,POINT (-79.39205 43.645805),Wellington Place,5
+https://www.zillow.com/homedetails/60-Princess-St-1226-Toronto-ON-M5A-2C7/442325123_zpid/,2400.0,550.0,1.0,2.0,60 Princess St,43.6498,-79.36653,POINT (-79.36653 43.6498),St Lawrence-East Bayfront-The Islands,35
+https://www.zillow.com/homedetails/300-Saint-Clair-Ave-W-Toronto-ON-M4V-1S4/378307887_zpid/,2500.0,744.0,1.0,1.0,300 Saint Clair Ave W,43.685074,-79.41073,POINT (-79.41073 43.685074),Casa Loma,29
+https://www.zillow.com/homedetails/650-Woodbine-Ave-Toronto-ON-M4E-2J1/440160225_zpid/,2325.0,600.0,1.0,1.0,650 Woodbine Ave,43.678288,-79.310135,POINT (-79.310135 43.678288),Woodbine Corridor,42
+https://www.zillow.com/homedetails/120-Maitland-St-Toronto-ON-M4Y-1E1/2078022859_zpid/,1975.0,500.0,1.0,1.0,120 Maitland St,43.665295,-79.378624,POINT (-79.378624 43.665295),Church-Wellesley,28
+https://www.zillow.com/homedetails/595-Brookdale-Ave-Toronto-ON-M5M-1S5/344796266_zpid/,2459.0,650.0,1.0,1.0,595 Brookdale Ave,43.724266,-79.42951,POINT (-79.42951 43.724266),Bedford Park-Nortown,46
+https://www.zillow.com/homedetails/3896-Bathurst-St-308-Toronto-ON-M3H-3N5/407891452_zpid/,2143.0,565.0,1.0,1.0,3896 Bathurst St,43.74396,-79.43615,POINT (-79.43615 43.74396),Clanton Park,76
+https://www.zillow.com/b/300-antibes-drive-toronto-on-BdVF47/,2375.0,631.0,1.0,1.0,300 Antibes Dr,43.781292,-79.45003,POINT (-79.45003 43.781292),Westminster-Branson,110
+https://www.zillow.com/homedetails/1251-King-St-W-Toronto-ON-M6K-1G7/2054245374_zpid/,2124.0,721.0,1.0,1.0,1251 King St W,43.63819,-79.42972,POINT (-79.42972 43.63819),South Parkdale,144
+https://www.zillow.com/homedetails/6-Sonic-Way-Toronto-ON-M3C-0P1/2070458081_zpid/,2500.0,699.0,1.0,1.0,6 Sonic Way,43.72016,-79.33666,POINT (-79.33666 43.72016),Flemingdon Park,109
+https://www.zillow.com/homedetails/125-Omni-Dr-Toronto-ON-M1P-5A9/2080848099_zpid/,2500.0,652.0,1.0,1.0,125 Omni Dr,43.771038,-79.26014,POINT (-79.26014 43.771038),Bendale-Glen Andrew,124
+https://www.zillow.com/homedetails/55-Harrison-Garden-Blvd-Toronto-ON-M2N-7G3/2078237628_zpid/,2600.0,799.0,1.0,1.0,55 Harrison Garden Blvd,43.75682,-79.407135,POINT (-79.407135 43.75682),Avondale,4
+https://www.zillow.com/homedetails/11-Bogert-Ave-Toronto-ON-M2N-0H4/2080848336_zpid/,2700.0,599.0,1.0,1.0,11 Bogert Ave,43.760334,-79.41165,POINT (-79.41165 43.760334),Lansing-Westgate,33
+https://www.zillow.com/homedetails/218-Catalina-Dr-A-Toronto-ON-M1E-1B7/442306822_zpid/,2795.0,1100.0,2.0,1.0,218 Catalina Dr,43.743393,-79.201195,POINT (-79.201195 43.743393),Guildwood,92
+https://www.zillow.com/homedetails/301-Dixon-Rd-Toronto-ON-M9R-1S2/2077574848_zpid/,2650.0,900.0,2.0,1.0,301 Dixon Rd,43.694912,-79.55257,POINT (-79.55257 43.694912),Kingsview Village-The Westway,137
+https://www.zillow.com/homedetails/25-Gemshaw-Cres-2-Toronto-ON-M1B-1L3/442320392_zpid/,2150.0,700.0,2.0,1.0,25 Gemshaw Cres,43.799698,-79.21291,POINT (-79.21291 43.799698),Malvern East,79
+https://www.zillow.com/homedetails/39-Huron-St-2-Toronto-ON-M5T-2A4/442320504_zpid/,3000.0,700.0,2.0,1.0,39 Huron St,43.651947,-79.395256,POINT (-79.395256 43.651947),Kensington-Chinatown,48
+https://www.zillow.com/homedetails/1110-Briar-Hill-Ave-201-Toronto-ON-M6B-0A9/2055541309_zpid/,2600.0,750.0,2.0,1.0,1110 Briar Hill Ave,43.70293,-79.45105,POINT (-79.45105 43.70293),Briar Hill-Belgravia,100
+https://www.zillow.com/homedetails/2839-Keele-St-1-Toronto-ON-M3M-2G7/442292169_zpid/,2450.0,750.0,2.0,1.0,2839 Keele St,43.732067,-79.48294,POINT (-79.48294 43.732067),Downsview,136
+https://www.zillow.com/homedetails/28-Olive-Ave-912-Toronto-ON-M2N-7E6/348944745_zpid/,2550.0,600.0,2.0,1.0,28 Olive Ave,43.779377,-79.41363,POINT (-79.41363 43.779377),Yonge-Doris,6
+https://www.zillow.com/homedetails/900-Saint-Clair-Ave-W-306-Toronto-ON-M6C-1C5/442233484_zpid/,2995.0,850.0,2.0,2.0,900 Saint Clair Ave W,43.680336,-79.43353,POINT (-79.43353 43.680336),Wychwood,22
+https://www.zillow.com/homedetails/543-Richmond-St-W-PENTHOUSE-11-Toronto-ON-M5V-1Y6/442034493_zpid/,4000.0,800.0,2.0,2.0,543 Richmond St W PENTHOUSE 11,43.64671,-79.40176,POINT (-79.40176 43.64671),Wellington Place,5
+https://www.zillow.com/homedetails/20-Meadowglen-Pl-E-1800-Toronto-ON-M1G-0A9/442014351_zpid/,2900.0,1000.0,2.0,2.0,20 Meadowglen Pl E,43.774513,-79.23047,POINT (-79.23047 43.774513),Golfdale-Cedarbrae-Woburn,147
+https://www.zillow.com/homedetails/3311-Kingston-Rd-1005-Toronto-ON-M1M-1R1/441767023_zpid/,2600.0,850.0,2.0,1.0,3311 Kingston Rd,43.733322,-79.22239,POINT (-79.22239 43.733322),Scarborough Village,152
+https://www.zillow.com/homedetails/1B-Crescent-Rd-120-Toronto-ON-M4W-1T5/441181530_zpid/,3900.0,1800.0,2.0,2.0,1B Crescent Rd,43.67815,-79.383835,POINT (-79.383835 43.67815),Rosedale-Moore Park,44
+https://www.zillow.com/homedetails/402-The-East-Mall-314-Toronto-ON-M9B-6B7/2056118050_zpid/,3150.0,1200.0,2.0,3.0,402 The East Mall,43.637486,-79.55753,POINT (-79.55753 43.637486),Islington,80
+https://www.zillow.com/homedetails/10-Edgecliff-Golfway-711-Toronto-ON-M3C-3A3/440618380_zpid/,2800.0,1000.0,2.0,1.0,10 Edgecliff Golfway,43.71923,-79.326515,POINT (-79.326515 43.71923),Flemingdon Park,109
+https://www.zillow.com/homedetails/897-College-St-Toronto-ON-M6H-1A1/339981315_zpid/,3250.0,850.0,2.0,1.0,897 College St,43.653683,-79.42472,POINT (-79.42472 43.653683),Trinity-Bellwoods,10
+https://www.zillow.com/homedetails/1376-Danforth-Ave-A-Toronto-ON-M4J-1M9/440896260_zpid/,2499.0,950.0,2.0,1.0,1376 Danforth Ave,43.682583,-79.32827,POINT (-79.32827 43.682583),Danforth,1
+https://www.zillow.com/homedetails/66-Hollyhedge-Dr-2-Toronto-ON-M1J-1X4/441555177_zpid/,1895.0,1100.0,2.0,1.0,66 Hollyhedge Dr,43.753384,-79.24645,POINT (-79.24645 43.753384),Bendale South,105
+https://www.zillow.com/homedetails/6-Burnelm-Dr-2-Toronto-ON-M9B-4N3/441180075_zpid/,1995.0,1100.0,2.0,1.0,6 Burnelm Dr,43.64772,-79.550125,POINT (-79.550125 43.64772),Islington,80
+https://www.zillow.com/homedetails/157-Geoffrey-St-Toronto-ON-M6R-1P4/346881292_zpid/,2700.0,826.0,2.0,1.0,157 Geoffrey St,43.647522,-79.45139,POINT (-79.45139 43.647522),High Park-Swansea,37
+https://www.zillow.com/homedetails/15-Colleen-Ct-BASEMENT-Toronto-ON-M3M-2E6/2055507623_zpid/,2300.0,850.0,2.0,1.0,15 Colleen Ct,43.737423,-79.486115,POINT (-79.486115 43.737423),Downsview,136
+https://www.zillow.com/homedetails/1212-Queen-St-E-A-Toronto-ON-M4M-1L7/350151087_zpid/,2250.0,900.0,2.0,1.0,1212 Queen St E,43.66338,-79.33086,POINT (-79.33086 43.66338),South Riverdale,58
+https://www.zillow.com/homedetails/211-Brunswick-Ave-A-Toronto-ON-M5S-2M4/440663749_zpid/,2300.0,1000.0,2.0,1.0,211 Brunswick Ave,43.663544,-79.40621,POINT (-79.40621 43.663544),University,17
+https://www.zillow.com/homedetails/1164-Queen-St-W-UNIT-3-Toronto-ON-M6J-1J5/2060949385_zpid/,3400.0,1100.0,2.0,1.0,1164 Queen St W,43.643055,-79.42533,POINT (-79.42533 43.643055),Little Portugal,38
+https://www.zillow.com/homedetails/798-Ossington-Ave-1-Toronto-ON-M6G-3V1/2075325763_zpid/,2500.0,990.0,2.0,1.0,798 Ossington Ave,43.663624,-79.42659,POINT (-79.42659 43.663624),Dovercourt Village,23
+https://www.zillow.com/homedetails/56-Scarbell-Dr-BASEMENT-Toronto-ON-M1C-5G8/440501280_zpid/,2000.0,800.0,2.0,1.0,56 Scarbell Dr,43.792664,-79.17275,POINT (-79.17275 43.792664),Highland Creek,82
+https://www.zillow.com/homedetails/2-Duffield-Rd-BASEMENT-Toronto-ON-M9P-3C8/351055473_zpid/,2650.0,650.0,2.0,1.0,2 Duffield Rd,43.690273,-79.53178,POINT (-79.53178 43.690273),Willowridge-Martingrove-Richview,135
+https://www.zillow.com/homedetails/23-Duffield-Rd-Toronto-ON-M9P-3C8/2077224001_zpid/,2650.0,500.0,2.0,1.0,23 Duffield Rd,43.691395,-79.53256,POINT (-79.53256 43.691395),Willowridge-Martingrove-Richview,135
+https://www.zillow.com/homedetails/1214-Queen-St-E-Toronto-ON-M4M-1L7/350151198_zpid/,2500.0,900.0,2.0,1.0,1214 Queen St E,43.66332,-79.33074,POINT (-79.33074 43.66332),South Riverdale,58
+https://www.zillow.com/homedetails/335-Van-Horne-Ave-Toronto-ON-M2J-2V1/439504023_zpid/,2605.0,785.0,2.0,1.0,335 Van Horne Ave,43.787323,-79.35096,POINT (-79.35096 43.787323),Don Valley Village,111
+https://www.zillow.com/homedetails/90-Beaconsfield-Ave-5-Toronto-ON-M6J-3J2/442338702_zpid/,3100.0,650.0,2.0,1.0,90 Beaconsfield Ave,43.64656,-79.426445,POINT (-79.426445 43.64656),Little Portugal,38
+https://www.zillow.com/homedetails/3560-Saint-Clair-Ave-E-409-Toronto-ON-M1K-0A9/2065578154_zpid/,2895.0,900.0,2.0,2.0,3560 Saint Clair Ave E,43.717026,-79.26069,POINT (-79.26069 43.717026),Kennedy Park,158
+https://www.zillow.com/homedetails/135-Lower-Sherbourne-St-2234-Toronto-ON-M5A-1Y4/442318328_zpid/,3100.0,750.0,2.0,2.0,135 Lower Sherbourne St,43.65014,-79.36749,POINT (-79.36749 43.65014),St Lawrence-East Bayfront-The Islands,35
+https://www.zillow.com/homedetails/1682-Victoria-Park-Ave-A201-Toronto-ON-M1R-1P8/442306826_zpid/,2995.0,900.0,2.0,2.0,1682 Victoria Park Ave,43.732403,-79.30613,POINT (-79.30613 43.732403),Victoria Village,129
+https://www.zillow.com/homedetails/416-The-Westway-209-Toronto-ON-M9R-1H7/442257266_zpid/,2245.0,1000.0,2.0,1.0,416 The Westway,43.68405,-79.5657,POINT (-79.5657 43.68405),Willowridge-Martingrove-Richview,135
+https://www.zillow.com/homedetails/39-Humbert-St-APT-3-Toronto-ON-M6J-1M8/442209794_zpid/,2395.0,500.0,2.0,1.0,39 Humbert St,43.645405,-79.42237,POINT (-79.42237 43.645405),Trinity-Bellwoods,10
+https://www.zillow.com/homedetails/55-E-Liberty-St-1504-Toronto-ON-M6K-3P9/2067087759_zpid/,3600.0,930.0,2.0,2.0,55 E Liberty St,43.638615,-79.41274,POINT (-79.41274 43.638615),Fort York-Liberty Village,52
+https://www.zillow.com/homedetails/39-Sherbourne-St-703-Toronto-ON-M5A-0L8/2073079216_zpid/,3500.0,955.0,2.0,2.0,39 Sherbourne St,43.65101,-79.36793,POINT (-79.36793 43.65101),Moss Park,69
+https://www.zillow.com/homedetails/27A-Saint-Quentin-Ave-0-Toronto-ON-M1M-2M7/442141480_zpid/,2250.0,1600.0,2.0,1.0,27A Saint Quentin Ave,43.717552,-79.23766,POINT (-79.23766 43.717552),Cliffcrest,131
+https://www.zillow.com/homedetails/76-Kenneth-Ave-2-Toronto-ON-M6P-1J3/2071149979_zpid/,3800.0,1132.0,2.0,2.0,76 Kenneth Ave,43.661434,-79.45904,POINT (-79.45904 43.661434),High Park North,47
+https://www.zillow.com/homedetails/59-E-Liberty-St-1103-Toronto-ON-M6K-3R1/442077973_zpid/,4400.0,1183.0,2.0,2.0,59 E Liberty St,43.63843,-79.41354,POINT (-79.41354 43.63843),Fort York-Liberty Village,52
+https://www.zillow.com/homedetails/74-Constance-St-2-Toronto-ON-M6R-1S6/442247673_zpid/,3398.0,1000.0,2.0,1.0,74 Constance St,43.64937,-79.453445,POINT (-79.453445 43.64937),High Park-Swansea,37
+https://www.zillow.com/homedetails/63-Pachino-Blvd-0-Toronto-ON-M1R-4J6/442022023_zpid/,1950.0,800.0,2.0,1.0,63 Pachino Blvd,43.762985,-79.31223,POINT (-79.31223 43.762985),Wexford/Maryvale,128
+https://www.zillow.com/b/sandringham-house-toronto-on-BjLcBy/,2800.0,782.0,2.0,1.0,12 Goldfinch Ct,43.770943,-79.45096,POINT (-79.45096 43.770943),Westminster-Branson,110
+https://www.zillow.com/homedetails/105-W-Lodge-Ave-Toronto-ON-M6K-2T8/2053177406_zpid/,3329.0,886.0,2.0,1.0,105 W Lodge Ave,43.64516,-79.43669,POINT (-79.43669 43.64516),Roncesvalles,25
+https://www.zillow.com/homedetails/3233-Eglinton-Ave-E-LPH13-Toronto-ON-M1J-3N6/2058102119_zpid/,3200.0,1000.0,2.0,2.0,3233 Eglinton Ave E,43.74371,-79.213005,POINT (-79.213005 43.74371),Scarborough Village,152
+https://www.zillow.com/b/833-kennedy-road-toronto-on-CdjXJD/,2699.0,932.0,2.0,1.0,833 Kennedy Rd,43.736317,-79.268936,POINT (-79.268936 43.736317),Ionview,134
+https://www.zillow.com/homedetails/1154-Queen-St-E-0-Toronto-ON-M4M-1L2/442001625_zpid/,2800.0,800.0,2.0,1.0,1154 Queen St E,43.66269,-79.33378,POINT (-79.33378 43.66269),South Riverdale,58
+https://www.zillow.com/homedetails/70-Princess-St-1502-Toronto-ON-M5A-0X6/441819788_zpid/,2800.0,800.0,2.0,2.0,70 Princess St,43.650295,-79.366745,POINT (-79.366745 43.650295),St Lawrence-East Bayfront-The Islands,35
+https://www.zillow.com/homedetails/1303-Gerrard-St-E-3-Toronto-ON-M4L-1Y8/2057982440_zpid/,2799.0,700.0,2.0,2.0,1303 Gerrard St E,43.67099,-79.326935,POINT (-79.326935 43.67099),Greenwood-Coxwell,56
+https://www.zillow.com/homedetails/70-Alexander-St-Toronto-ON-M4Y-3B6/2078270625_zpid/,3500.0,1095.0,2.0,2.0,70 Alexander St,43.66386,-79.38038,POINT (-79.38038 43.66386),Church-Wellesley,28
+https://www.zillow.com/homedetails/1216-York-Mills-Rd-Toronto-ON-M3A-1Y6/2079698707_zpid/,2840.0,940.0,2.0,1.0,1216 York Mills Rd,43.760178,-79.332565,POINT (-79.332565 43.760178),Fenside-Parkwoods,139
+https://www.zillow.com/homedetails/625-Finch-Ave-W-1101-Toronto-ON-M2R-3W1/345096116_zpid/,2700.0,900.0,2.0,1.0,625 Finch Ave W,43.7711,-79.45428,POINT (-79.45428 43.7711),Westminster-Branson,110
+https://www.zillow.com/homedetails/24-Acre-Heights-Cres-2-Toronto-ON-M1H-2N9/442327950_zpid/,2495.0,1000.0,3.0,2.0,24 Acre Heights Cres,43.76663,-79.24891,POINT (-79.24891 43.76663),Woburn North,104
+https://www.zillow.com/homedetails/131-Torresdale-Ave-1407-Toronto-ON-M2R-3T1/442100330_zpid/,4000.0,1650.0,3.0,2.0,131 Torresdale Ave,43.778008,-79.45272,POINT (-79.45272 43.778008),Westminster-Branson,110
+https://www.zillow.com/homedetails/73-Brimley-Rd-BASEMENT-2-Toronto-ON-M1M-3H7/2054377788_zpid/,2295.0,600.0,3.0,1.0,73 Brimley Rd BASEMENT 2,43.72387,-79.24231,POINT (-79.24231 43.72387),Cliffcrest,131
+https://www.zillow.com/homedetails/49-Cordella-Ave-1-Toronto-ON-M6N-2J7/441566240_zpid/,3500.0,850.0,3.0,1.0,49 Cordella Ave,43.681416,-79.48252,POINT (-79.48252 43.681416),Rockcliffe-Smythe,116
+https://www.zillow.com/homedetails/326-High-Park-Ave-2-Toronto-ON-M6P-2S7/439437265_zpid/,3995.0,1250.0,3.0,2.0,326 High Park Ave,43.664787,-79.47044,POINT (-79.47044 43.664787),Junction Area,41
+https://www.zillow.com/homedetails/2A-Tiverton-Ave-1-Toronto-ON-M4M-2L9/352006285_zpid/,3999.0,1900.0,3.0,2.0,2A Tiverton Ave,43.66404,-79.345215,POINT (-79.345215 43.66404),South Riverdale,58
+https://www.zillow.com/homedetails/103-Baldwin-St-Toronto-ON-M5T-1L5/2057480386_zpid/,3600.0,700.0,3.0,1.0,103 Baldwin St,43.655193,-79.396614,POINT (-79.396614 43.655193),Kensington-Chinatown,48
+https://www.zillow.com/homedetails/75-Kenwood-Ave-1-Toronto-ON-M6C-2S1/402484456_zpid/,3200.0,1000.0,3.0,1.0,75 Kenwood Ave,43.684887,-79.4227,POINT (-79.4227 43.684887),Humewood-Cedarvale,59
+https://www.zillow.com/b/sandringham-house-toronto-on-BjLcBy/,3200.0,1365.0,3.0,1.0,12 Goldfinch Ct,43.770943,-79.45096,POINT (-79.45096 43.770943),Westminster-Branson,110
+https://www.zillow.com/homedetails/1701-McCowan-Rd-Toronto-ON-M1S-2Y3/2077844900_zpid/,2850.0,1180.0,3.0,2.0,1701 McCowan Rd,43.788326,-79.25602,POINT (-79.25602 43.788326),Agincourt South-Malvern West,94
+https://www.zillow.com/homedetails/70-Stevenvale-Dr-Toronto-ON-M1G-1E1/417855659_zpid/,2899.0,850.0,3.0,1.0,70 Stevenvale Dr,43.75894,-79.22137,POINT (-79.22137 43.75894),Golfdale-Cedarbrae-Woburn,147
+https://www.zillow.com/b/45-greencrest-circuit-scarborough-on-ChHtKC/,2899.0,850.0,3.0,1.0,45 Greencrest Cir,43.758743,-79.22232,POINT (-79.22232 43.758743),Golfdale-Cedarbrae-Woburn,147
+https://www.zillow.com/homedetails/100-Antibes-Dr-Toronto-ON-M2R-3N1/2065657192_zpid/,3500.0,1300.0,3.0,2.0,100 Antibes Dr,43.780487,-79.44702,POINT (-79.44702 43.780487),Westminster-Branson,110
+https://www.zillow.com/homedetails/600-Brookdale-Ave-Toronto-ON-M5M-1S4/384437673_zpid/,5200.0,1316.0,3.0,2.0,600 Brookdale Ave,43.72464,-79.42988,POINT (-79.42988 43.72464),Bedford Park-Nortown,46
+https://www.zillow.com/homedetails/207-Davisville-Ave-Toronto-ON-M4S-1G8/441175304_zpid/,4300.0,2038.0,3.0,2.0,207 Davisville Ave,43.69959,-79.38941,POINT (-79.38941 43.69959),South Eglinton-Davisville,20
+https://www.zillow.com/homedetails/318-Rouge-Hills-Dr-Toronto-ON-M1C-2Z5/440686898_zpid/,3600.0,2000.0,3.0,3.0,318 Rouge Hills Dr,43.793667,-79.12849,POINT (-79.12849 43.793667),West Rouge,98
+https://www.zillow.com/b/minto-yorkville-toronto-on-BMCLyH/,12968.0,503.0,3.0,3.0,61 Yorkville Ave,43.67099,-79.390526,POINT (-79.390526 43.67099),Annex,12
+https://www.zillow.com/homedetails/65-Hobden-Pl-65-Toronto-ON-M9R-3R6/439504080_zpid/,3995.0,1800.0,3.0,2.0,65 Hobden Pl,43.68654,-79.56631,POINT (-79.56631 43.68654),Willowridge-Martingrove-Richview,135
+https://www.zillow.com/b/630-vesta-dr-toronto-on-BfdSTc/,3409.0,1216.0,3.0,2.0,630 Vesta Dr,43.703003,-79.42542,POINT (-79.42542 43.703003),Forest Hill North,75
+https://www.zillow.com/homedetails/1475-Birchmount-Rd-402-Toronto-ON-M1P-2G4/422185857_zpid/,3099.0,1179.0,3.0,1.0,1475 Birchmount Rd,43.75671,-79.28804,POINT (-79.28804 43.75671),Dorset Park,126
+https://www.zillow.com/homedetails/217-Sloane-Ave-0-Toronto-ON-M4A-2C5/439249312_zpid/,3150.0,1200.0,3.0,1.0,217 Sloane Ave,43.737812,-79.31069,POINT (-79.31069 43.737812),Victoria Village,129
+https://www.zillow.com/homedetails/1673-Bathurst-St-2A-Toronto-ON-M5P-3J8/2053210912_zpid/,4295.0,1215.0,3.0,2.0,1673 Bathurst St,43.694977,-79.422714,POINT (-79.422714 43.694977),Forest Hill South,39
+https://www.zillow.com/homedetails/1330-Danforth-Rd-312-Toronto-ON-M1J-1E8/439895217_zpid/,2612.0,1081.0,3.0,1.0,1330 Danforth Rd,43.742924,-79.24596,POINT (-79.24596 43.742924),Eglinton East,138
+https://www.zillow.com/homedetails/86-Silver-Springs-Blvd-87-203-Toronto-ON-M1V-1M9/402090891_zpid/,3150.0,1097.0,3.0,2.0,86 Silver Springs Blvd,43.80006,-79.305824,POINT (-79.305824 43.80006),East L'Amoreaux,85
+https://www.zillow.com/b/lawrence-east-apartments-scarborough-on-Bfcb9r/,3090.0,1056.0,3.0,1.0,4000 Lawrence Ave E,43.766113,-79.20001,POINT (-79.20001 43.766113),West Hill,156
+https://www.zillow.com/homedetails/139A-Lappin-Ave-1-Toronto-ON-M6H-1Y6/349463532_zpid/,3999.0,1600.0,3.0,3.0,139A Lappin Ave,43.66512,-79.44379,POINT (-79.44379 43.66512),Junction-Wallace Emerson,50
+https://www.zillow.com/b/apartment-for-rent-at-11-antrim-crescent-scarborough-on-BZ3jHJ/,2970.0,1100.0,3.0,1.0,11 Antrim Cres,43.770782,-79.28437,POINT (-79.28437 43.770782),Dorset Park,126
+https://www.zillow.com/homedetails/68-Cassandra-Blvd-Toronto-ON-M3A-1S6/2079695844_zpid/,3170.0,1715.0,3.0,1.0,68 Cassandra Blvd,43.748547,-79.33178,POINT (-79.33178 43.748547),Parkwoods-O'Connor Hills,115
+https://www.zillow.com/homedetails/2029-Victoria-Park-Ave-2055-12-Toronto-ON-M1R-1V4/440157828_zpid/,3949.0,1273.0,3.0,1.0,2029 Victoria Park Ave,43.754433,-79.3135,POINT (-79.3135 43.754433),Wexford/Maryvale,128
+https://www.zillow.com/b/markham-road-apartments-1050-scarborough-on-BfdS8M/,2945.0,1300.0,3.0,1.0,1050 Markham Rd,43.774372,-79.23157,POINT (-79.23157 43.774372),Woburn North,104
+https://www.zillow.com/b/daniels-gateway-keelesdale-toronto-on-ChG287/,3270.0,973.0,3.0,2.0,125 Canon Jackson Dr,43.697407,-79.472916,POINT (-79.472916 43.697407),Beechborough-Greenbrook,153
+https://www.zillow.com/b/1465-lawrence-avenue-west-toronto-on-BVzyWr/,3385.0,1157.0,3.0,1.0,1465 Lawrence Ave W,43.70739,-79.4804,POINT (-79.4804 43.70739),Brookhaven-Amesbury,148
+https://www.zillow.com/b/the-ivy-toronto-on-BMLDxT/,5107.0,888.0,3.0,2.0,8 Gloucester St,43.666904,-79.38477,POINT (-79.38477 43.666904),Church-Wellesley,28
+https://www.zillow.com/b/the-203-residences-toronto-on-BMLF7m/,3405.0,943.0,3.0,2.0,203 Jarvis St,43.65566,-79.37363,POINT (-79.37363 43.65566),Moss Park,69
+https://www.zillow.com/b/the-citadel-toronto-on-Bhv3jb/,3200.0,1300.0,3.0,1.0,701 Don Mills Rd,43.70832,-79.33285,POINT (-79.33285 43.70832),O'Connor-Parkview,120
+https://www.zillow.com/homedetails/270-Davenport-Rd-Toronto-ON-M5R-1J6/2063443293_zpid/,6200.0,2249.0,3.0,3.0,270 Davenport Rd,43.67457,-79.398766,POINT (-79.398766 43.67457),Annex,12
+https://www.zillow.com/b/231-vaughan-road-york-on-C3qXQV/,2995.0,556.0,3.0,1.0,231 Vaughan Rd,43.68806,-79.42414,POINT (-79.42414 43.68806),Humewood-Cedarvale,59
+https://www.zillow.com/b/waverley-toronto-on-BtvWvk/,5775.0,1172.0,3.0,2.0,484 Spadina Ave,43.658295,-79.40076,POINT (-79.40076 43.658295),University,17
+https://www.zillow.com/apartments/toronto-on/the-fairbank/CctTvm/,3999.0,1327.0,3.0,2.0,9 Croham Rd,43.693108,-79.46395,POINT (-79.46395 43.693108),Briar Hill-Belgravia,100
+https://www.zillow.com/b/tower-hill-east-toronto-on-BR8r6Z/,4225.0,1283.0,3.0,1.0,330 Spadina Rd,43.683502,-79.41116,POINT (-79.41116 43.683502),Casa Loma,29
+https://www.zillow.com/b/1450-sheppard-avenue-west-toronto-on-Bk5YMy/,3528.0,1202.0,3.0,1.0,1450 Sheppard Ave W,43.74484,-79.48976,POINT (-79.48976 43.74484),York University Heights,145
+https://www.zillow.com/b/14-20-carluke-cres-toronto-on-CdhsMg/,3149.0,1118.0,3.0,2.0,20 Carluke Cres,43.761036,-79.3915,POINT (-79.3915 43.761036),St.Andrew-Windfields,90
+https://www.zillow.com/b/the-brixton-toronto-on-BrHvxd/,3832.0,900.0,3.0,2.0,410 Dufferin St,43.647926,-79.4311,POINT (-79.4311 43.647926),Little Portugal,38
+https://www.zillow.com/b/1360-danforth-road-scarborough-on-BfdSnB/,2869.0,1215.0,3.0,2.0,1360 Danforth Rd,43.744976,-79.245445,POINT (-79.245445 43.744976),Eglinton East,138
+https://www.zillow.com/homedetails/10-Lamport-Ave-106-Toronto-ON-M4W-1S6/2070856163_zpid/,4500.0,1483.0,3.0,1.0,10 Lamport Ave,43.67886,-79.37756,POINT (-79.37756 43.67886),Rosedale-Moore Park,44
+https://www.zillow.com/homedetails/455-Wellington-St-W-Toronto-ON-M5V-1E7/347144785_zpid/,8500.0,1886.0,3.0,3.0,455 Wellington St W,43.64315,-79.397194,POINT (-79.397194 43.64315),Wellington Place,5
+https://www.zillow.com/homedetails/7-Fairbank-Ave-801-Toronto-ON-M6E-3Y5/439505004_zpid/,4200.0,1006.0,3.0,2.0,7 Fairbank Ave,43.695457,-79.45276,POINT (-79.45276 43.695457),Briar Hill-Belgravia,100
+https://www.zillow.com/b/cloisters-of-the-don-toronto-on-BbwPcL/,3600.0,1250.0,3.0,2.0,10 Roanoke Rd,43.74144,-79.32923,POINT (-79.32923 43.74144),Parkwoods-O'Connor Hills,115
+https://www.zillow.com/homedetails/525-Adelaide-St-W-315-Toronto-ON-M5V-0N7/2062273944_zpid/,3950.0,834.0,3.0,2.0,525 Adelaide St W,43.644848,-79.40228,POINT (-79.40228 43.644848),Wellington Place,5
+https://www.zillow.com/b/205-morningside-avenue-scarborough-on-BhD674/,3049.0,944.0,3.0,1.0,205 Morningside Ave,43.765408,-79.18483,POINT (-79.18483 43.765408),West Hill,156
+https://www.zillow.com/b/bela-square-toronto-on-Cf2nQh/,3725.0,1220.0,3.0,3.0,94 Eastdale Ave,43.69503,-79.30172,POINT (-79.30172 43.69503),Taylor-Massey,61
+https://www.zillow.com/b/the-thomas-toronto-on-BVgsVC/,6130.0,1780.0,3.0,1.0,355 Saint Clair Ave W,43.683125,-79.413155,POINT (-79.413155 43.683125),Casa Loma,29
+https://www.zillow.com/homedetails/3443-Bathurst-St-201-Toronto-ON-M6A-2C3/352591595_zpid/,3999.0,1480.0,3.0,3.0,3443 Bathurst St,43.728065,-79.43145,POINT (-79.43145 43.728065),Bedford Park-Nortown,46
+https://www.zillow.com/apartments/toronto-on/bretton-place/BWw4NB/,4575.0,1137.0,3.0,2.0,44 Jackes Ave,43.685795,-79.391174,POINT (-79.391174 43.685795),Rosedale-Moore Park,44
+https://www.zillow.com/b/1731-eglinton-avenue-west-toronto-toronto-on-CgmdTy/,2995.0,1000.0,3.0,1.0,1731 Eglinton Ave W,43.696213,-79.44688,POINT (-79.44688 43.696213),Oakwood Village,93
+https://www.zillow.com/b/3967-lawrence-avenue-east-toronto-on-BTgVLv/,3124.0,1132.0,3.0,2.0,3967 Lawrence Ave E,43.76397,-79.20321,POINT (-79.20321 43.76397),Golfdale-Cedarbrae-Woburn,147
+https://www.zillow.com/homedetails/20-Forest-Manor-Rd-1112-Toronto-ON-M2J-1M2/2064089459_zpid/,3250.0,1300.0,3.0,1.0,20 Forest Manor Rd,43.770073,-79.34427,POINT (-79.34427 43.770073),Henry Farm,88
+https://www.zillow.com/b/immix-toronto-on-CcSzy6/,5175.0,959.0,3.0,2.0,7 Grosvenor St,43.66281,-79.38402,POINT (-79.38402 43.66281),Bay-Cloverhill,8
+https://www.zillow.com/b/214-st.-george-toronto-on-BcfDnV/,4000.0,945.0,3.0,1.0,214 Saint George St,43.671234,-79.40182,POINT (-79.40182 43.671234),Annex,12
+https://www.zillow.com/homedetails/66-Isabella-St-Toronto-ON-M4Y-1N3/2079697694_zpid/,3850.0,934.0,3.0,2.0,66 Isabella St,43.668472,-79.3829,POINT (-79.3829 43.668472),Church-Wellesley,28
+https://www.zillow.com/b/the-stack-toronto-on-CbHKbp/,5750.0,1356.0,3.0,3.0,730 Hillsdale Ave E,43.70792,-79.37636,POINT (-79.37636 43.70792),Mount Pleasant East,14
+https://www.zillow.com/b/2-secord-toronto-on-BrByK6/,2919.0,1270.0,3.0,2.0,2 Secord Ave,43.69313,-79.3016,POINT (-79.3016 43.69313),Taylor-Massey,61
+https://www.zillow.com/b/15-eva-rd-etobicoke-on-BrHvy5/,3179.0,1069.0,3.0,1.0,15 Eva Rd,43.638435,-79.56202,POINT (-79.56202 43.638435),Etobicoke West Mall,121
+https://www.zillow.com/b/dehaviland-court-toronto-on-BfdSh9/,3266.0,1057.0,3.0,2.0,3390 Keele St,43.74695,-79.48847,POINT (-79.48847 43.74695),York University Heights,145
+https://www.zillow.com/b/100-graydon-hall-apartments-toronto-on-Bgw63L/,2800.0,908.0,3.0,2.0,100 Graydon Hall Dr,43.76543,-79.34434,POINT (-79.34434 43.76543),Fenside-Parkwoods,139
+https://www.zillow.com/b/one225-york-mills-toronto-on-Cbvtfs/,3099.0,921.0,3.0,2.0,1225 York Mills Rd,43.759567,-79.330956,POINT (-79.330956 43.759567),Fenside-Parkwoods,139
+https://www.zillow.com/b/2737-kipling-avenue-toronto-on-CGMNpp/,3149.0,1117.0,3.0,2.0,2737 Kipling Ave,43.75331,-79.58657,POINT (-79.58657 43.75331),Mount Olive-Silverstone-Jamestown,141
+https://www.zillow.com/b/70-parkwoods-village-dr.-north-york-on-BfcbPZ/,3401.0,1080.0,3.0,1.0,70 Parkwoods Village Dr,43.7599,-79.322716,POINT (-79.322716 43.7599),Fenside-Parkwoods,139
+https://www.zillow.com/b/cambridge-place-apartments-scarborough-on-BqhYhw/,3930.0,1337.0,3.0,2.0,30 Denton Ave,43.693977,-79.2877,POINT (-79.2877 43.693977),Oakridge,125
+https://www.zillow.com/b/250-roehampton-avenue-toronto-on-CJNWmF/,4450.0,1473.0,3.0,1.0,250 Roehampton Ave SUITE 100,43.709743,-79.39154,POINT (-79.39154 43.709743),North Toronto,55
+https://www.zillow.com/homedetails/25-Nicholas-Ave-Toronto-ON-M5A-0M9/2055453380_zpid/,3800.0,935.0,3.0,2.0,25 Nicholas Ave,43.659634,-79.35815,POINT (-79.35815 43.659634),Regent Park,32
+https://www.zillow.com/b/40-stevenson-road-etobicoke-on-BmvCHD/,3099.0,1243.0,3.0,2.0,40 Stevenson Rd,43.744232,-79.58566,POINT (-79.58566 43.744232),Mount Olive-Silverstone-Jamestown,141
+https://www.zillow.com/b/200-ridley-boulevard-toronto-on-BgrNP8/,3690.0,1503.0,3.0,2.0,200 Ridley Blvd,43.738235,-79.41971,POINT (-79.41971 43.738235),Bedford Park-Nortown,46
+https://www.zillow.com/b/altair-north-york-on-BfcbLc/,2990.0,1091.0,3.0,1.0,15 Martha Eaton Way,43.696564,-79.488464,POINT (-79.488464 43.696564),Brookhaven-Amesbury,148
+https://www.zillow.com/homedetails/1715-Bathurst-St-203-Toronto-ON-M5P-3K4/2061615578_zpid/,3900.0,1157.0,3.0,1.0,1715 Bathurst St,43.69772,-79.42392,POINT (-79.42392 43.69772),Forest Hill South,39
+https://www.zillow.com/b/75-silver-springs-boulevard-toronto-on-BbwzRJ/,3145.0,1184.0,3.0,1.0,65 Silver Springs Blvd,43.80132,-79.30424,POINT (-79.30424 43.80132),East L'Amoreaux,85
+https://www.zillow.com/b/brookbanks-apartments-toronto-on-Bgw8zv/,3050.0,1372.0,3.0,2.0,15 Brookbanks Dr,43.75191,-79.33309,POINT (-79.33309 43.75191),Parkwoods-O'Connor Hills,115
+https://www.zillow.com/b/90-eastdale-toronto-on-BMnTcQ/,2919.0,1286.0,3.0,2.0,90 Eastdale Ave,43.69461,-79.30125,POINT (-79.30125 43.69461),Taylor-Massey,61
+https://www.zillow.com/b/555-the-west-mall-toronto-on-BhfD68/,2894.0,1054.0,3.0,1.0,555 The West Mall,43.652443,-79.570435,POINT (-79.570435 43.652443),Etobicoke West Mall,121
+https://www.zillow.com/b/11-welsford-gardens-north-york-on-C5GSwX/,2950.0,1372.0,3.0,2.0,7 Welsford Gdns,43.7515,-79.3156,POINT (-79.3156 43.7515),Parkwoods-O'Connor Hills,115
+https://www.zillow.com/b/295-dufferin-street-toronto-on-BfcbJ3/,3191.0,771.0,3.0,1.0,295 Dufferin St,43.64005,-79.42731,POINT (-79.42731 43.64005),South Parkdale,144
+https://www.zillow.com/b/novus-toronto-on-Cbvstn/,5450.0,1290.0,3.0,4.0,25 Ordnance St,43.63907,-79.41008,POINT (-79.41008 43.63907),Fort York-Liberty Village,52
+https://www.zillow.com/b/12-24-leith-hill-rd-toronto-on-BWdv42/,3481.0,1213.0,3.0,2.0,24 Leith Hill Rd,43.777225,-79.350006,POINT (-79.350006 43.777225),Don Valley Village,111
+https://www.zillow.com/b/main-square-toronto-on-BP775n/,3100.0,1015.0,3.0,1.0,2575 Danforth Ave,43.6882,-79.30032,POINT (-79.30032 43.6882),East End-Danforth,60
+https://www.zillow.com/b/50-graydon-hall-apartments-toronto-on-BgHgG5/,2900.0,994.0,3.0,2.0,50 Graydon Hall Dr,43.76462,-79.34578,POINT (-79.34578 43.76462),Fenside-Parkwoods,139
+https://www.zillow.com/homedetails/36-Foxbar-Rd-0-Toronto-ON-M4V-2G6/2062580452_zpid/,3500.0,1500.0,3.0,2.0,36 Foxbar Rd,43.685757,-79.39927,POINT (-79.39927 43.685757),Yonge-St.Clair,49
+https://www.zillow.com/homedetails/75-Morning-Dew-Rd-BASEMENT-Toronto-ON-M1E-3X4/2062580356_zpid/,1749.0,800.0,3.0,1.0,75 Morning Dew Rd,43.77214,-79.168526,POINT (-79.168526 43.77214),West Hill,156
+https://www.zillow.com/b/montgomery-mills-50-cordova-ave.-etobicoke-on-BhfgPn/,2975.0,1214.0,3.0,2.0,50 Cordova Ave PENTHOUSE 202,43.64711,-79.52647,POINT (-79.52647 43.64711),Etobicoke City Centre,64
+https://www.zillow.com/b/montgomery-mills-24-mabelle-ave.-etobicoke-on-BS4tTB/,2975.0,1195.0,3.0,2.0,24 Mabelle Ave PENTHOUSE 102,43.646587,-79.527145,POINT (-79.527145 43.646587),Etobicoke City Centre,64
+https://www.zillow.com/homedetails/25-Gemshaw-Cres-1-Toronto-ON-M1B-1L3/442319970_zpid/,3499.0,1900.0,4.0,2.0,25 Gemshaw Cres,43.799698,-79.21291,POINT (-79.21291 43.799698),Malvern East,79
+https://www.zillow.com/homedetails/60-Pegasus-Trl-1-Toronto-ON-M1G-3N7/442319539_zpid/,3195.0,1500.0,4.0,2.0,60 Pegasus Trl,43.781464,-79.221504,POINT (-79.221504 43.781464),Woburn North,104
+https://www.zillow.com/homedetails/62-Coe-Hill-Dr-BASEMENT-Toronto-ON-M6S-3C8/2053894313_zpid/,2800.0,1000.0,4.0,1.0,62 Coe Hill Dr,43.639843,-79.470604,POINT (-79.470604 43.639843),High Park-Swansea,37
+https://www.zillow.com/homedetails/19-Tyndall-Ave-3-Toronto-ON-M6K-2E8/2071881223_zpid/,3475.0,1750.0,4.0,1.0,19 Tyndall Ave,43.635006,-79.42732,POINT (-79.42732 43.635006),South Parkdale,144
+https://www.zillow.com/homedetails/150-Palmerston-Ave-A-Toronto-ON-M6J-2J1/401870136_zpid/,3800.0,1500.0,4.0,2.0,150 Palmerston Ave,43.65132,-79.40866,POINT (-79.40866 43.65132),Trinity-Bellwoods,10
+https://www.zillow.com/homedetails/39-Lower-Links-Rd-39-Toronto-ON-M2P-1H5/439144914_zpid/,4695.0,3000.0,4.0,3.0,39 Lower Links Rd,43.749542,-79.39891,POINT (-79.39891 43.749542),St.Andrew-Windfields,90
+https://www.zillow.com/homedetails/469-Shaw-St-C-Toronto-ON-M6G-3L4/441874974_zpid/,2275.0,525.0,0.0,1.0,469 Shaw St,43.655827,-79.42039,POINT (-79.42039 43.655827),Palmerston-Little Italy,9
+https://www.zillow.com/homedetails/50-Gerrard-St-E-233-Toronto-ON-M5B-1J6/440753828_zpid/,1990.0,345.0,0.0,1.0,50 Gerrard St E,43.65992,-79.37933,POINT (-79.37933 43.65992),Downtown Yonge East,34
+https://www.zillow.com/homedetails/25-Duffield-Rd-Toronto-ON-M9P-3C8/344990780_zpid/,1750.0,350.0,0.0,1.0,25 Duffield Rd,43.691467,-79.53269,POINT (-79.53269 43.691467),Willowridge-Martingrove-Richview,135
+https://www.zillow.com/homedetails/118-Hallam-St-Toronto-ON-M6H-1X1/2081271344_zpid/,2250.0,400.0,0.0,1.0,118 Hallam St,43.667503,-79.43089,POINT (-79.43089 43.667503),Dovercourt Village,23
+https://www.zillow.com/homedetails/3-13th-St-2-Toronto-ON-M8V-3H3/442398701_zpid/,1750.0,300.0,0.0,1.0,3 13th St,43.59501,-79.509766,POINT (-79.509766 43.59501),New Toronto,146
+https://www.zillow.com/homedetails/1788-Dufferin-St-Toronto-ON-M6E-3P4/2062374897_zpid/,2250.0,600.0,0.0,1.0,1788 Dufferin St,43.680565,-79.44439,POINT (-79.44439 43.680565),Corso Italia-Davenport,63
+https://www.zillow.com/homedetails/775-Ossington-Ave-7-Toronto-ON-M6G-3T8/442261272_zpid/,1800.0,308.0,0.0,1.0,775 Ossington Ave,43.663258,-79.425964,POINT (-79.425964 43.663258),Dovercourt Village,23
+https://www.zillow.com/homedetails/118-Roncesvalles-Ave-50076A-5-Toronto-ON-M6R-2K8/441963378_zpid/,1775.0,345.0,0.0,1.0,118 Roncesvalles Ave,43.64256,-79.448204,POINT (-79.448204 43.64256),High Park-Swansea,37
+https://www.zillow.com/homedetails/157-Jameson-Ave-Toronto-ON-M6K-2Y4/2079696150_zpid/,1809.0,710.0,0.0,1.0,157 Jameson Ave,43.637665,-79.43575,POINT (-79.43575 43.637665),South Parkdale,144
+https://www.zillow.com/homedetails/494-Avenue-Rd-Toronto-ON-M4V-2J5/440784808_zpid/,1900.0,520.0,0.0,1.0,494 Avenue Rd,43.687767,-79.40248,POINT (-79.40248 43.687767),Casa Loma,29
+https://www.zillow.com/homedetails/31-Upper-Canada-Dr-Toronto-ON-M2P-1S3/442148766_zpid/,1800.0,504.0,0.0,1.0,31 Upper Canada Dr,43.753204,-79.404366,POINT (-79.404366 43.753204),St.Andrew-Windfields,90
+https://www.zillow.com/homedetails/2110-Keele-St-911-Toronto-ON-M6M-3Z2/441148847_zpid/,1600.0,342.0,0.0,1.0,2110 Keele St,43.699997,-79.47668,POINT (-79.47668 43.699997),Brookhaven-Amesbury,148
+https://www.zillow.com/homedetails/3-Drexel-Rd-Toronto-ON-M6A-2L4/2079630171_zpid/,1635.0,445.0,0.0,1.0,3 Drexel Rd,43.72196,-79.43335,POINT (-79.43335 43.72196),Englemount-Lawrence,97
+https://www.zillow.com/homedetails/4-Latimer-Ave-Toronto-ON-M5N-2L9/2079700087_zpid/,1719.0,387.0,0.0,1.0,4 Latimer Ave,43.70321,-79.41635,POINT (-79.41635 43.70321),Forest Hill North,75
+https://www.zillow.com/homedetails/60-Tyndall-Ave-Toronto-ON-M6K-2E5/2079428098_zpid/,1800.0,371.0,0.0,1.0,60 Tyndall Ave,43.635887,-79.42872,POINT (-79.42872 43.635887),South Parkdale,144
+https://www.zillow.com/b/10-wilmington-toronto-on-CdjzrL/,1919.0,350.0,0.0,1.0,10 Wilmington Ave,43.75312,-79.453125,POINT (-79.453125 43.75312),Bathurst Manor,103
+https://www.zillow.com/homedetails/230-Lake-Promenade-Etobicoke-ON-M8W-1B1/439490317_zpid/,1925.0,372.0,0.0,1.0,230 Lake Promenade,43.58947,-79.53053,POINT (-79.53053 43.58947),Long Branch,112
+https://www.zillow.com/b/oriole-apartments-toronto-on-BfdS2m/,1895.0,445.0,0.0,1.0,1 Oriole Rd,43.68729,-79.399734,POINT (-79.399734 43.68729),Yonge-St.Clair,49
+https://www.zillow.com/homedetails/437-Jarvis-St-Toronto-ON-M4Y-2H1/2078022893_zpid/,1700.0,550.0,0.0,1.0,437 Jarvis St,43.664085,-79.37675,POINT (-79.37675 43.664085),Cabbagetown-South St.James Town,7
+https://www.zillow.com/homedetails/107-Roselawn-Ave-Toronto-ON-M4R-1E7/2078264566_zpid/,1799.0,497.0,0.0,1.0,107 Roselawn Ave,43.710007,-79.40248,POINT (-79.40248 43.710007),Yonge-Eglinton,36
+https://www.zillow.com/homedetails/182-Acton-Ave-3-Toronto-ON-M3H-4H5/439191073_zpid/,1615.0,350.0,0.0,1.0,182 Acton Ave,43.758957,-79.45592,POINT (-79.45592 43.758957),Bathurst Manor,103
+https://www.zillow.com/homedetails/40-Delisle-Ave-Toronto-ON-M4V-1S6/439843312_zpid/,2195.0,489.0,0.0,1.0,40 Delisle Ave,43.68899,-79.39673,POINT (-79.39673 43.68899),Yonge-St.Clair,49
+https://www.zillow.com/homedetails/165-Erskine-Ave-Toronto-ON-M4P-1Y8/439504115_zpid/,1810.0,445.0,0.0,1.0,165 Erskine Ave,43.712124,-79.392555,POINT (-79.392555 43.712124),North Toronto,55
+https://www.zillow.com/homedetails/345-Merton-St-Toronto-ON-M4S-1B5/2054727321_zpid/,2049.0,450.0,0.0,1.0,345 Merton St,43.697994,-79.38571,POINT (-79.38571 43.697994),Mount Pleasant East,14
+https://www.zillow.com/homedetails/11-Cannon-Rd-7-Toronto-ON-M8Y-1R8/442129845_zpid/,2050.0,400.0,0.0,1.0,11 Cannon Rd,43.633827,-79.48649,POINT (-79.48649 43.633827),Stonegate-Queensway,65
+https://www.zillow.com/homedetails/569-Broadview-Ave-Toronto-ON-M4K-2N8/2079699162_zpid/,1849.0,425.0,0.0,1.0,569 Broadview Ave,43.67247,-79.35506,POINT (-79.35506 43.67247),North Riverdale,13
+https://www.zillow.com/homedetails/200-Dufferin-St-Toronto-ON-M6K-1Z4/2079699394_zpid/,1769.0,370.0,0.0,1.0,200 Dufferin St,43.637154,-79.42709,POINT (-79.42709 43.637154),South Parkdale,144
+https://www.zillow.com/homedetails/21-Park-Blvd-Toronto-ON-M8W-1G4/439490392_zpid/,1925.0,370.0,0.0,1.0,21 Park Blvd,43.590584,-79.53031,POINT (-79.53031 43.590584),Long Branch,112
+https://www.zillow.com/homedetails/28-Maynard-Ave-50109A-105-Toronto-ON-M6K-2Z9/440899601_zpid/,1700.0,340.0,0.0,1.0,28 Maynard Ave,43.63801,-79.438034,POINT (-79.438034 43.63801),South Parkdale,144
+https://www.zillow.com/homedetails/620-Northcliffe-Blvd-Toronto-ON-M6E-3M1/2055447688_zpid/,1669.0,389.0,0.0,1.0,620 Northcliffe Blvd,43.693554,-79.44729,POINT (-79.44729 43.693554),Oakwood Village,93
+https://www.zillow.com/homedetails/41-Dundonald-St-Toronto-ON-M4Y-1K6/439503928_zpid/,1879.0,399.0,0.0,1.0,41 Dundonald St,43.66622,-79.3822,POINT (-79.3822 43.66622),Church-Wellesley,28
+https://www.zillow.com/homedetails/91-Jameson-Ave-Toronto-ON-M6K-2W9/439503774_zpid/,1800.0,354.0,0.0,1.0,91 Jameson Ave,43.635124,-79.43488,POINT (-79.43488 43.635124),South Parkdale,144
+https://www.zillow.com/homedetails/130-Rosedale-Valley-Rd-Toronto-ON-M4W-1P9/439505467_zpid/,2050.0,470.0,0.0,1.0,130 Rosedale Valley Rd,43.674168,-79.38573,POINT (-79.38573 43.674168),Rosedale-Moore Park,44
+https://www.zillow.com/b/320-avenue-road-toronto-on-ChTQKX/,1921.0,384.0,0.0,1.0,320 Avenue Rd,43.680286,-79.39923,POINT (-79.39923 43.680286),Casa Loma,29
+https://www.zillow.com/homedetails/47-Spencer-Ave-Toronto-ON-M6K-2K2/439503865_zpid/,1800.0,648.0,0.0,1.0,47 Spencer Ave,43.63576,-79.429344,POINT (-79.429344 43.63576),South Parkdale,144
+https://www.zillow.com/homedetails/200-Jameson-Ave-Toronto-ON-M6K-2Z6/2078297878_zpid/,1800.0,396.0,0.0,1.0,200 Jameson Ave,43.63982,-79.437454,POINT (-79.437454 43.63982),South Parkdale,144
+https://www.zillow.com/b/lake-promenade-community-220-lake-promenade-toronto-on-Cgy9yy/,1875.0,362.0,0.0,1.0,220 Lake Promenade,43.589737,-79.529724,POINT (-79.529724 43.589737),Long Branch,112
+https://www.zillow.com/b/666-ontario-st.-toronto-on-BZ43Vf/,1725.0,474.0,0.0,1.0,666 Ontario St,43.66948,-79.37329,POINT (-79.37329 43.66948),North St.James Town,53
+https://www.zillow.com/b/1050-castlefield-avenue-toronto-on-BtDpSR/,2065.0,573.0,0.0,1.0,1050 Castlefield Ave,43.70109,-79.45068,POINT (-79.45068 43.70109),Briar Hill-Belgravia,100
+https://www.zillow.com/homedetails/125-Lawton-Blvd-Toronto-ON-M4V-2A1/2079697183_zpid/,2049.0,495.0,0.0,1.0,125 Lawton Blvd,43.694576,-79.396866,POINT (-79.396866 43.694576),Yonge-St.Clair,49
+https://www.zillow.com/homedetails/110-Erskine-Ave-Toronto-ON-M4P-1Y4/439504075_zpid/,1820.0,460.0,0.0,1.0,110 Erskine Ave,43.71225,-79.39519,POINT (-79.39519 43.71225),North Toronto,55
+https://www.zillow.com/homedetails/7-Summerland-Ter-Toronto-ON-M9A-0B6/2079339933_zpid/,1960.0,411.0,0.0,1.0,7 Summerland Ter,43.643448,-79.531975,POINT (-79.531975 43.643448),Etobicoke City Centre,64
+https://www.zillow.com/homedetails/1000-Mount-Pleasant-Rd-Toronto-ON-M4P-2M2/439503651_zpid/,2195.0,500.0,0.0,1.0,1000 Mount Pleasant Rd,43.713287,-79.392334,POINT (-79.392334 43.713287),North Toronto,55
+https://www.zillow.com/homedetails/140-Erskine-Ave-Toronto-ON-M4P-1Z2/439503991_zpid/,1805.0,390.0,0.0,1.0,140 Erskine Ave,43.712425,-79.39378,POINT (-79.39378 43.712425),North Toronto,55
+https://www.zillow.com/homedetails/54-Raglan-Ave-Toronto-ON-M6C-2L1/2053082003_zpid/,1669.0,371.0,0.0,1.0,54 Raglan Ave,43.684532,-79.42053,POINT (-79.42053 43.684532),Humewood-Cedarvale,59
+https://www.zillow.com/homedetails/7-Walmer-Rd-Toronto-ON-M5R-2W8/2077319602_zpid/,1799.0,388.0,0.0,1.0,7 Walmer Rd,43.666855,-79.40547,POINT (-79.40547 43.666855),Annex,12
+https://www.zillow.com/b/122-dowling-avenue-toronto-on-BsV3Cp/,1750.0,323.0,0.0,1.0,122 Dowling Ave,43.636765,-79.43895,POINT (-79.43895 43.636765),South Parkdale,144
+https://www.zillow.com/b/islington-apartments-etobicoke-on-BfPg4q/,1750.0,305.0,0.0,1.0,148 Islington Ave,43.601467,-79.50585,POINT (-79.50585 43.601467),New Toronto,146
+https://www.zillow.com/b/eastmount-apartments-toronto-on-BfdSW8/,1955.0,390.0,0.0,1.0,33 Eastmount Ave,43.679005,-79.36129,POINT (-79.36129 43.679005),Playter Estates-Danforth,40
+https://www.zillow.com/b/2292-weston-road-toronto-on-BXKjVQ/,1956.0,386.0,0.0,1.0,2292 Weston Rd,43.7049,-79.5296,POINT (-79.5296 43.7049),Weston,155
+https://www.zillow.com/homedetails/3-Summerland-Ter-Toronto-ON-M9A-0B4/439490253_zpid/,1975.0,372.0,0.0,1.0,3 Summerland Ter,43.643173,-79.532364,POINT (-79.532364 43.643173),Etobicoke City Centre,64
+https://www.zillow.com/homedetails/2903-Saint-Clair-Ave-E-Toronto-ON-M4B-1N5/423502076_zpid/,1599.0,400.0,0.0,1.0,2903 Saint Clair Ave E,43.70773,-79.30127,POINT (-79.30127 43.70773),O'Connor-Parkview,120
+https://www.zillow.com/b/the-whitney-on-redpath-toronto-on-BMWMwX/,2360.0,452.0,0.0,1.0,71 Redpath Ave,43.70603,-79.39188,POINT (-79.39188 43.70603),South Eglinton-Davisville,20
+https://www.zillow.com/homedetails/52-Power-St-Toronto-ON-M5A-3A6/441813532_zpid/,1643.0,446.0,0.0,1.0,52 Power St,43.654533,-79.36316,POINT (-79.36316 43.654533),Moss Park,69
+https://www.zillow.com/homedetails/190-Jameson-Ave-50037A-102-Toronto-ON-M6K-2Z5/439490231_zpid/,1700.0,298.0,0.0,1.0,190 Jameson Ave,43.639347,-79.43723,POINT (-79.43723 43.639347),South Parkdale,144
+https://www.zillow.com/b/mimico-estates-toronto-on-BdyGnY/,1790.0,550.0,0.0,1.0,2527 Lake Shore Blvd W,43.610226,-79.48902,POINT (-79.48902 43.610226),Mimico-Queensway,123
+https://www.zillow.com/homedetails/40-Gerrard-St-E-Toronto-ON-M5B-2E8/2077319589_zpid/,1999.0,454.0,0.0,1.0,40 Gerrard St E,43.659843,-79.38048,POINT (-79.38048 43.659843),Downtown Yonge East,34
+https://www.zillow.com/b/391-sherbourne-street-toronto-on-CBBwXZ/,1945.0,385.0,0.0,1.0,391 Sherbourne St,43.664352,-79.37304,POINT (-79.37304 43.664352),Cabbagetown-South St.James Town,7
+https://www.zillow.com/homedetails/1862-Bathurst-St-Toronto-ON-M5P-3K8/2079697961_zpid/,1699.0,300.0,0.0,1.0,1862 Bathurst St,43.6976,-79.42457,POINT (-79.42457 43.6976),Humewood-Cedarvale,59
+https://www.zillow.com/b/yonge-eglinton-apartments-duplex-toronto-on-BP3jMC/,2005.0,360.0,0.0,1.0,411 Duplex Ave,43.70734,-79.40026,POINT (-79.40026 43.70734),Yonge-Eglinton,36
+https://www.zillow.com/homedetails/88-Bloor-St-E-Toronto-ON-M4W-3G9/2077319594_zpid/,2099.0,380.0,0.0,1.0,88 Bloor St E,43.670856,-79.38501,POINT (-79.38501 43.670856),Rosedale-Moore Park,44
+https://www.zillow.com/b/115-dowling-avenue-toronto-on-Bk5YMR/,1933.0,436.0,0.0,1.0,115 Dowling Ave,43.636353,-79.438065,POINT (-79.438065 43.636353),South Parkdale,144
+https://www.zillow.com/b/yonge-eglinton-apartments-orchard-view-toronto-on-BfdSjg/,1955.0,400.0,0.0,1.0,33 Orchard View Blvd,43.70782,-79.39939,POINT (-79.39939 43.70782),Yonge-Eglinton,36
+https://www.zillow.com/b/the-203-residences-toronto-on-BMLF7m/,2170.0,367.0,0.0,1.0,203 Jarvis St,43.65566,-79.37363,POINT (-79.37363 43.65566),Moss Park,69
+https://www.zillow.com/b/lake-promenade-community-240-lake-promenade-toronto-on-Cgy9yz/,1875.0,372.0,0.0,1.0,240 Lake Promenade,43.589264,-79.531395,POINT (-79.531395 43.589264),Long Branch,112
+https://www.zillow.com/homedetails/33-Holly-St-Toronto-ON-M4S-2G8/439505201_zpid/,1750.0,450.0,0.0,1.0,33 Holly St,43.7059,-79.39618,POINT (-79.39618 43.7059),South Eglinton-Davisville,20
+https://www.zillow.com/b/263-265-russell-hill-road-toronto-on-BmJcwj/,1850.0,302.0,0.0,1.0,263 Russell Hill Rd,43.685104,-79.40729,POINT (-79.40729 43.685104),Casa Loma,29
+https://www.zillow.com/b/40-pleasant-blvd-toronto-on-BcVpNY/,1899.0,400.0,0.0,1.0,40 Pleasant Blvd,43.687595,-79.39243,POINT (-79.39243 43.687595),Rosedale-Moore Park,44
+https://www.zillow.com/b/west22-toronto-on-BfdS9v/,1920.0,503.0,0.0,1.0,22 John St,43.70187,-79.51766,POINT (-79.51766 43.70187),Weston,155
+https://www.zillow.com/b/the-roe-toronto-on-BdVF4C/,2199.0,936.0,0.0,1.0,150 Roehampton Ave,43.70911,-79.394424,POINT (-79.394424 43.70911),North Toronto,55
+https://www.zillow.com/b/137-isabella-st-toronto-on-CcH8DZ/,1795.0,434.0,0.0,1.0,137 Isabella St,43.669163,-79.376816,POINT (-79.376816 43.669163),North St.James Town,53
+https://www.zillow.com/b/mirvish-village-toronto-on-CgdQv8/,2295.0,400.0,0.0,1.0,748 Bathurst St,43.664093,-79.411026,POINT (-79.411026 43.664093),Palmerston-Little Italy,9
+https://www.zillow.com/homedetails/214-Wellesley-St-E-308-Toronto-ON-M4X-1G2/2062358748_zpid/,1645.0,330.0,0.0,1.0,214 Wellesley St E,43.667763,-79.37303,POINT (-79.37303 43.667763),North St.James Town,53
+https://www.zillow.com/b/188-jameson-avenue-toronto-on-Bd7JC4/,1750.0,495.0,0.0,1.0,188 Jameson Ave,43.639126,-79.43715,POINT (-79.43715 43.639126),South Parkdale,144
+https://www.zillow.com/b/tower-hill-east-toronto-on-BR8r6Z/,2100.0,489.0,0.0,1.0,330 Spadina Rd,43.683502,-79.41116,POINT (-79.41116 43.683502),Casa Loma,29
+https://www.zillow.com/b/wellesley-apartments-toronto-on-BVJR35/,1895.0,325.0,0.0,1.0,100 Wellesley St E,43.666553,-79.3792,POINT (-79.3792 43.666553),Church-Wellesley,28
+https://www.zillow.com/homedetails/433-Sherbourne-St-Toronto-ON-M4X-1K5/2062386920_zpid/,1550.0,500.0,0.0,1.0,433 Sherbourne St,43.66541,-79.37346,POINT (-79.37346 43.66541),Cabbagetown-South St.James Town,7
+https://www.zillow.com/homedetails/75-Spencer-Ave-Toronto-ON-M6K-2K3/2079539672_zpid/,1699.0,450.0,0.0,1.0,75 Spencer Ave,43.6368,-79.429855,POINT (-79.429855 43.6368),South Parkdale,144
+https://www.zillow.com/homedetails/15-Eastwood-Rd-0-Toronto-ON-M4L-2C4/432952185_zpid/,1749.0,400.0,0.0,1.0,15 Eastwood Rd,43.672817,-79.31848,POINT (-79.31848 43.672817),Woodbine Corridor,42
+https://www.zillow.com/b/2360-weston-rd.-toronto-on-Bhv3c9/,1920.0,284.0,0.0,1.0,2360 Weston Rd,43.705894,-79.5317,POINT (-79.5317 43.705894),Weston,155
+https://www.zillow.com/apartments/toronto-on/birch-house-at-canary-landing/CgNwgJ/,2335.0,384.0,0.0,1.0,100 Mill St,43.651714,-79.357025,POINT (-79.357025 43.651714),St Lawrence-East Bayfront-The Islands,35
+https://www.zillow.com/b/35-walmer-road-toronto-on-BbCCPc/,2170.0,393.0,0.0,1.0,35 Walmer Rd,43.669144,-79.405624,POINT (-79.405624 43.669144),Annex,12
+https://www.zillow.com/b/205-morningside-avenue-scarborough-on-BhD674/,1929.0,481.0,0.0,1.0,205 Morningside Ave,43.765408,-79.18483,POINT (-79.18483 43.765408),West Hill,156
+https://www.zillow.com/b/toronto-house-toronto-on-CgdQv4/,2350.0,400.0,0.0,1.0,225 Adelaide St W,43.648174,-79.38801,POINT (-79.38801 43.648174),Wellington Place,5
+https://www.zillow.com/homedetails/9-Crescent-Pl-Toronto-ON-M4C-5L8/2055453770_zpid/,1679.0,420.0,0.0,1.0,9 Crescent Pl,43.69565,-79.29129,POINT (-79.29129 43.69565),Taylor-Massey,61
+https://www.zillow.com/b/trilogy-on-king-toronto-on-BVLFDC/,2341.0,440.0,0.0,1.0,1100 King St W,43.64008,-79.423325,POINT (-79.423325 43.64008),South Parkdale,144
+https://www.zillow.com/b/2263-weston-rd.-toronto-on-BqFJSf/,2187.0,396.0,0.0,1.0,2263 Weston Rd,43.70483,-79.52824,POINT (-79.52824 43.70483),Weston,155
+https://www.zillow.com/b/70-gloucester-street-toronto-on-Cg7q3L/,1795.0,405.0,0.0,1.0,70 Gloucester St,43.66751,-79.381996,POINT (-79.381996 43.66751),Church-Wellesley,28
+https://www.zillow.com/b/prince-arthur-toronto-on-BjtXsm/,2195.0,500.0,0.0,1.0,20 Prince Arthur Ave,43.6699,-79.39656,POINT (-79.39656 43.6699),Annex,12
+https://www.zillow.com/b/111-oriole-parkway-toronto-on-CbvsQV/,1800.0,519.0,0.0,1.0,111 Oriole Pkwy,43.69678,-79.40247,POINT (-79.40247 43.69678),Yonge-St.Clair,49
+https://www.zillow.com/homedetails/262-Jarvis-St-Toronto-ON-M5B-2B9/2055456412_zpid/,2040.0,502.0,0.0,1.0,262 Jarvis St,43.659657,-79.37605,POINT (-79.37605 43.659657),Downtown Yonge East,34
+https://www.zillow.com/b/155-wellesley-street-east-toronto-on-Bfk2T7/,2059.0,439.0,0.0,1.0,155 Wellesley St E,43.666355,-79.37537,POINT (-79.37537 43.666355),Cabbagetown-South St.James Town,7
+https://www.zillow.com/homedetails/22-Robina-Ave-20-Toronto-ON-M6C-3Y6/439505162_zpid/,1549.0,450.0,0.0,1.0,22 Robina Ave,43.680756,-79.43543,POINT (-79.43543 43.680756),Oakwood Village,93
+https://www.zillow.com/b/forest-hill-toronto-on-C2CCXj/,1749.0,500.0,0.0,1.0,780 Eglinton Ave W,43.70196,-79.4227,POINT (-79.4227 43.70196),Forest Hill North,75
+https://www.zillow.com/homedetails/151-Saint-George-St-603-Toronto-ON-M5R-2L9/2055454098_zpid/,2200.0,500.0,0.0,1.0,151 Saint George St,43.66946,-79.400154,POINT (-79.400154 43.66946),Annex,12
+https://www.zillow.com/homedetails/291-Avenue-Rd-Toronto-ON-M4V-2G9/2079291466_zpid/,1798.0,371.0,0.0,1.0,291 Avenue Rd,43.679363,-79.39812,POINT (-79.39812 43.679363),Yonge-St.Clair,49
+https://www.zillow.com/b/fisherville-toronto-on-BfdSmg/,2110.0,502.0,0.0,1.0,25 Fisherville Rd,43.788876,-79.44898,POINT (-79.44898 43.788876),Westminster-Branson,110
+https://www.zillow.com/b/the-stack-toronto-on-CbHKbp/,2115.0,464.0,0.0,1.0,730 Hillsdale Ave E,43.70792,-79.37636,POINT (-79.37636 43.70792),Mount Pleasant East,14
+https://www.zillow.com/b/skyliner-toronto-on-Cc9NdR/,1950.0,500.0,0.0,1.0,224 Saint George St,43.671425,-79.40198,POINT (-79.40198 43.671425),Annex,12
+https://www.zillow.com/b/1101-bay-toronto-on-Bfcb8S/,2095.0,411.0,0.0,1.0,1101 Bay St,43.667763,-79.38841,POINT (-79.38841 43.667763),Bay-Cloverhill,8
+https://www.zillow.com/b/100-gloucester-street-toronto-on-BsQfTG/,1849.0,447.0,0.0,1.0,100 Gloucester St,43.66806,-79.379776,POINT (-79.379776 43.66806),Church-Wellesley,28
+https://www.zillow.com/b/2240-weston-rd.-toronto-on-BfdSxx/,1915.0,360.0,0.0,1.0,2240 Weston Rd,43.704018,-79.52819,POINT (-79.52819 43.704018),Weston,155
+https://www.zillow.com/b/919-dufferin-toronto-on-BgrJVr/,2079.0,410.0,0.0,1.0,919 Dufferin St,43.657562,-79.434006,POINT (-79.434006 43.657562),Dufferin Grove,26
+https://www.zillow.com/b/1903-bayview-avenue-toronto-on-CbvrP8/,1922.0,441.0,0.0,1.0,1903 Bayview Ave,43.71572,-79.37754,POINT (-79.37754 43.71572),Leaside-Bennington,19
+https://www.zillow.com/homedetails/149-Saint-George-St-608-Toronto-ON-M5R-2L9/2053855009_zpid/,1800.0,500.0,0.0,1.0,149 Saint George St,43.669308,-79.40009,POINT (-79.40009 43.669308),Annex,12
+https://www.zillow.com/homedetails/300-Winnett-Ave-Toronto-ON-M6C-3L9/2053368463_zpid/,1695.0,417.0,0.0,1.0,300 Winnett Ave,43.691635,-79.434494,POINT (-79.434494 43.691635),Oakwood Village,93
+https://www.zillow.com/b/338-donlands-ave.-toronto-on-C7sZ2p/,1924.0,368.0,0.0,1.0,338 Donlands Ave,43.692837,-79.342674,POINT (-79.342674 43.692837),Old East York,45
+https://www.zillow.com/b/1833-bayview-ave.-east-york-on-Cbvv4C/,1827.0,469.0,0.0,1.0,1833 Bayview Ave,43.71286,-79.37704,POINT (-79.37704 43.71286),Leaside-Bennington,19
+https://www.zillow.com/b/26-albert-avenue-toronto-on-BrGzgH/,1958.0,392.0,0.0,1.0,26 Albert Ave,43.61624,-79.48927,POINT (-79.48927 43.61624),Mimico-Queensway,123
+https://www.zillow.com/b/2892-st.-clair-ave.-e-toronto-on-C3s2G8/,1849.0,399.0,0.0,1.0,2892 Saint Clair Ave E,43.707966,-79.30243,POINT (-79.30243 43.707966),O'Connor-Parkview,120
+https://www.zillow.com/homedetails/2367-Queen-St-E-9-Toronto-ON-M4E-1H2/423487792_zpid/,1799.0,348.0,0.0,1.0,2367 Queen St E,43.67217,-79.2883,POINT (-79.2883 43.67217),The Beaches,43
+https://www.zillow.com/homedetails/82-Warren-Rd-207-Toronto-ON-M4V-2R7/2071846839_zpid/,1999.0,414.0,0.0,1.0,82 Warren Rd,43.68535,-79.40674,POINT (-79.40674 43.68535),Casa Loma,29
+https://www.zillow.com/homedetails/88-Erskine-Ave-Toronto-ON-M4P-1Y3/2078268563_zpid/,1830.0,400.0,0.0,1.0,88 Erskine Ave,43.712006,-79.395874,POINT (-79.395874 43.712006),North Toronto,55
+https://www.zillow.com/b/100-cosburn-ave.-toronto-on-BfpLct/,1782.0,370.0,0.0,1.0,100 Cosburn Ave,43.68945,-79.350044,POINT (-79.350044 43.68945),Broadview North,70
+https://www.zillow.com/homedetails/200-Balliol-St-Toronto-ON-M4S-1C6/2077653900_zpid/,1825.0,465.0,0.0,1.0,200 Balliol St,43.69922,-79.39008,POINT (-79.39008 43.69922),South Eglinton-Davisville,20
+https://www.zillow.com/b/cambridge-place-apartments-scarborough-on-BqhYhw/,1795.0,491.0,0.0,1.0,30 Denton Ave,43.693977,-79.2877,POINT (-79.2877 43.693977),Oakridge,125
+https://www.zillow.com/b/250-roehampton-avenue-toronto-on-CJNWmF/,1899.0,433.0,0.0,1.0,250 Roehampton Ave,43.709743,-79.39154,POINT (-79.39154 43.709743),North Toronto,55
+https://www.zillow.com/b/15-dundonald-street-toronto-on-BW27Wx/,1957.0,394.0,0.0,1.0,15 Dundonald St,43.665737,-79.38389,POINT (-79.38389 43.665737),Church-Wellesley,28
+https://www.zillow.com/b/65-hillside-dr.-toronto-on-Cdwr24/,1937.0,417.0,0.0,1.0,65A Hillside Dr,43.6897,-79.356186,POINT (-79.356186 43.6897),Broadview North,70
+https://www.zillow.com/b/105-isabella-street-toronto-on-BW2X67/,1844.0,433.0,0.0,1.0,105 Isabella St,43.66847,-79.37997,POINT (-79.37997 43.66847),Church-Wellesley,28
+https://www.zillow.com/b/18-skipton-court-north-york-on-BV8Tcz/,1699.0,468.0,0.0,1.0,18 Skipton Ct,43.737362,-79.492714,POINT (-79.492714 43.737362),Downsview,136
+https://www.zillow.com/b/915-st-clair-avenue-west-toronto-on-BMNN5h/,1995.0,359.0,0.0,1.0,915 Saint Clair Ave W,43.67969,-79.43395,POINT (-79.43395 43.67969),Wychwood,22
+https://www.zillow.com/homedetails/90-Jameson-Ave-Toronto-ON-M6K-2X6/2079428072_zpid/,1799.0,407.0,0.0,1.0,90 Jameson Ave,43.63438,-79.43535,POINT (-79.43535 43.63438),South Parkdale,144
+https://www.zillow.com/b/1065-eglinton-ave-west-toronto-on-BfcbT2/,1970.0,374.0,0.0,1.0,1065 Eglinton Ave W,43.6989,-79.43402,POINT (-79.43402 43.6989),Humewood-Cedarvale,59
+https://www.zillow.com/homedetails/1-Homewood-Ave-Toronto-ON-M4Y-2J8/2079268868_zpid/,1649.0,300.0,0.0,1.0,1 Homewood Ave,43.663254,-79.3742,POINT (-79.3742 43.663254),Cabbagetown-South St.James Town,7
+https://www.zillow.com/b/24-tyndall-avenue-toronto-on-BqfLSC/,1932.0,426.0,0.0,1.0,24 Tyndall Ave,43.635128,-79.42848,POINT (-79.42848 43.635128),South Parkdale,144
+https://www.zillow.com/b/royale-apartments-toronto-on-CbvsmM/,1800.0,475.0,0.0,1.0,368 Eglinton Ave E,43.709465,-79.386894,POINT (-79.386894 43.709465),Mount Pleasant East,14
+https://www.zillow.com/b/555-the-west-mall-toronto-on-BhfD68/,1980.0,373.0,0.0,1.0,555 The West Mall,43.652443,-79.570435,POINT (-79.570435 43.652443),Etobicoke West Mall,121
+https://www.zillow.com/b/the-campbell-toronto-on-BMLDwX/,2195.0,454.0,0.0,1.0,299 Campbell Ave,43.66574,-79.44945,POINT (-79.44945 43.66574),Junction-Wallace Emerson,50
+https://www.zillow.com/b/166-wilson-avenue-toronto-on-BpjrFL/,1708.0,372.0,0.0,1.0,166 Wilson Ave,43.740402,-79.420906,POINT (-79.420906 43.740402),Bedford Park-Nortown,46
+https://www.zillow.com/homedetails/432-Jarvis-St-Toronto-ON-M4Y-2H3/2078022835_zpid/,1700.0,450.0,0.0,1.0,432 Jarvis St,43.665283,-79.3783,POINT (-79.3783 43.665283),Church-Wellesley,28
+https://www.zillow.com/homedetails/138-Wellesley-St-E-Toronto-ON-M4Y-1J1/2057523757_zpid/,1700.0,650.0,0.0,1.0,138 Wellesley St E,43.666824,-79.377174,POINT (-79.377174 43.666824),North St.James Town,53
+https://www.zillow.com/b/55-triller-avenue-toronto-on-BdyGrb/,1704.0,419.0,0.0,1.0,55 Triller Ave,43.64,-79.44367,POINT (-79.44367 43.64),Roncesvalles,25
+https://www.zillow.com/b/4750-bathurst-street-toronto-on-C79M2w/,1790.0,336.0,0.0,1.0,4750 Bathurst St,43.767933,-79.44201,POINT (-79.44201 43.767933),Westminster-Branson,110
+https://www.zillow.com/homedetails/150-Dowling-Ave-Toronto-ON-M6K-3A8/2079698087_zpid/,1757.0,450.0,0.0,1.0,150 Dowling Ave,43.63784,-79.43951,POINT (-79.43951 43.63784),South Parkdale,144
+https://www.zillow.com/homedetails/2346-Weston-Rd-Toronto-ON-M9N-1Y9/343622284_zpid/,1427.0,376.0,0.0,1.0,2346 Weston Rd,43.705784,-79.53124,POINT (-79.53124 43.705784),Weston,155
+https://www.zillow.com/b/montgomery-mills-24-mabelle-ave.-etobicoke-on-BS4tTB/,1775.0,515.0,0.0,1.0,24 Mabelle Ave PENTHOUSE 209,43.646587,-79.527145,POINT (-79.527145 43.646587),Etobicoke City Centre,64
+https://www.zillow.com/b/45-forty-second-st.-etobicoke-on-BfdT44/,2173.0,502.0,0.0,1.0,45 42nd St,43.588276,-79.542816,POINT (-79.542816 43.588276),Long Branch,112
+https://www.zillow.com/homedetails/160-Huron-St-Toronto-ON-M5T-2B5/442405661_zpid/,1650.0,250.0,0.0,1.0,160 Huron St,43.657063,-79.39807,POINT (-79.39807 43.657063),Kensington-Chinatown,48
