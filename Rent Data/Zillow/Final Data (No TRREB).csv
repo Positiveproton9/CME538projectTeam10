@@ -1,0 +1,731 @@
+Listing ID,Source,Address,Bedrooms,Bathrooms,Living Area (sqft),Latitude,Longitude,Neighbourhood,Neighbourhood Rank,Rent Price (CAD)
+2063459583,Zillow,413 Markham St,1.0,1.0,900.0,43.66035,-79.41031,Palmerston-Little Italy,9.0,2400.0
+2054131263,Zillow,1221 King St W,1.0,1.0,500.0,43.638584,-79.427666,South Parkdale,144.0,2200.0
+2079696219,Zillow,47 Lower River St,1.0,1.0,500.0,43.656498,-79.35554,Moss Park,69.0,2200.0
+442326900,Zillow,120 Rowntree Mill Rd,1.0,1.0,800.0,43.7535,-79.577644,Humber Summit,151.0,1645.0
+442260890,Zillow,1100 Sheppard Ave W,1.0,1.0,626.0,43.75193,-79.4667,York University Heights,145.0,2400.0
+442256079,Zillow,2839 Keele St,1.0,1.0,600.0,43.732067,-79.48294,Downsview,136.0,2150.0
+442319710,Zillow,368 George St,1.0,1.0,550.0,43.659748,-79.374695,Moss Park,69.0,1749.0
+442151118,Zillow,1 Thyra Ave,1.0,1.0,550.0,43.691334,-79.29028,Taylor-Massey,61.0,2195.0
+442151037,Zillow,130 Lakeridge Dr,1.0,1.0,1200.0,43.775177,-79.13667,Centennial Scarborough,66.0,1755.0
+442083099,Zillow,812 Sudbury St,1.0,1.0,580.0,43.640938,-79.42296,Little Portugal,38.0,2300.0
+2079698966,Zillow,140 Carlton St,1.0,1.0,750.0,43.663155,-79.37519,Cabbagetown-South St.James Town,7.0,2250.0
+442102967,Zillow,900 Mount Pleasant Rd,1.0,1.0,600.0,43.711735,-79.39191,North Toronto,55.0,2400.0
+2069752428,Zillow,212 Eglinton Ave E,1.0,1.0,608.0,43.708378,-79.3921,North Toronto,55.0,2550.0
+442026123,Zillow,671 Crawford St,1.0,1.0,635.0,43.6613,-79.42118,Palmerston-Little Italy,9.0,2450.0
+441725633,Zillow,188 Redpath Ave,1.0,1.0,670.0,43.709927,-79.393906,North Toronto,55.0,2300.0
+441580301,Zillow,40 Nanton Ave,1.0,1.0,1000.0,43.67585,-79.3722,Rosedale-Moore Park,44.0,3500.0
+2067535432,Zillow,30 Canterbury Pl,1.0,1.0,700.0,43.773167,-79.41544,Willowdale West,54.0,2499.0
+441702453,Zillow,373 Markham St,1.0,1.0,450.0,43.658653,-79.40964,Palmerston-Little Italy,9.0,1699.0
+441552832,Zillow,51 Richardson Ave,1.0,1.0,650.0,43.69396,-79.47228,Beechborough-Greenbrook,153.0,1750.0
+439813097,Zillow,798 Ossington Ave,1.0,1.0,900.0,43.663624,-79.42659,Dovercourt Village,23.0,2400.0
+440623226,Zillow,132 Silverhill Dr,1.0,1.0,800.0,43.631847,-79.55065,Etobicoke City Centre,64.0,1900.0
+407207193,Zillow,1864 Danforth Ave,1.0,1.0,900.0,43.684925,-79.31732,Danforth,1.0,2500.0
+439183000,Zillow,3321 Dundas St W,1.0,1.0,800.0,43.665386,-79.48082,Junction Area,41.0,1950.0
+345679167,Zillow,28 Macpherson Ave,1.0,1.0,680.0,43.679073,-79.39192,Annex,12.0,2330.0
+442365867,Zillow,135 Maitland St,1.0,1.0,550.0,43.664978,-79.37821,Church-Wellesley,28.0,2300.0
+2054139387,Zillow,196 Exbury Rd,1.0,1.0,871.0,43.728775,-79.509056,Oakdale-Beverley Heights,154.0,2499.0
+436330002,Zillow,2720 Dundas St W,1.0,1.0,650.0,43.66509,-79.459694,Junction Area,41.0,2600.0
+2055456658,Zillow,101 Driftwood Ave,1.0,1.0,700.0,43.754513,-79.51328,Glenfield-Jane Heights,143.0,1999.0
+2070097961,Zillow,21 Carlton St,1.0,1.0,550.0,43.661102,-79.38193,Downtown Yonge East,34.0,2450.0
+442350570,Zillow,295 Wright Ave,1.0,1.0,800.0,43.644062,-79.454796,High Park-Swansea,37.0,2400.0
+442350276,Zillow,70 Heath St W,1.0,1.0,698.0,43.689915,-79.39863,Yonge-St.Clair,49.0,2350.0
+442350277,Zillow,135 Lawton Blvd,1.0,1.0,640.0,43.69491,-79.39688,Yonge-St.Clair,49.0,2350.0
+2070341761,Zillow,200 Bloor St W,1.0,1.0,550.0,43.66874,-79.39542,Annex,12.0,2450.0
+2071887383,Zillow,25 Telegram Mews,1.0,1.0,650.0,43.640995,-79.39457,Harbourfront-CityPlace,21.0,2550.0
+442325115,Zillow,90 Canon Jackson Dr E,1.0,1.0,599.0,43.69802,-79.47222,Beechborough-Greenbrook,153.0,2250.0
+442325116,Zillow,2500 Bridletowne Cir,1.0,1.0,899.0,43.801365,-79.3177,East L'Amoreaux,85.0,2300.0
+442312917,Zillow,3830 Bathurst St,1.0,1.0,899.0,43.739513,-79.434944,Clanton Park,76.0,2699.0
+442312918,Zillow,5 Brookbanks Dr,1.0,1.0,1199.0,43.751858,-79.33335,Parkwoods-O'Connor Hills,115.0,2650.0
+442306839,Zillow,317 The Kingsway,1.0,1.0,750.0,43.665073,-79.52345,Edenbridge-Humber Valley,84.0,2199.0
+442289375,Zillow,125 Isaac Devins Blvd,1.0,1.0,700.0,43.731136,-79.53174,Pelmo Park-Humberlea,91.0,2000.0
+2057216620,Zillow,336 Ossington Ave,1.0,1.0,700.0,43.651768,-79.42191,Trinity-Bellwoods,10.0,2300.0
+440959429,Zillow,9 Wingreen Ct,1.0,1.0,675.0,43.7386,-79.34322,Banbury-Don Mills,78.0,2300.0
+2054937825,Zillow,2033 Kennedy Rd,1.0,1.0,699.0,43.797707,-79.29501,East L'Amoreaux,85.0,2300.0
+2066368953,Zillow,1720 Eglinton Ave E,1.0,1.0,700.0,43.72638,-79.31152,Victoria Village,129.0,2500.0
+442182157,Zillow,12 Rusholme Dr,1.0,1.0,668.0,43.65006,-79.42855,Little Portugal,38.0,2474.0
+2078964856,Zillow,801 King St W,1.0,1.0,660.0,43.642742,-79.407074,West Queen West,2.0,2500.0
+441866636,Zillow,484 Avenue Rd,1.0,1.0,722.0,43.68731,-79.40233,Casa Loma,29.0,2250.0
+2079392885,Zillow,2265 Victoria Park Ave,1.0,1.0,620.0,43.762814,-79.31678,Wexford/Maryvale,128.0,2330.0
+442131672,Zillow,5 Brockley Dr,1.0,1.0,660.0,43.753483,-79.26263,Bendale-Glen Andrew,124.0,2375.0
+442131615,Zillow,445 Eglinton Ave E,1.0,1.0,777.0,43.709652,-79.38263,Mount Pleasant East,14.0,2100.0
+2071869294,Zillow,87 Dovercourt Rd,1.0,1.0,750.0,43.642612,-79.42183,West Queen West,2.0,2200.0
+442306775,Zillow,318 King St E,1.0,1.0,550.0,43.652588,-79.36379,Moss Park,69.0,2350.0
+2054308142,Zillow,3171 Bathurst St,1.0,1.0,650.0,43.722095,-79.43005,Bedford Park-Nortown,46.0,2459.0
+2064252464,Zillow,577 Annette St,1.0,1.0,600.0,43.65969,-79.48082,Runnymede-Bloor West Village,3.0,1695.0
+2084859151,Zillow,50 Brian Harrison Way,1.0,1.0,697.0,43.773823,-79.25895,Bendale-Glen Andrew,124.0,2475.0
+441147017,Zillow,201 Carlaw Ave,1.0,1.0,699.0,43.662476,-79.340065,South Riverdale,58.0,3000.0
+441734800,Zillow,1220 Bayview Ave,1.0,1.0,558.0,43.696426,-79.37204,Leaside-Bennington,19.0,2150.0
+441175295,Zillow,45 Balliol St,1.0,1.0,669.0,43.69736,-79.395,South Eglinton-Davisville,20.0,2249.0
+2055452720,Zillow,2190 Weston Rd,1.0,1.0,580.0,43.703114,-79.52653,Weston,155.0,2150.0
+2053264708,Zillow,1A Vermont Ave,1.0,1.0,700.0,43.671906,-79.414246,Annex,12.0,2099.0
+2081182359,Zillow,381 Front St W,1.0,1.0,699.0,43.642868,-79.39278,Harbourfront-CityPlace,21.0,2490.0
+440401411,Zillow,60 Jones Ave,1.0,1.0,400.0,43.66413,-79.33371,South Riverdale,58.0,1800.0
+2071830467,Zillow,31 Upper Canada Dr,1.0,1.0,720.0,43.753204,-79.404366,St.Andrew-Windfields,90.0,2000.0
+439506151,Zillow,24 Forest Manor Rd,1.0,1.0,694.0,43.771057,-79.34464,Henry Farm,88.0,2285.0
+2070420647,Zillow,88 Scott St,1.0,1.0,595.0,43.648415,-79.376465,Downtown Yonge East,34.0,2500.0
+440784809,Zillow,494 Avenue Rd UNIT A,1.0,1.0,625.0,43.687767,-79.40248,Casa Loma,29.0,2195.0
+440984025,Zillow,2407 Lake Shore Blvd W,1.0,1.0,600.0,43.61423,-79.488716,Humber Bay Shores,68.0,1945.0
+2084217467,Zillow,238 Bonis Ave,1.0,1.0,647.0,43.785908,-79.289856,Tam O'Shanter-Sullivan,99.0,2450.0
+440541746,Zillow,100 Falstaff Ave,1.0,1.0,600.0,43.717358,-79.49951,Rustic,150.0,2000.0
+439490489,Zillow,225 Davisville Ave,1.0,1.0,530.0,43.69957,-79.38822,South Eglinton-Davisville,20.0,2025.0
+441626275,Zillow,21 Richardson St,1.0,1.0,400.0,43.645042,-79.36796,St Lawrence-East Bayfront-The Islands,35.0,1995.0
+2075684927,Zillow,38 Iannuzzi St,1.0,1.0,599.0,43.63716,-79.40099,Fort York-Liberty Village,52.0,2500.0
+2067748887,Zillow,80 John St,1.0,1.0,448.0,43.64684,-79.39027,Wellington Place,5.0,2350.0
+2067272275,Zillow,2800 Keele St,1.0,1.0,488.0,43.728653,-79.48333,Downsview,136.0,2120.0
+442149605,Zillow,4500 Jane St,1.0,1.0,842.0,43.766468,-79.52048,Black Creek,157.0,2419.0
+2087449298,Zillow,88 Queen St E,1.0,1.0,518.0,43.65368,-79.37465,Downtown Yonge East,34.0,2100.0
+440751159,Zillow,9 Craigton Dr,1.0,1.0,673.0,43.726833,-79.30211,Wexford/Maryvale,128.0,1999.0
+442408103,Zillow,125 Blue Jays Way,1.0,1.0,550.0,43.645805,-79.39205,Wellington Place,5.0,2650.0
+442325123,Zillow,60 Princess St,1.0,2.0,550.0,43.6498,-79.36653,St Lawrence-East Bayfront-The Islands,35.0,2400.0
+378307887,Zillow,300 Saint Clair Ave W,1.0,1.0,744.0,43.685074,-79.41073,Casa Loma,29.0,2500.0
+440160225,Zillow,650 Woodbine Ave,1.0,1.0,600.0,43.678288,-79.310135,Woodbine Corridor,42.0,2325.0
+2078022859,Zillow,120 Maitland St,1.0,1.0,500.0,43.665295,-79.378624,Church-Wellesley,28.0,1975.0
+344796266,Zillow,595 Brookdale Ave,1.0,1.0,650.0,43.724266,-79.42951,Bedford Park-Nortown,46.0,2459.0
+407891452,Zillow,3896 Bathurst St,1.0,1.0,565.0,43.74396,-79.43615,Clanton Park,76.0,2143.0
+440157572,Zillow,300 Antibes Dr,1.0,1.0,631.0,43.781292,-79.45003,Westminster-Branson,110.0,2375.0
+2054245374,Zillow,1251 King St W,1.0,1.0,721.0,43.63819,-79.42972,South Parkdale,144.0,2124.0
+2070458081,Zillow,6 Sonic Way,1.0,1.0,699.0,43.72016,-79.33666,Flemingdon Park,109.0,2500.0
+2080848099,Zillow,125 Omni Dr,1.0,1.0,652.0,43.771038,-79.26014,Bendale-Glen Andrew,124.0,2500.0
+2078237628,Zillow,55 Harrison Garden Blvd,1.0,1.0,799.0,43.75682,-79.407135,Avondale,4.0,2600.0
+2080848336,Zillow,11 Bogert Ave,1.0,1.0,599.0,43.760334,-79.41165,Lansing-Westgate,33.0,2700.0
+442306822,Zillow,218 Catalina Dr,2.0,1.0,1100.0,43.743393,-79.201195,Guildwood,92.0,2795.0
+2077574848,Zillow,301 Dixon Rd,2.0,1.0,900.0,43.694912,-79.55257,Kingsview Village-The Westway,137.0,2650.0
+442320392,Zillow,25 Gemshaw Cres,2.0,1.0,700.0,43.799698,-79.21291,Malvern East,79.0,2150.0
+442320504,Zillow,39 Huron St,2.0,1.0,700.0,43.651947,-79.395256,Kensington-Chinatown,48.0,3000.0
+2055541309,Zillow,1110 Briar Hill Ave,2.0,1.0,750.0,43.70293,-79.45105,Briar Hill-Belgravia,100.0,2600.0
+348944745,Zillow,28 Olive Ave,2.0,1.0,600.0,43.779377,-79.41363,Yonge-Doris,6.0,2550.0
+442233484,Zillow,900 Saint Clair Ave W,2.0,2.0,850.0,43.680336,-79.43353,Wychwood,22.0,2995.0
+442034493,Zillow,543 Richmond St W PENTHOUSE 11,2.0,2.0,800.0,43.64671,-79.40176,Wellington Place,5.0,4000.0
+442014351,Zillow,20 Meadowglen Pl E,2.0,2.0,1000.0,43.774513,-79.23047,Golfdale-Cedarbrae-Woburn,147.0,2900.0
+441767023,Zillow,3311 Kingston Rd,2.0,1.0,850.0,43.733322,-79.22239,Scarborough Village,152.0,2600.0
+441181530,Zillow,1B Crescent Rd,2.0,2.0,1800.0,43.67815,-79.383835,Rosedale-Moore Park,44.0,3900.0
+2056118050,Zillow,402 The East Mall,2.0,3.0,1200.0,43.637486,-79.55753,Islington,80.0,3150.0
+440618380,Zillow,10 Edgecliff Golfway,2.0,1.0,1000.0,43.71923,-79.326515,Flemingdon Park,109.0,2800.0
+339981315,Zillow,897 College St,2.0,1.0,850.0,43.653683,-79.42472,Trinity-Bellwoods,10.0,3250.0
+440896260,Zillow,1376 Danforth Ave,2.0,1.0,950.0,43.682583,-79.32827,Danforth,1.0,2499.0
+441555177,Zillow,66 Hollyhedge Dr,2.0,1.0,1100.0,43.753384,-79.24645,Bendale South,105.0,1895.0
+441180075,Zillow,6 Burnelm Dr,2.0,1.0,1100.0,43.64772,-79.550125,Islington,80.0,1995.0
+346881292,Zillow,157 Geoffrey St,2.0,1.0,826.0,43.647522,-79.45139,High Park-Swansea,37.0,2700.0
+2055507623,Zillow,15 Colleen Ct,2.0,1.0,850.0,43.737423,-79.486115,Downsview,136.0,2300.0
+350151087,Zillow,1212 Queen St E,2.0,1.0,900.0,43.66338,-79.33086,South Riverdale,58.0,2250.0
+440663749,Zillow,211 Brunswick Ave,2.0,1.0,1000.0,43.663544,-79.40621,University,17.0,2300.0
+2060949385,Zillow,1164 Queen St W,2.0,1.0,1100.0,43.643055,-79.42533,Little Portugal,38.0,3400.0
+440501280,Zillow,56 Scarbell Dr,2.0,1.0,800.0,43.792664,-79.17275,Highland Creek,82.0,2000.0
+351055473,Zillow,2 Duffield Rd,2.0,1.0,650.0,43.690273,-79.53178,Willowridge-Martingrove-Richview,135.0,2650.0
+2077224001,Zillow,23 Duffield Rd,2.0,1.0,500.0,43.691395,-79.53256,Willowridge-Martingrove-Richview,135.0,2650.0
+350151198,Zillow,1214 Queen St E,2.0,1.0,900.0,43.66332,-79.33074,South Riverdale,58.0,2500.0
+439504023,Zillow,335 Van Horne Ave,2.0,1.0,785.0,43.787323,-79.35096,Don Valley Village,111.0,2605.0
+442338702,Zillow,90 Beaconsfield Ave,2.0,1.0,650.0,43.64656,-79.426445,Little Portugal,38.0,3100.0
+2065578154,Zillow,3560 Saint Clair Ave E,2.0,2.0,900.0,43.717026,-79.26069,Kennedy Park,158.0,2895.0
+442318328,Zillow,135 Lower Sherbourne St,2.0,2.0,750.0,43.65014,-79.36749,St Lawrence-East Bayfront-The Islands,35.0,3100.0
+442306826,Zillow,1682 Victoria Park Ave,2.0,2.0,900.0,43.732403,-79.30613,Victoria Village,129.0,2995.0
+442257266,Zillow,416 The Westway,2.0,1.0,1000.0,43.68405,-79.5657,Willowridge-Martingrove-Richview,135.0,2245.0
+442209794,Zillow,39 Humbert St,2.0,1.0,500.0,43.645405,-79.42237,Trinity-Bellwoods,10.0,2395.0
+2067087759,Zillow,55 E Liberty St,2.0,2.0,930.0,43.638615,-79.41274,Fort York-Liberty Village,52.0,3600.0
+2073079216,Zillow,39 Sherbourne St,2.0,2.0,955.0,43.65101,-79.36793,Moss Park,69.0,3500.0
+442141480,Zillow,27A Saint Quentin Ave,2.0,1.0,1600.0,43.717552,-79.23766,Cliffcrest,131.0,2250.0
+2071149979,Zillow,76 Kenneth Ave,2.0,2.0,1132.0,43.661434,-79.45904,High Park North,47.0,3800.0
+442077973,Zillow,59 E Liberty St,2.0,2.0,1183.0,43.63843,-79.41354,Fort York-Liberty Village,52.0,4400.0
+442247673,Zillow,74 Constance St,2.0,1.0,1000.0,43.64937,-79.453445,High Park-Swansea,37.0,3398.0
+442022023,Zillow,63 Pachino Blvd,2.0,1.0,800.0,43.762985,-79.31223,Wexford/Maryvale,128.0,1950.0
+442016714,Zillow,12 Goldfinch Ct,2.0,1.0,782.0,43.770943,-79.45096,Westminster-Branson,110.0,2800.0
+2053177406,Zillow,105 W Lodge Ave,2.0,1.0,886.0,43.64516,-79.43669,Roncesvalles,25.0,3329.0
+2058102119,Zillow,3233 Eglinton Ave E,2.0,2.0,1000.0,43.74371,-79.213005,Scarborough Village,152.0,3200.0
+345207685,Zillow,833 Kennedy Rd,2.0,1.0,932.0,43.736317,-79.268936,Ionview,134.0,2699.0
+442001625,Zillow,1154 Queen St E,2.0,1.0,800.0,43.66269,-79.33378,South Riverdale,58.0,2800.0
+441819788,Zillow,70 Princess St,2.0,2.0,800.0,43.650295,-79.366745,St Lawrence-East Bayfront-The Islands,35.0,2800.0
+2057982440,Zillow,1303 Gerrard St E,2.0,2.0,700.0,43.67099,-79.326935,Greenwood-Coxwell,56.0,2799.0
+2078270625,Zillow,70 Alexander St,2.0,2.0,1095.0,43.66386,-79.38038,Church-Wellesley,28.0,3500.0
+2079698707,Zillow,1216 York Mills Rd,2.0,1.0,940.0,43.760178,-79.332565,Fenside-Parkwoods,139.0,2840.0
+345096116,Zillow,625 Finch Ave W,2.0,1.0,900.0,43.7711,-79.45428,Westminster-Branson,110.0,2700.0
+442327950,Zillow,24 Acre Heights Cres,3.0,2.0,1000.0,43.76663,-79.24891,Woburn North,104.0,2495.0
+442100330,Zillow,131 Torresdale Ave,3.0,2.0,1650.0,43.778008,-79.45272,Westminster-Branson,110.0,4000.0
+2054377788,Zillow,73 Brimley Rd BASEMENT 2,3.0,1.0,600.0,43.72387,-79.24231,Cliffcrest,131.0,2295.0
+441566240,Zillow,49 Cordella Ave,3.0,1.0,850.0,43.681416,-79.48252,Rockcliffe-Smythe,116.0,3500.0
+439437265,Zillow,326 High Park Ave,3.0,2.0,1250.0,43.664787,-79.47044,Junction Area,41.0,3995.0
+352006285,Zillow,2A Tiverton Ave,3.0,2.0,1900.0,43.66404,-79.345215,South Riverdale,58.0,3999.0
+2057480386,Zillow,103 Baldwin St,3.0,1.0,700.0,43.655193,-79.396614,Kensington-Chinatown,48.0,3600.0
+402484456,Zillow,75 Kenwood Ave,3.0,1.0,1000.0,43.684887,-79.4227,Humewood-Cedarvale,59.0,3200.0
+2077844900,Zillow,1701 McCowan Rd,3.0,2.0,1180.0,43.788326,-79.25602,Agincourt South-Malvern West,94.0,2850.0
+417855659,Zillow,70 Stevenvale Dr,3.0,1.0,850.0,43.75894,-79.22137,Golfdale-Cedarbrae-Woburn,147.0,2899.0
+441819639,Zillow,45 Greencrest Cir,3.0,1.0,850.0,43.758743,-79.22232,Golfdale-Cedarbrae-Woburn,147.0,2899.0
+2065657192,Zillow,100 Antibes Dr,3.0,2.0,1300.0,43.780487,-79.44702,Westminster-Branson,110.0,3500.0
+384437673,Zillow,600 Brookdale Ave,3.0,2.0,1316.0,43.72464,-79.42988,Bedford Park-Nortown,46.0,5200.0
+441175304,Zillow,207 Davisville Ave,3.0,2.0,2038.0,43.69959,-79.38941,South Eglinton-Davisville,20.0,4300.0
+440686898,Zillow,318 Rouge Hills Dr,3.0,3.0,2000.0,43.793667,-79.12849,West Rouge,98.0,3600.0
+439504080,Zillow,65 Hobden Pl,3.0,2.0,1800.0,43.68654,-79.56631,Willowridge-Martingrove-Richview,135.0,3995.0
+350491607,Zillow,630 Vesta Dr,3.0,2.0,1216.0,43.703003,-79.42542,Forest Hill North,75.0,3409.0
+422185857,Zillow,1475 Birchmount Rd,3.0,1.0,1179.0,43.75671,-79.28804,Dorset Park,126.0,3099.0
+439249312,Zillow,217 Sloane Ave,3.0,1.0,1200.0,43.737812,-79.31069,Victoria Village,129.0,3150.0
+2053210912,Zillow,1673 Bathurst St,3.0,2.0,1215.0,43.694977,-79.422714,Forest Hill South,39.0,4295.0
+439895217,Zillow,1330 Danforth Rd,3.0,1.0,1081.0,43.742924,-79.24596,Eglinton East,138.0,2612.0
+402090891,Zillow,86 Silver Springs Blvd,3.0,2.0,1097.0,43.80006,-79.305824,East L'Amoreaux,85.0,3150.0
+2055453568,Zillow,4000 Lawrence Ave E,3.0,1.0,1056.0,43.766113,-79.20001,West Hill,156.0,3090.0
+349463532,Zillow,139A Lappin Ave,3.0,3.0,1600.0,43.66512,-79.44379,Junction-Wallace Emerson,50.0,3999.0
+441734696,Zillow,11 Antrim Cres,3.0,1.0,1100.0,43.770782,-79.28437,Dorset Park,126.0,2970.0
+2079695844,Zillow,68 Cassandra Blvd,3.0,1.0,1715.0,43.748547,-79.33178,Parkwoods-O'Connor Hills,115.0,3170.0
+440157828,Zillow,2029 Victoria Park Ave,3.0,1.0,1273.0,43.754433,-79.3135,Wexford/Maryvale,128.0,3949.0
+440607385,Zillow,1050 Markham Rd,3.0,1.0,1300.0,43.774372,-79.23157,Woburn North,104.0,2945.0
+441682894,Zillow,125 Canon Jackson Dr,3.0,2.0,973.0,43.697407,-79.472916,Beechborough-Greenbrook,153.0,3270.0
+353534722,Zillow,1465 Lawrence Ave W,3.0,1.0,1157.0,43.70739,-79.4804,Brookhaven-Amesbury,148.0,3385.0
+442237418,Zillow,8 Gloucester St,3.0,2.0,888.0,43.666904,-79.38477,Church-Wellesley,28.0,5107.0
+440541992,Zillow,203 Jarvis St,3.0,2.0,943.0,43.65566,-79.37363,Moss Park,69.0,3405.0
+439490987,Zillow,701 Don Mills Rd,3.0,1.0,1300.0,43.70832,-79.33285,O'Connor-Parkview,120.0,3200.0
+2063443293,Zillow,270 Davenport Rd,3.0,3.0,2249.0,43.67457,-79.398766,Annex,12.0,6200.0
+439491692,Zillow,231 Vaughan Rd,3.0,1.0,556.0,43.68806,-79.42414,Humewood-Cedarvale,59.0,2995.0
+439489455,Zillow,484 Spadina Ave,3.0,2.0,1172.0,43.658295,-79.40076,University,17.0,5775.0
+439505339,Zillow,9 Croham Rd,3.0,2.0,1327.0,43.693108,-79.46395,Briar Hill-Belgravia,100.0,3999.0
+2055447608,Zillow,330 Spadina Rd,3.0,1.0,1283.0,43.683502,-79.41116,Casa Loma,29.0,4225.0
+441856851,Zillow,1450 Sheppard Ave W,3.0,1.0,1202.0,43.74484,-79.48976,York University Heights,145.0,3528.0
+350444258,Zillow,20 Carluke Cres,3.0,2.0,1118.0,43.761036,-79.3915,St.Andrew-Windfields,90.0,3149.0
+439489741,Zillow,410 Dufferin St,3.0,2.0,900.0,43.647926,-79.4311,Little Portugal,38.0,3832.0
+440335430,Zillow,1360 Danforth Rd,3.0,2.0,1215.0,43.744976,-79.245445,Eglinton East,138.0,2869.0
+2070856163,Zillow,10 Lamport Ave,3.0,1.0,1483.0,43.67886,-79.37756,Rosedale-Moore Park,44.0,4500.0
+347144785,Zillow,455 Wellington St W,3.0,3.0,1886.0,43.64315,-79.397194,Wellington Place,5.0,8500.0
+439505004,Zillow,7 Fairbank Ave,3.0,2.0,1006.0,43.695457,-79.45276,Briar Hill-Belgravia,100.0,4200.0
+440276467,Zillow,10 Roanoke Rd,3.0,2.0,1250.0,43.74144,-79.32923,Parkwoods-O'Connor Hills,115.0,3600.0
+2062273944,Zillow,525 Adelaide St W,3.0,2.0,834.0,43.644848,-79.40228,Wellington Place,5.0,3950.0
+442312901,Zillow,205 Morningside Ave,3.0,1.0,944.0,43.765408,-79.18483,West Hill,156.0,3049.0
+344719804,Zillow,94 Eastdale Ave,3.0,3.0,1220.0,43.69503,-79.30172,Taylor-Massey,61.0,3725.0
+441760473,Zillow,355 Saint Clair Ave W,3.0,1.0,1780.0,43.683125,-79.413155,Casa Loma,29.0,6130.0
+352591595,Zillow,3443 Bathurst St,3.0,3.0,1480.0,43.728065,-79.43145,Bedford Park-Nortown,46.0,3999.0
+439504994,Zillow,44 Jackes Ave,3.0,2.0,1137.0,43.685795,-79.391174,Rosedale-Moore Park,44.0,4575.0
+439933548,Zillow,1731 Eglinton Ave W,3.0,1.0,1000.0,43.696213,-79.44688,Oakwood Village,93.0,2995.0
+442375580,Zillow,3967 Lawrence Ave E,3.0,2.0,1132.0,43.76397,-79.20321,Golfdale-Cedarbrae-Woburn,147.0,3124.0
+2064089459,Zillow,20 Forest Manor Rd,3.0,1.0,1300.0,43.770073,-79.34427,Henry Farm,88.0,3250.0
+440157110,Zillow,7 Grosvenor St,3.0,2.0,959.0,43.66281,-79.38402,Bay-Cloverhill,8.0,5175.0
+440922271,Zillow,214 Saint George St,3.0,1.0,945.0,43.671234,-79.40182,Annex,12.0,4000.0
+2079697694,Zillow,66 Isabella St,3.0,2.0,934.0,43.668472,-79.3829,Church-Wellesley,28.0,3850.0
+440952038,Zillow,730 Hillsdale Ave E,3.0,3.0,1356.0,43.70792,-79.37636,Mount Pleasant East,14.0,5750.0
+440952246,Zillow,2 Secord Ave,3.0,2.0,1270.0,43.69313,-79.3016,Taylor-Massey,61.0,2919.0
+441866107,Zillow,15 Eva Rd,3.0,1.0,1069.0,43.638435,-79.56202,Etobicoke West Mall,121.0,3179.0
+440160358,Zillow,3390 Keele St,3.0,2.0,1057.0,43.74695,-79.48847,York University Heights,145.0,3266.0
+347144588,Zillow,100 Graydon Hall Dr,3.0,2.0,908.0,43.76543,-79.34434,Fenside-Parkwoods,139.0,2800.0
+2055452794,Zillow,1225 York Mills Rd,3.0,2.0,921.0,43.759567,-79.330956,Fenside-Parkwoods,139.0,3099.0
+358028834,Zillow,2737 Kipling Ave,3.0,2.0,1117.0,43.75331,-79.58657,Mount Olive-Silverstone-Jamestown,141.0,3149.0
+344001755,Zillow,70 Parkwoods Village Dr,3.0,1.0,1080.0,43.7599,-79.322716,Fenside-Parkwoods,139.0,3401.0
+349383663,Zillow,30 Denton Ave,3.0,2.0,1337.0,43.693977,-79.2877,Oakridge,125.0,3930.0
+2055452323,Zillow,250 Roehampton Ave SUITE 100,3.0,1.0,1473.0,43.709743,-79.39154,North Toronto,55.0,4450.0
+2055453380,Zillow,25 Nicholas Ave,3.0,2.0,935.0,43.659634,-79.35815,Regent Park,32.0,3800.0
+2054253095,Zillow,40 Stevenson Rd,3.0,2.0,1243.0,43.744232,-79.58566,Mount Olive-Silverstone-Jamestown,141.0,3099.0
+2055257185,Zillow,200 Ridley Blvd,3.0,2.0,1503.0,43.738235,-79.41971,Bedford Park-Nortown,46.0,3690.0
+439608616,Zillow,15 Martha Eaton Way,3.0,1.0,1091.0,43.696564,-79.488464,Brookhaven-Amesbury,148.0,2990.0
+2061615578,Zillow,1715 Bathurst St,3.0,1.0,1157.0,43.69772,-79.42392,Forest Hill South,39.0,3900.0
+397911381,Zillow,65 Silver Springs Blvd,3.0,1.0,1184.0,43.80132,-79.30424,East L'Amoreaux,85.0,3145.0
+351524936,Zillow,15 Brookbanks Dr,3.0,2.0,1372.0,43.75191,-79.33309,Parkwoods-O'Connor Hills,115.0,3050.0
+441587205,Zillow,90 Eastdale Ave,3.0,2.0,1286.0,43.69461,-79.30125,Taylor-Massey,61.0,2919.0
+442312888,Zillow,555 The West Mall,3.0,1.0,1054.0,43.652443,-79.570435,Etobicoke West Mall,121.0,2894.0
+2055453892,Zillow,7 Welsford Gdns,3.0,2.0,1372.0,43.7515,-79.3156,Parkwoods-O'Connor Hills,115.0,2950.0
+440541456,Zillow,295 Dufferin St,3.0,1.0,771.0,43.64005,-79.42731,South Parkdale,144.0,3191.0
+440157010,Zillow,24 Leith Hill Rd,3.0,2.0,1213.0,43.777225,-79.350006,Don Valley Village,111.0,3481.0
+2055452996,Zillow,2575 Danforth Ave,3.0,1.0,1015.0,43.6882,-79.30032,East End-Danforth,60.0,3100.0
+2053585373,Zillow,50 Graydon Hall Dr,3.0,2.0,994.0,43.76462,-79.34578,Fenside-Parkwoods,139.0,2900.0
+2062580452,Zillow,36 Foxbar Rd,3.0,2.0,1500.0,43.685757,-79.39927,Yonge-St.Clair,49.0,3500.0
+2062580356,Zillow,75 Morning Dew Rd,3.0,1.0,800.0,43.77214,-79.168526,West Hill,156.0,1749.0
+2055456646,Zillow,50 Cordova Ave PENTHOUSE 202,3.0,2.0,1214.0,43.64711,-79.52647,Etobicoke City Centre,64.0,2975.0
+2054551646,Zillow,24 Mabelle Ave PENTHOUSE 102,3.0,2.0,1195.0,43.646587,-79.527145,Etobicoke City Centre,64.0,2975.0
+https://rentals.ca/toronto/30-thunder-grove,Rentals.ca,"30 Thunder Grove, Toronto, ON",1.0,1.0,1200.0,43.8095841,-79.2663287,Agincourt North,83.0,1000.0
+https://rentals.ca/toronto/10-deerlick-court-5,Rentals.ca,"10 Deerlick Court, Toronto, ON",1.0,2.0,726.0,43.7591964,-79.33192380000001,Fenside-Parkwoods,139.0,1250.0
+https://rentals.ca/toronto/22-wellesley-street-east-id823797,Rentals.ca,"22 Wellesley Street East, Toronto, ON",1.0,1.0,1100.0,43.6654816,-79.3832754,Church-Wellesley,28.0,1250.0
+https://rentals.ca/toronto/60-george-butchart-drive,Rentals.ca,"60 George Butchart Drive, Toronto, ON",1.0,1.0,700.0,43.7360717,-79.4837927,Downsview,136.0,1500.0
+https://rentals.ca/toronto/1121-bay-street-4,Rentals.ca,"1121 Bay Street, Toronto, ON",1.0,1.0,1200.0,43.6679864,-79.3885486,Bay-Cloverhill,8.0,1600.0
+https://rentals.ca/toronto/28-ted-rogers-way-id895295,Rentals.ca,"28 Ted Rogers Way, Toronto, ON",2.0,1.0,769.0,43.6707118,-79.38052429999999,Church-Wellesley,28.0,1700.0
+https://rentals.ca/toronto/56-annie-craig-drive-id904052,Rentals.ca,"56 Annie Craig Drive, Toronto, ON",1.0,1.0,552.0,43.6254787,-79.4788159,Humber Bay Shores,68.0,1850.0
+https://rentals.ca/toronto/3237-bayview-avenue-id904512,Rentals.ca,"3237 Bayview Avenue, Toronto, ON",1.5,2.0,654.0,43.7899719,-79.3926166,Bayview Woods-Steeles,101.0,1850.0
+https://rentals.ca/toronto/230-king-street-east-id865898,Rentals.ca,"230 King Street East, Toronto, ON",1.0,1.0,1200.0,43.6514464,-79.3681507,Moss Park,69.0,1875.0
+https://rentals.ca/toronto/215-queen-street-west-id910368,Rentals.ca,"215 Queen Street West, Toronto, ON",1.0,1.0,400.0,43.6504655,-79.3878063,Wellington Place,5.0,1900.0
+https://rentals.ca/toronto/200-woodbine-avenue-id908379,Rentals.ca,"200 Woodbine Avenue, Toronto, ON",1.0,1.0,679.0,43.66896680000001,-79.3061951,The Beaches,43.0,1900.0
+https://rentals.ca/toronto/1169-queen-street-west-id908733,Rentals.ca,"1169 Queen Street West, Toronto, ON",1.5,1.0,609.0,43.6422546,-79.42581419999999,Little Portugal,38.0,1900.0
+https://rentals.ca/toronto/195-mccaul-street,Rentals.ca,"195 McCaul Street, Toronto, ON",1.0,1.0,400.0,43.6567194,-79.39214460000001,Kensington-Chinatown,48.0,1900.0
+https://rentals.ca/toronto/127-broadway-avenue-id908779,Rentals.ca,"127 Broadway Avenue, Toronto, ON",1.0,1.0,500.0,43.7103794,-79.3921761,North Toronto,55.0,1950.0
+https://rentals.ca/toronto/5-defries-street-id906729,Rentals.ca,"5 Defries Street, Toronto, ON",1.0,1.0,450.0,43.6605705,-79.3563724,Regent Park,32.0,1950.0
+https://rentals.ca/toronto/43-eglinton-avenue-east-id904100,Rentals.ca,"43 Eglinton Avenue East, Toronto, ON",1.5,1.0,683.0,43.7069005,-79.3968967,South Eglinton-Davisville,20.0,1950.0
+https://rentals.ca/toronto/1174-yonge-street-id892392,Rentals.ca,"1174 Yonge Street, Toronto, ON",1.5,1.0,798.0,43.6805741,-79.39127780000001,Annex,12.0,1900.0
+https://rentals.ca/toronto/38-avoca-avenue,Rentals.ca,"38 Avoca Avenue, Toronto, ON",1.0,1.0,640.0,43.6886512,-79.38993479999999,Rosedale-Moore Park,44.0,1950.0
+https://rentals.ca/toronto/11-bogert-avenue-id897685,Rentals.ca,"11 Bogert Avenue, Toronto, ON",1.5,2.0,678.0,43.760176,-79.4115356,Lansing-Westgate,33.0,1950.0
+https://rentals.ca/toronto/800-lawrence-avenue-west-id894862,Rentals.ca,"800 Lawrence Avenue West, Toronto, ON",1.0,1.0,528.0,43.7145659,-79.4529979,Yorkdale-Glen Park,140.0,1950.0
+https://rentals.ca/toronto/117-broadway-avenue-7,Rentals.ca,"117 Broadway Avenue, Toronto, ON",1.0,1.0,450.0,43.71035699999999,-79.3925946,North Toronto,55.0,1995.0
+https://rentals.ca/toronto/36-lisgar-street-id902193,Rentals.ca,"36 Lisgar Street, Toronto, ON",1.0,1.0,499.0,43.6420208,-79.4233917,Little Portugal,38.0,1995.0
+https://rentals.ca/east-york/2-1-thyra-ave-east-york-ontario-m4c-5g4,Rentals.ca,"1 Thyra Avenue, East York, ON",1.0,1.0,550.0,43.6913372,-79.2902733,Taylor-Massey,61.0,1995.0
+https://rentals.ca/toronto/411-1195-the-queensway-toronto-ontario-m8z-0h1,Rentals.ca,"1195 The Queensway, Toronto, ON",1.0,1.0,520.0,43.62163,-79.52248,Etobicoke City Centre,64.0,1995.0
+https://rentals.ca/toronto/425-front-street-east-5,Rentals.ca,"425 Front Street East, Toronto, ON",1.0,1.0,500.0,43.6526799,-79.35710999999999,St Lawrence-East Bayfront-The Islands,35.0,2000.0
+https://rentals.ca/toronto/197-yonge-street-id907608,Rentals.ca,"197 Yonge Street, Toronto, ON",1.0,1.0,1085.0,43.65343590000001,-79.3791875,Downtown Yonge East,34.0,2000.0
+https://rentals.ca/toronto/32-forest-manor-road-id904289,Rentals.ca,"32 Forest Manor Road, Toronto, ON",1.5,1.0,605.0,43.7716527,-79.3446498,Henry Farm,88.0,2000.0
+https://rentals.ca/toronto/55-cooper-street-8,Rentals.ca,"55 Cooper Street, Toronto, ON",1.0,1.0,400.0,43.6449002,-79.37180579999999,St Lawrence-East Bayfront-The Islands,35.0,2000.0
+https://rentals.ca/toronto/629-king-street-west-id906805,Rentals.ca,"629 King Street West, Toronto, ON",1.0,1.0,500.0,43.644001,-79.4015398,Wellington Place,5.0,2000.0
+https://rentals.ca/toronto/39-jarvis-street-id907807,Rentals.ca,"39 Jarvis Street, Toronto, ON",1.5,2.0,877.0,43.6501641,-79.3715337,Moss Park,69.0,2000.0
+https://rentals.ca/toronto/68-abell-street-id892525,Rentals.ca,"68 Abell Street, Toronto, ON",1.5,2.0,675.0,43.6423205,-79.42436239999999,Little Portugal,38.0,2000.0
+https://rentals.ca/scarborough/275-village-green-square-3,Rentals.ca,"275 Village Green Square, Scarborough, ON",1.0,1.0,550.0,43.77935799999999,-79.2830046,Agincourt South-Malvern West,94.0,2050.0
+https://rentals.ca/scarborough/206-90-glen-everest-rd-scarborough-ontario-m1n-0c3,Rentals.ca,"90 Glen Everest Rd, Scarborough, ON",1.5,1.0,600.0,43.7031342,-79.25277299999999,Birchcliffe-Cliffside,95.0,2095.0
+https://rentals.ca/toronto/125-blue-jays-way-1,Rentals.ca,"125 Blue Jays Way, Toronto, ON",1.0,1.0,600.0,43.6460845,-79.3910992,Wellington Place,5.0,2100.0
+https://rentals.ca/toronto/238-simcoe-street-3,Rentals.ca,"238 Simcoe Street, Toronto, ON",1.0,1.0,538.0,43.6534014,-79.38904769999999,Kensington-Chinatown,48.0,2100.0
+https://rentals.ca/toronto/1346-danforth-road-4,Rentals.ca,"1346 Danforth Road, Toronto, ON",1.0,1.0,700.0,43.7441474,-79.2469547,Eglinton East,138.0,2100.0
+https://rentals.ca/toronto/105-the-queensway-id907113,Rentals.ca,"105 The Queensway, Toronto, ON",1.0,1.0,500.0,43.6358626,-79.471413,High Park-Swansea,37.0,2100.0
+https://rentals.ca/toronto/160-vanderhoof-avenue-2,Rentals.ca,"160 Vanderhoof Avenue, Toronto, ON",1.0,1.0,500.0,43.7145528,-79.3532164,Thorncliffe Park,127.0,2100.0
+https://rentals.ca/toronto/921-midland-avenue-1,Rentals.ca,"921 Midland Avenue, Toronto, ON",1.5,1.0,700.0,43.73596149999999,-79.2579728,Eglinton East,138.0,2100.0
+https://rentals.ca/toronto/701-king-street-west,Rentals.ca,"701 King Street West, Toronto, ON",1.5,1.0,500.0,43.6430497,-79.4037726,West Queen West,2.0,2100.0
+https://rentals.ca/toronto/22-east-haven-drive,Rentals.ca,"22 East Haven Drive, Toronto, ON",1.0,1.0,699.0,43.7046836,-79.2517519,Birchcliffe-Cliffside,95.0,2100.0
+https://rentals.ca/toronto/721-lawrence-avenue-west,Rentals.ca,"721 Lawrence Avenue West, Toronto, ON",1.0,1.5,600.0,43.7148522,-79.4491496,Yorkdale-Glen Park,140.0,2100.0
+https://rentals.ca/toronto/219-dundas-street-east-4,Rentals.ca,"219 Dundas Street East, Toronto, ON",1.0,1.0,500.0,43.657581,-79.37289,Moss Park,69.0,2100.0
+https://rentals.ca/toronto/49-east-liberty-street-id907137,Rentals.ca,"49 East Liberty Street, Toronto, ON",1.0,1.0,500.0,43.63883,-79.41163499999999,Fort York-Liberty Village,52.0,2150.0
+https://rentals.ca/toronto/90-canon-jackson-drive-3,Rentals.ca,"90 Canon Jackson Drive, Toronto, ON",2.0,1.0,980.0,43.6981954,-79.47256469999999,Beechborough-Greenbrook,153.0,2150.0
+https://rentals.ca/toronto/7-mabelle-avenue-5,Rentals.ca,"7 Mabelle Avenue, Toronto, ON",1.0,1.0,600.0,43.6464782,-79.5254652,Etobicoke City Centre,64.0,2150.0
+https://rentals.ca/toronto/319-carlaw-avenue-id902159,Rentals.ca,"319 Carlaw Avenue, Toronto, ON",1.0,1.0,530.0,43.66437,-79.3411364,South Riverdale,58.0,2150.0
+https://rentals.ca/toronto/560-front-street-west-id905998,Rentals.ca,"560 Front Street West, Toronto, ON",1.0,1.0,540.0,43.64125,-79.3999726,Wellington Place,5.0,2150.0
+https://rentals.ca/toronto/195-mccaul-street-unit-603,Rentals.ca,"195 MCCAUL Street, Toronto, ON",1.0,1.0,500.0,43.6567194,-79.39214460000001,Kensington-Chinatown,48.0,2150.0
+https://rentals.ca/toronto/38-grenville-street,Rentals.ca,"38 Grenville Street, Toronto, ON",1.0,1.0,510.0,43.66188450000001,-79.3857031,Bay-Cloverhill,8.0,2150.0
+https://rentals.ca/toronto/10-wilby-crescent-id740401,Rentals.ca,"10 Wilby Crescent, Toronto, ON",1.0,1.0,600.0,43.6977738,-79.51229479999999,Weston,155.0,2175.0
+https://rentals.ca/toronto/155-yorkville-ave,Rentals.ca,"155 Yorkville Ave, Toronto, ON",1.0,1.0,405.0,43.6703838,-79.3944199,Annex,12.0,2180.0
+https://rentals.ca/scarborough/318-1350-ellesmere-rd-scarborough-ontario-m1p-5a5,Rentals.ca,"1350 Ellesmere Road, Scarborough, ON",1.5,1.5,650.0,43.7705224,-79.2617648,Bendale-Glen Andrew,124.0,2190.0
+https://rentals.ca/toronto/55-ontario-street-6,Rentals.ca,"55 Ontario Street, Toronto, ON",1.0,1.0,500.0,43.653598,-79.3662319,Moss Park,69.0,2190.0
+https://rentals.ca/toronto/270-dufferin-street-id910003,Rentals.ca,"270 Dufferin Street, Toronto, ON",1.0,1.0,500.0,43.6384128,-79.4276448,South Parkdale,144.0,2200.0
+https://rentals.ca/toronto/30-shore-breeze-drive-4,Rentals.ca,"30 Shore Breeze Drive, Toronto, ON",1.0,1.0,600.0,43.62377619999999,-79.47963299999999,Humber Bay Shores,68.0,2200.0
+https://rentals.ca/toronto/350-wellington-street-west-7,Rentals.ca,"350 Wellington Street West, Toronto, ON",1.0,1.0,600.0,43.64462899999999,-79.39281570000001,Wellington Place,5.0,2200.0
+https://rentals.ca/toronto/3100-keele-street-id908144,Rentals.ca,"3100 Keele Street, Toronto, ON",1.5,1.0,600.0,43.7399487,-79.48554589999999,Downsview,136.0,2200.0
+https://rentals.ca/toronto/311-richmond-street-east-7,Rentals.ca,"311 Richmond Street East, Toronto, ON",1.0,1.0,599.0,43.6532349,-79.36935500000001,Moss Park,69.0,2200.0
+https://rentals.ca/toronto/75-queens-wharf-road-id347488,Rentals.ca,"75 Queens Wharf Road, Toronto, ON",2.0,1.0,673.0,43.6386359,-79.39805319999999,Harbourfront-CityPlace,21.0,2200.0
+https://rentals.ca/toronto/3560-saint-clair-avenue-east,Rentals.ca,"3560 Saint Clair Avenue East, Toronto, ON",1.0,1.0,700.0,43.7170837,-79.2611798,Kennedy Park,158.0,2200.0
+https://rentals.ca/toronto/135-lower-sherbourne-street-4,Rentals.ca,"135 Lower Sherbourne Street, Toronto, ON",1.0,1.0,600.0,43.6501264,-79.36723549999999,St Lawrence-East Bayfront-The Islands,35.0,2200.0
+https://rentals.ca/toronto/66-forest-manor-road-1,Rentals.ca,"66 Forest Manor Road, Toronto, ON",1.5,1.0,700.0,43.7743973,-79.345901,Henry Farm,88.0,2200.0
+https://rentals.ca/toronto/61-markbrook-lane-id905766,Rentals.ca,"61 Markbrook Lane, Toronto, ON",1.5,1.5,1000.0,43.7591633,-79.5851758,Mount Olive-Silverstone-Jamestown,141.0,2200.0
+https://rentals.ca/toronto/2221-yonge-street-id902863,Rentals.ca,"2221 Yonge Street, Toronto, ON",1.5,1.0,700.0,43.7060642,-79.3977203,South Eglinton-Davisville,20.0,2200.0
+https://rentals.ca/toronto/500-wilson-avenue-3,Rentals.ca,"500 Wilson Avenue, Toronto, ON",1.5,1.0,485.0,43.7353752,-79.4454727,Clanton Park,76.0,2200.0
+https://rentals.ca/toronto/327-king-street-west-1,Rentals.ca,"327 King Street West, Toronto, ON",1.0,1.0,600.0,43.6461914,-79.39106269999999,Wellington Place,5.0,2200.0
+https://rentals.ca/toronto/330-richmond-street-west-id787096,Rentals.ca,"330 Richmond Street West, Toronto, ON",1.0,1.0,500.0,43.6489309,-79.3927925,Wellington Place,5.0,2200.0
+https://rentals.ca/toronto/185-legion-road-north,Rentals.ca,"185 Legion Road North, Toronto, ON",1.0,1.0,500.0,43.6246597,-79.4881868,Humber Bay Shores,68.0,2200.0
+https://rentals.ca/toronto/2961-dufferin-street,Rentals.ca,"2961 Dufferin Street, Toronto, ON",1.0,1.0,650.0,43.7104147,-79.4534266,Yorkdale-Glen Park,140.0,2200.0
+https://rentals.ca/toronto/201-carlaw-avenue-5,Rentals.ca,"201 Carlaw Avenue, Toronto, ON",1.0,1.0,545.0,43.6624902,-79.3401308,South Riverdale,58.0,2200.0
+https://rentals.ca/toronto/25-oxley-street-1,Rentals.ca,"25 Oxley Street, Toronto, ON",1.0,1.0,420.0,43.6462529,-79.3944679,Wellington Place,5.0,2200.0
+https://rentals.ca/toronto/25-carlton-street-7,Rentals.ca,"25 Carlton Street, Toronto, ON",1.0,1.0,628.0,43.6612664,-79.38159279999999,Downtown Yonge East,34.0,2200.0
+https://rentals.ca/toronto/9-spadina-avenue-2,Rentals.ca,"9 Spadina Avenue, Toronto, ON",1.0,1.0,550.0,43.6402839,-79.3923657,Harbourfront-CityPlace,21.0,2250.0
+https://rentals.ca/toronto/1410-dupont-street-id908178,Rentals.ca,"1410 Dupont Street, Toronto, ON",1.0,1.0,650.0,43.66710279999999,-79.4474491,Junction-Wallace Emerson,50.0,2250.0
+https://rentals.ca/toronto/230-simcoe-street-id908693,Rentals.ca,"230 Simcoe Street, Toronto, ON",1.5,1.0,558.0,43.65328239999999,-79.3889093,Kensington-Chinatown,48.0,2250.0
+https://rentals.ca/toronto/47-lower-river-street-4,Rentals.ca,"47 Lower River Street, Toronto, ON",1.0,1.0,500.0,43.6565452,-79.35549089999999,Moss Park,69.0,2200.0
+https://rentals.ca/toronto/1-yorkville-avenue-id910434,Rentals.ca,"1 Yorkville Avenue, Toronto, ON",1.5,1.0,650.0,43.6716254,-79.3877935,Annex,12.0,2250.0
+https://rentals.ca/toronto/26-gibbs-road-3,Rentals.ca,"26 Gibbs Road, Toronto, ON",1.0,1.0,500.0,43.63950560000001,-79.5584738,Islington,80.0,2250.0
+https://rentals.ca/toronto/15-lower-jarvis-street-id906734,Rentals.ca,"15 Lower Jarvis Street, Toronto, ON",1.0,1.0,550.0,43.6452369,-79.36924429999999,St Lawrence-East Bayfront-The Islands,35.0,2250.0
+https://rentals.ca/toronto/4955-yonge-street,Rentals.ca,"4955 Yonge Street, Toronto, ON",1.5,2.0,750.0,43.7650353,-79.4115219,Yonge-Doris,6.0,2250.0
+https://rentals.ca/toronto/20-tubman-avenue-id809325,Rentals.ca,"20 Tubman Avenue, Toronto, ON",1.0,1.0,550.0,43.6606855,-79.3594066,Regent Park,32.0,2250.0
+https://rentals.ca/north-york/2885-bayview-avenue-7,Rentals.ca,"2885 Bayview Avenue, North York, ON",1.5,1.0,749.0,43.7680885,-79.3880855,Bayview Village,57.0,2275.0
+https://rentals.ca/toronto/783-bathurst-street-3,Rentals.ca,"783 Bathurst Street, Toronto, ON",1.0,1.0,536.0,43.6645681,-79.4107994,University,17.0,2275.0
+https://rentals.ca/toronto/500-queens-quay-west-3,Rentals.ca,"500 Queens Quay West, Toronto, ON",1.0,1.0,625.0,43.6376392,-79.3951333,Harbourfront-CityPlace,21.0,2275.0
+https://rentals.ca/toronto/275-yorkland-road-4,Rentals.ca,"275 Yorkland Road, Toronto, ON",1.0,1.0,561.0,43.7746398,-79.33694849999999,Henry Farm,88.0,2280.0
+https://rentals.ca/toronto/2301-danforth-avenue,Rentals.ca,"2301 Danforth Avenue, Toronto, ON",1.0,1.0,510.0,43.6867605,-79.3072352,East End-Danforth,60.0,2280.0
+https://rentals.ca/toronto/159-dundas-street-east-id800590,Rentals.ca,"159 Dundas Street East, Toronto, ON",1.0,1.0,600.0,43.6567653,-79.3749976,Downtown Yonge East,34.0,2275.0
+https://rentals.ca/toronto/215-fort-york-boulevard-id891668,Rentals.ca,"215 Fort York Boulevard, Toronto, ON",1.0,1.0,450.0,43.6366434,-79.4046054,Fort York-Liberty Village,52.0,2295.0
+https://rentals.ca/york/1603-eglinton-avenue-west-7,Rentals.ca,"1603 Eglinton Avenue West, York, ON",1.5,1.0,640.0,43.69691599999999,-79.44310639999999,Oakwood Village,93.0,2299.0
+https://rentals.ca/toronto/111-elizabeth-st,Rentals.ca,"111 Elizabeth St, Toronto, ON",1.0,1.5,620.0,43.6551126,-79.3848059,Yonge-Bay Corridor,18.0,2300.0
+https://rentals.ca/toronto/8-mercer-street-id915392,Rentals.ca,"8 Mercer Street, Toronto, ON",1.0,1.0,510.0,43.6459498,-79.3897558,Wellington Place,5.0,2300.0
+https://rentals.ca/toronto/135-village-green-square-2,Rentals.ca,"135 Village Green Square, Toronto, ON",1.5,2.0,774.0,43.7775843,-79.2809338,Agincourt South-Malvern West,94.0,2300.0
+https://rentals.ca/toronto/125-village-green-square-2,Rentals.ca,"125 Village Green Square, Toronto, ON",1.5,2.0,774.0,43.7775005,-79.28132529999999,Agincourt South-Malvern West,94.0,2300.0
+https://rentals.ca/toronto/600-fleet-street-id910102,Rentals.ca,"600 Fleet Street, Toronto, ON",1.0,1.0,500.0,43.63699260000001,-79.4003535,Fort York-Liberty Village,52.0,2300.0
+https://rentals.ca/toronto/260-seneca-hill-drive-1,Rentals.ca,"260 Seneca Hill Drive, Toronto, ON",1.0,1.0,665.0,43.7900409,-79.357456,Don Valley Village,111.0,2300.0
+https://rentals.ca/toronto/3-gloucester-street-id910423,Rentals.ca,"3 Gloucester Street, Toronto, ON",1.5,1.0,600.0,43.6663119,-79.3845087,Church-Wellesley,28.0,2300.0
+https://rentals.ca/toronto/60-shuter-street-id909626,Rentals.ca,"60 Shuter Street, Toronto, ON",1.0,1.0,500.0,43.6550609,-79.3760574,Downtown Yonge East,34.0,2300.0
+https://rentals.ca/toronto/10-york-street-id907220,Rentals.ca,"10 York Street, Toronto, ON",1.5,1.0,650.0,43.6411454,-79.38131249999999,Harbourfront-CityPlace,21.0,2300.0
+https://rentals.ca/toronto/88-queen-street-east-1,Rentals.ca,"88 Queen Street East, Toronto, ON",1.5,2.0,585.0,43.6536467,-79.37421169999999,Downtown Yonge East,34.0,2300.0
+https://rentals.ca/toronto/15-merchants-wharf-6,Rentals.ca,"15 Merchants' Wharf, Toronto, ON",1.0,1.0,600.0,43.6452569,-79.3642909,St Lawrence-East Bayfront-The Islands,35.0,2300.0
+https://rentals.ca/toronto/135-maitland-the-marquis,Rentals.ca,"135 Maitland Street, Toronto, ON",1.0,1.0,550.0,43.6649586,-79.378188,Church-Wellesley,28.0,2300.0
+https://rentals.ca/toronto/16-bonnycastle-street-id903529,Rentals.ca,"16 Bonnycastle Street, Toronto, ON",1.0,1.0,599.0,43.6463554,-79.36504699999999,St Lawrence-East Bayfront-The Islands,35.0,2300.0
+https://rentals.ca/toronto/3091-dufferin-street-2,Rentals.ca,"3091 Dufferin Street, Toronto, ON",1.0,1.0,550.0,43.71531359999999,-79.454618,Yorkdale-Glen Park,140.0,2300.0
+https://rentals.ca/toronto/90-trinity-street-4,Rentals.ca,"90 Trinity Street, Toronto, ON",1.0,1.0,530.0,43.65242629999999,-79.3610578,Moss Park,69.0,2300.0
+https://rentals.ca/toronto/38-joe-shuster-way-id886609,Rentals.ca,"38 Joe Shuster Way, Toronto, ON",1.0,1.0,499.0,43.6404912,-79.4243391,South Parkdale,144.0,2300.0
+https://rentals.ca/toronto/251-jarvis-street-id799188,Rentals.ca,"251 Jarvis Street, Toronto, ON",1.0,1.0,530.0,43.65737670000001,-79.3744501,Moss Park,69.0,2300.0
+https://rentals.ca/toronto/2031-kennedy-road-id750723,Rentals.ca,"2031 Kennedy Road, Toronto, ON",1.0,1.0,500.0,43.7771628,-79.2842668,Agincourt South-Malvern West,94.0,2300.0
+https://rentals.ca/toronto/22-olive-avenue,Rentals.ca,"22 Olive Avenue, Toronto, ON",1.0,1.0,595.0,43.7796363,-79.4145612,Yonge-Doris,6.0,2300.0
+https://rentals.ca/toronto/16-bonnycastle,Rentals.ca,"16 Bonnycastle St, Toronto, ON",1.0,1.0,550.0,43.6463554,-79.36504699999999,St Lawrence-East Bayfront-The Islands,35.0,2300.0
+https://rentals.ca/toronto/138-downes-sugar-wharf-condos,Rentals.ca,"138 Downes St, Toronto, ON",1.0,1.0,550.0,43.6446392,-79.3713451,St Lawrence-East Bayfront-The Islands,35.0,2300.0
+https://rentals.ca/toronto/555-yonge,Rentals.ca,"555 Yonge St, Toronto, ON",1.0,1.0,550.0,43.664717,-79.3840893,Church-Wellesley,28.0,2300.0
+https://rentals.ca/north-york/60-george-butchart-drive-id586913,Rentals.ca,"60 George Butchart Drive, North York, ON",1.5,2.0,699.0,43.73656,-79.4832,Downsview,136.0,2300.0
+https://rentals.ca/toronto/360-bloor-st-e,Rentals.ca,"360 Bloor St. E, Toronto, ON",1.5,1.0,900.0,43.6722459,-79.3782246,Rosedale-Moore Park,44.0,2300.0
+https://rentals.ca/toronto/15-baseball,Rentals.ca,"15 Baseball Pl, Toronto, ON",1.0,1.0,550.0,43.6573385,-79.351968,South Riverdale,58.0,2300.0
+https://rentals.ca/toronto/170-sumach-one-park-place,Rentals.ca,"170 Sumach St, Toronto, ON",1.0,1.0,550.0,43.6603591,-79.3605779,Regent Park,32.0,2300.0
+https://rentals.ca/toronto/25-richmond-st-e-yonge-richmond,Rentals.ca,"25 Richmond St E, Toronto, ON",1.0,1.0,500.0,43.6519017,-79.37721650000002,Downtown Yonge East,34.0,2300.0
+https://rentals.ca/toronto/352-front-st-w-fly,Rentals.ca,"352 Front St W, Toronto, ON",1.0,1.0,500.0,43.6433534,-79.39245149999999,Wellington Place,5.0,2300.0
+https://rentals.ca/toronto/1100-sheppard-avenue-west-6,Rentals.ca,"1100 Sheppard Avenue West, Toronto, ON",1.5,1.0,550.0,43.7517462,-79.46637489999999,York University Heights,145.0,2345.0
+https://rentals.ca/toronto/225-village-green-square-1,Rentals.ca,"225 Village Green Square, Toronto, ON",1.5,1.0,623.0,43.7797917,-79.28182509999999,Agincourt South-Malvern West,94.0,2350.0
+https://rentals.ca/toronto/115-larchmount-avenue-1,Rentals.ca,"115 Larchmount Avenue, Toronto, ON",1.0,1.0,568.0,43.6621248,-79.3340027,South Riverdale,58.0,2350.0
+https://rentals.ca/toronto/30-roehampton-avenue-id908464,Rentals.ca,"30 Roehampton Avenue, Toronto, ON",1.0,1.0,500.0,43.708536,-79.3974755,North Toronto,55.0,2350.0
+https://rentals.ca/toronto/35-tubman-avenue-id848969,Rentals.ca,"35 Tubman Avenue, Toronto, ON",1.5,1.0,640.0,43.661415,-79.35921189999999,Regent Park,32.0,2350.0
+https://rentals.ca/toronto/8-cumberland-street-id910287,Rentals.ca,"8 Cumberland Street, Toronto, ON",1.5,1.0,550.0,43.6710845,-79.38778730000001,Annex,12.0,2350.0
+https://rentals.ca/toronto/415-jarvis-street-id892073,Rentals.ca,"415 Jarvis Street, Toronto, ON",2.0,1.0,620.0,43.6636254,-79.3760782,Cabbagetown-South St.James Town,7.0,2348.0
+https://rentals.ca/toronto/47-front-street-west,Rentals.ca,"470 Front Street West, Toronto, ON",1.0,1.0,530.0,43.6426557,-79.39608439999999,Wellington Place,5.0,2350.0
+https://rentals.ca/toronto/80-marine-parade-drive-3,Rentals.ca,"80 Marine Parade Drive, Toronto, ON",1.5,1.0,800.0,43.6261915,-79.4773594,Humber Bay Shores,68.0,2350.0
+https://rentals.ca/toronto/8-rean-drive-1,Rentals.ca,"8 Rean Drive, Toronto, ON",1.0,1.0,680.0,43.7660492,-79.382764,Bayview Village,57.0,2350.0
+https://rentals.ca/toronto/36-lisgar-street-unit-617w,Rentals.ca,"36 LISGAR Street, Toronto, ON",2.0,1.0,610.0,43.6420208,-79.4233917,Little Portugal,38.0,2350.0
+https://rentals.ca/toronto/50-ann-oreilly-road-3,Rentals.ca,"50 Ann O'Reilly Road, Toronto, ON",1.5,1.0,530.0,43.7744217,-79.32999149999999,Henry Farm,88.0,2350.0
+https://rentals.ca/toronto/2369-danforth-avenue-id906257,Rentals.ca,"2369 Danforth Avenue, Toronto, ON",1.5,2.0,597.0,43.6869919,-79.3061336,East End-Danforth,60.0,2350.0
+https://rentals.ca/toronto/352-front-street-west-id904824,Rentals.ca,"352 Front Street West, Toronto, ON",1.0,1.0,600.0,43.6433534,-79.39245149999999,Wellington Place,5.0,2350.0
+https://rentals.ca/toronto/42-western-battery-road-1,Rentals.ca,"42 Western Battery Road, Toronto, ON",1.0,1.0,680.0,43.6396689,-79.4134516,Fort York-Liberty Village,52.0,2350.0
+https://rentals.ca/toronto/170-bayview-river-city-3,Rentals.ca,"170 Bayview Avenue, Toronto, ON",1.0,1.0,550.0,43.6554553,-79.35384660000001,St Lawrence-East Bayfront-The Islands,35.0,2350.0
+https://rentals.ca/toronto/1185-the-queensway-avenue,Rentals.ca,"1185 THE QUEENSWAY Unit# 1021, Toronto, ON",1.0,1.0,569.0,43.6218008,-79.5215288,Etobicoke City Centre,64.0,2350.0
+https://rentals.ca/toronto/18-yonge-street-id900111,Rentals.ca,"18 Yonge Street, Toronto, ON",1.0,1.0,700.0,43.6443983,-79.37652039999999,St Lawrence-East Bayfront-The Islands,35.0,2350.0
+https://rentals.ca/toronto/85-bloor-street-east-id892768,Rentals.ca,"85 Bloor Street East, Toronto, ON",1.0,1.0,550.0,43.6702331,-79.3843476,Church-Wellesley,28.0,2350.0
+https://rentals.ca/toronto/1190-dundas-street-east-id892702,Rentals.ca,"1190 Dundas Street East, Toronto, ON",1.5,1.0,585.0,43.6652349,-79.3411672,South Riverdale,58.0,2350.0
+https://rentals.ca/toronto/39-roehampton-avenue-id902859,Rentals.ca,"39 Roehampton Avenue, Toronto, ON",1.5,2.0,750.0,43.7081849,-79.3970648,North Toronto,55.0,2350.0
+https://rentals.ca/toronto/21-lawren-harris-square,Rentals.ca,"21 Lawren Harris Square, Toronto, ON",1.0,1.0,550.0,43.65515569999999,-79.35488169999999,Moss Park,69.0,2350.0
+https://rentals.ca/toronto/608-richmond-street-west-8,Rentals.ca,"608 Richmond Street West, Toronto, ON",1.0,1.0,500.0,43.6468253,-79.4029132,Wellington Place,5.0,2350.0
+https://rentals.ca/toronto/318-king-st-e,Rentals.ca,"318 King St E, Toronto, ON",1.0,1.0,550.0,43.6525806,-79.3637352,Moss Park,69.0,2350.0
+https://rentals.ca/toronto/5-st-joseph-st-five-condos,Rentals.ca,"5 St Joseph St, Toronto, ON",1.0,1.0,550.0,43.6657586,-79.3856777,Bay-Cloverhill,8.0,2350.0
+https://rentals.ca/toronto/170-fort-york-boulevard,Rentals.ca,"170 Fort York Boulevard, Toronto, ON",1.0,1.0,515.0,43.6392929,-79.4000267,Harbourfront-CityPlace,21.0,2375.0
+https://rentals.ca/toronto/70-queens-wharf-road-id693781,Rentals.ca,"70 Queens Wharf Road, Toronto, ON",1.0,1.0,600.0,43.6385212,-79.39945449999999,Harbourfront-CityPlace,21.0,2375.0
+https://rentals.ca/north-york/591-sheppard-avenue-east-2,Rentals.ca,"591 Sheppard Avenue East, North York, ON",1.5,1.0,565.0,43.7670509,-79.38395779999999,Bayview Village,57.0,2350.0
+https://rentals.ca/toronto/88-harbour-the-harbour-plaza-residence,Rentals.ca,"88 Harbour St, Toronto, ON",1.0,1.0,500.0,43.6418534,-79.37905649999999,St Lawrence-East Bayfront-The Islands,35.0,2375.0
+https://rentals.ca/toronto/15-ellerslie-avenue-1,Rentals.ca,"15 Ellerslie Avenue, Toronto, ON",1.0,1.0,433.0,43.7716356,-79.4144056,Willowdale West,54.0,2380.0
+https://rentals.ca/toronto/25-telegram-mews-8,Rentals.ca,"25 Telegram Mews, Toronto, ON",1.5,1.0,700.0,43.6409971,-79.3946024,Harbourfront-CityPlace,21.0,2380.0
+https://rentals.ca/toronto/357-king-street-west-7,Rentals.ca,"357 King Street West, Toronto, ON",1.0,1.0,524.0,43.6457762,-79.3925063,Wellington Place,5.0,2387.0
+https://rentals.ca/toronto/120-canon-jackson-drive-id738685,Rentals.ca,"120 Canon Jackson Drive, Toronto, ON",1.5,1.0,576.0,43.6979347,-79.47364040000001,Beechborough-Greenbrook,153.0,2394.0
+https://rentals.ca/toronto/20-bruyeres-mews-id915406,Rentals.ca,"20 Bruyeres Mews, Toronto, ON",1.5,1.0,699.0,43.6375024,-79.4009141,Fort York-Liberty Village,52.0,2395.0
+https://rentals.ca/toronto/611-250-lawrence-ave-w-toronto-ontario-m5m-1b2,Rentals.ca,"250 Lawrence Avenue West, Toronto, ON",1.0,1.0,560.0,43.7230148,-79.4137126,Lawrence Park North,15.0,2395.0
+https://rentals.ca/toronto/2200-lake-shore-boulevard-west-5,Rentals.ca,"2200 Lake Shore Boulevard West, Toronto, ON",1.0,1.0,520.0,43.6228431,-79.4819574,Humber Bay Shores,68.0,2395.0
+https://rentals.ca/toronto/1350-ellesmere-road,Rentals.ca,"1350 Ellesmere Road, Toronto, ON",1.5,1.5,625.0,43.7705224,-79.2617648,Bendale-Glen Andrew,124.0,2395.0
+https://rentals.ca/toronto/1301-55-charles-st-e-toronto-ontario-m4y-0j1,Rentals.ca,"55 Charles St E, Toronto, ON",1.0,1.0,600.0,43.6688239,-79.3835572,Church-Wellesley,28.0,2395.0
+https://rentals.ca/toronto/15-grenville-street-id897564,Rentals.ca,"15 Grenville Street, Toronto, ON",1.5,1.0,550.0,43.66186140000001,-79.3841461,Bay-Cloverhill,8.0,2399.0
+https://rentals.ca/etobicoke/17-zorra-st-unit-varies,Rentals.ca,"17 Zorra St | Unit: Varies, Etobicoke, ON",1.0,1.0,539.0,43.621263,-79.52130679999999,Etobicoke City Centre,64.0,2400.0
+https://rentals.ca/toronto/58-orchard-view-boulevard-unit-908,Rentals.ca,"58 ORCHARD VIEW Boulevard, Toronto, ON",1.0,1.0,490.0,43.7081369,-79.4005574,Yonge-Eglinton,36.0,2400.0
+https://rentals.ca/toronto/543-richmond-street-west-id910000,Rentals.ca,"543 Richmond Street West, Toronto, ON",1.5,1.0,599.0,43.6466759,-79.4015991,Wellington Place,5.0,2400.0
+https://rentals.ca/toronto/250-wellington-street-west-7,Rentals.ca,"250 Wellington Street West, Toronto, ON",1.5,1.0,599.0,43.6450815,-79.3907808,Wellington Place,5.0,2400.0
+https://rentals.ca/toronto/270-queens-quay-west-id908146,Rentals.ca,"270 Queens Quay West, Toronto, ON",1.0,1.0,800.0,43.6390463,-79.3864756,Harbourfront-CityPlace,21.0,2400.0
+https://rentals.ca/toronto/100-dalhousie-street-id915044,Rentals.ca,"100 Dalhousie Street, Toronto, ON",1.5,1.0,555.0,43.65631740000001,-79.37669629999999,Downtown Yonge East,34.0,2400.0
+https://rentals.ca/toronto/100-harbour-street-id908790,Rentals.ca,"100 Harbour Street, Toronto, ON",1.0,1.0,620.0,43.64177249999999,-79.37914599999999,St Lawrence-East Bayfront-The Islands,35.0,2400.0
+https://rentals.ca/toronto/19-grand-trunk-crescent-7,Rentals.ca,"19 Grand Trunk Crescent, Toronto, ON",1.0,1.0,500.0,43.6415732,-79.3826131,Harbourfront-CityPlace,21.0,2400.0
+https://rentals.ca/toronto/1486-bathurst-street-4,Rentals.ca,"1486 Bathurst Street, Toronto, ON",1.0,1.0,602.0,43.6838048,-79.41896299999999,Humewood-Cedarvale,59.0,2400.0
+https://rentals.ca/scarborough/238-bonis-avenue-unit-721,Rentals.ca,"238 BONIS Avenue, Scarborough, ON",2.0,1.0,700.0,43.7859188,-79.2904455,Tam O'Shanter-Sullivan,99.0,2400.0
+https://rentals.ca/toronto/7-grenville-street-id906401,Rentals.ca,"7 Grenville Street, Toronto, ON",1.0,1.0,500.0,43.6619464,-79.3838174,Bay-Cloverhill,8.0,2400.0
+https://rentals.ca/toronto/conservatory-tower,Rentals.ca,"736 Bay Street, Toronto, ON",1.0,1.0,650.0,43.6594674,-79.3855404,Yonge-Bay Corridor,18.0,2400.0
+https://rentals.ca/toronto/159-wellesley-street-east-id903534,Rentals.ca,"159 Wellesley Street East, Toronto, ON",1.0,1.0,600.0,43.6667703,-79.3748964,Cabbagetown-South St.James Town,7.0,2400.0
+https://rentals.ca/toronto/85-east-liberty-street-e-unit-805,Rentals.ca,"85 EAST LIBERTY Street, Toronto, ON",1.0,1.0,549.0,43.6381606,-79.4155672,Fort York-Liberty Village,52.0,2400.0
+https://rentals.ca/toronto/peter,Rentals.ca,"101 PETER STREET, Toronto, ON",1.0,1.0,606.0,43.6476832,-79.3925457,Wellington Place,5.0,2400.0
+https://rentals.ca/toronto/327-king,Rentals.ca,"327 King St, Toronto, ON",1.0,1.0,550.0,43.6461914,-79.39106269999999,Wellington Place,5.0,2400.0
+https://rentals.ca/toronto/890-sheppard-avenue-west,Rentals.ca,"890 Sheppard Avenue West, Toronto, ON",1.0,1.0,585.0,43.7522512,-79.45571799999999,Bathurst Manor,103.0,2400.0
+https://rentals.ca/toronto/olympic-garden-drive-1,Rentals.ca,"Olympic Garden Drive, Toronto, ON",2.0,2.0,799.0,43.7858336,-79.4156284,Newtonbrook East,73.0,2400.0
+https://rentals.ca/toronto/10-capreol-court-id754167,Rentals.ca,"10 Capreol Court, Toronto, ON",1.0,1.0,560.0,43.6401979,-79.3959363,Harbourfront-CityPlace,21.0,2400.0
+https://rentals.ca/toronto/36-zorra-street-id733161,Rentals.ca,"36 Zorra Street, Toronto, ON",1.0,1.0,540.0,43.619725,-79.5218167,Etobicoke City Centre,64.0,2400.0
+https://rentals.ca/toronto/60-princess-time-space,Rentals.ca,"60 Princess St, Toronto, ON",1.5,2.0,550.0,43.6495699,-79.36650379999999,St Lawrence-East Bayfront-The Islands,35.0,2400.0
+https://rentals.ca/toronto/55-cooper-sugarwharf,Rentals.ca,"55 Cooper St, Toronto, ON",1.0,1.0,500.0,43.6449002,-79.37180579999999,St Lawrence-East Bayfront-The Islands,35.0,2400.0
+https://rentals.ca/toronto/30-samuel-wood-way-id710870,Rentals.ca,"30 Samuel Wood Way, Toronto, ON",1.0,1.0,564.0,43.63469,-79.54056,Etobicoke City Centre,64.0,2400.0
+https://rentals.ca/toronto/19-bathurst-street,Rentals.ca,"19 Bathurst Street, Toronto, ON",1.0,1.0,492.0,43.6375621,-79.3996469,Harbourfront-CityPlace,21.0,2400.0
+https://rentals.ca/toronto/25-adra-grado-way-3,Rentals.ca,"25 Adra Grado Way, Toronto, ON",1.0,1.0,535.0,43.7763756,-79.3659472,Bayview Village,57.0,2400.0
+https://rentals.ca/toronto/357-king,Rentals.ca,"357 King St W, Toronto, ON",1.0,1.0,550.0,43.6457762,-79.3925063,Wellington Place,5.0,2400.0
+https://rentals.ca/etobicoke/30-samuel-wood-way-id677446,Rentals.ca,"30 Samuel Wood Way, Etobicoke, ON",1.0,1.0,600.0,43.63469,-79.54056,Etobicoke City Centre,64.0,2400.0
+https://rentals.ca/toronto/105-george-street-3,Rentals.ca,"105 George Street, Toronto, ON",1.0,1.0,520.0,43.6522051,-79.3707929,Moss Park,69.0,2400.0
+https://rentals.ca/toronto/77-shuter-88-north-condos,Rentals.ca,"77 Shuter St, Toronto, ON",1.5,1.0,550.0,43.6549921,-79.375121,Downtown Yonge East,34.0,2400.0
+https://rentals.ca/toronto/38-iannuzzi-street-id653731,Rentals.ca,"38 Iannuzzi Street, Toronto, ON",1.0,1.0,475.0,43.6372027,-79.4015424,Fort York-Liberty Village,52.0,2400.0
+https://rentals.ca/toronto/99-john-pj-condos,Rentals.ca,"99 John St, Toronto, ON",1.0,1.0,550.0,43.6475245,-79.38993119999999,Wellington Place,5.0,2400.0
+https://rentals.ca/toronto/101-charles-street-east-id544091,Rentals.ca,"101 Charles Street East, Toronto, ON",1.0,1.0,600.0,43.6696371,-79.3805424,Church-Wellesley,28.0,2400.0
+https://rentals.ca/toronto/115-blue-jays-way-king-blue-condos,Rentals.ca,"115 Blue Jays Way, Toronto, ON",1.0,1.0,550.0,43.6457205,-79.3918198,Wellington Place,5.0,2400.0
+https://rentals.ca/toronto/60-shuter-st-fleur-condo,Rentals.ca,"60 Shuter St #2810, Toronto, ON",1.0,1.0,500.0,43.6550609,-79.3760574,Downtown Yonge East,34.0,2400.0
+https://rentals.ca/toronto/50-thomas-riley-road-id910272,Rentals.ca,"50 Thomas Riley Road, Toronto, ON",1.0,1.0,625.0,43.6338301,-79.5415913,Etobicoke City Centre,64.0,2425.0
+https://rentals.ca/north-york/2-rean-drive-6,Rentals.ca,"2 Rean Drive, North York, ON",1.5,2.0,792.0,43.7656347,-79.3831635,Bayview Village,57.0,2450.0
+https://rentals.ca/toronto/121-lower-sherbourne-street-5,Rentals.ca,"121 Lower Sherbourne Street, Toronto, ON",1.0,1.0,599.0,43.6495044,-79.3670392,St Lawrence-East Bayfront-The Islands,35.0,2450.0
+https://rentals.ca/toronto/11-yorkville-avenue,Rentals.ca,"11 Yorkville Avenue, Toronto, ON",1.0,1.0,720.0,43.6714098,-79.38820009999999,Annex,12.0,2450.0
+https://rentals.ca/toronto/5500-yonge-street-3,Rentals.ca,"5500 Yonge Street, Toronto, ON",1.0,1.0,570.0,43.7782504,-79.4154722,Willowdale West,54.0,2450.0
+https://rentals.ca/toronto/oxley-street,Rentals.ca,"Oxley Street, Toronto, ON",1.0,1.0,675.0,43.6463886,-79.3945634,Wellington Place,5.0,2450.0
+https://rentals.ca/toronto/115-mcmahon-drive,Rentals.ca,"115 McMahon Drive, Toronto, ON",1.0,1.0,575.0,43.7669863,-79.37104200000002,Bayview Village,57.0,2450.0
+https://rentals.ca/toronto/125-western-battery-road-1,Rentals.ca,"125 Western Battery Road, Toronto, ON",1.0,1.0,500.0,43.6399902,-79.4167563,Fort York-Liberty Village,52.0,2450.0
+https://rentals.ca/toronto/108-peter-street-id773016,Rentals.ca,"108 Peter Street, Toronto, ON",1.5,1.0,580.0,43.6476915,-79.3933074,Wellington Place,5.0,2450.0
+https://rentals.ca/toronto/120-saint-patrick-street-id707483,Rentals.ca,"120 Saint Patrick Street, Toronto, ON",1.0,1.0,500.0,43.6533871,-79.3900759,Kensington-Chinatown,48.0,2450.0
+https://rentals.ca/toronto/320-richmond-street-east-id692412,Rentals.ca,"320 Richmond Street East, Toronto, ON",1.0,2.0,700.0,43.6535819,-79.3687903,Moss Park,69.0,2450.0
+https://rentals.ca/toronto/21-carlton,Rentals.ca,"21 Carlton St, Toronto, ON",1.5,1.0,550.0,43.6612321,-79.3819474,Downtown Yonge East,34.0,2450.0
+https://rentals.ca/north-york/5-concorde-place-id560569,Rentals.ca,"5 Concorde Place, North York, ON",1.5,1.0,700.0,43.729872,-79.3272799,Banbury-Don Mills,78.0,2480.0
+https://rentals.ca/toronto/300-balliol-street-2,Rentals.ca,"300 Balliol Street, Toronto, ON",1.0,1.0,600.0,43.699481,-79.38717,South Eglinton-Davisville,20.0,2495.0
+https://rentals.ca/toronto/1928-lake-shore-boulevard-west-id671814,Rentals.ca,"1928 Lake Shore Boulevard West, Toronto, ON",1.0,1.0,500.0,43.6355926,-79.4680985,South Parkdale,144.0,2450.0
+https://rentals.ca/toronto/61-town-centre-court-2,Rentals.ca,"61 Town Centre Court, Toronto, ON",1.5,1.0,700.0,43.7737488,-79.2525594,Bendale-Glen Andrew,124.0,2485.0
+https://rentals.ca/toronto/25-oxley-glas,Rentals.ca,"25 Oxley St, Toronto, ON",1.0,1.0,550.0,43.6462529,-79.3944679,Wellington Place,5.0,2450.0
+https://rentals.ca/toronto/3004-33-shore-breeze-dr-toronto-ontario-m8v-0g1,Rentals.ca,"33 Shore Breeze Dr, Toronto, ON",1.0,1.0,600.0,43.6240074,-79.4792379,Humber Bay Shores,68.0,2495.0
+https://rentals.ca/toronto/458-richmond-street-west-id850318,Rentals.ca,"458 Richmond Street West, Toronto, ON",1.0,1.0,512.0,43.64794999999999,-79.39753069999999,Wellington Place,5.0,2495.0
+https://rentals.ca/toronto/255-richmond-street-east-6,Rentals.ca,"255 Richmond Street East, Toronto, ON",1.0,1.0,650.0,43.6528455,-79.3704456,Moss Park,69.0,2496.0
+https://rentals.ca/toronto/75-dalhousie-street-3,Rentals.ca,"75 Dalhousie Street, Toronto, ON",1.0,1.0,516.0,43.6554873,-79.3759283,Downtown Yonge East,34.0,2500.0
+https://rentals.ca/north-york/5-northtown-way-6,Rentals.ca,"5 Northtown Way, North York, ON",1.0,1.0,600.0,43.7749287,-79.41363249999999,Yonge-Doris,6.0,2500.0
+https://rentals.ca/toronto/251-jarvis,Rentals.ca,"251 Jarvis St, Toronto, ON",1.5,1.0,550.0,43.65737670000001,-79.3744501,Moss Park,69.0,2495.0
+https://rentals.ca/toronto/160-canon-jackson-drive-1,Rentals.ca,"160 Canon Jackson Drive, Toronto, ON",1.5,1.0,662.0,43.697594,-79.4751982,Beechborough-Greenbrook,153.0,2495.0
+https://rentals.ca/toronto/80-colgate-avenue,Rentals.ca,"80 Colgate Avenue, Toronto, ON",1.0,1.0,580.0,43.6621044,-79.3413049,South Riverdale,58.0,2500.0
+https://rentals.ca/toronto/101-peter-street-id908793,Rentals.ca,"101 Peter Street, Toronto, ON",1.5,1.0,620.0,43.6476832,-79.3925457,Wellington Place,5.0,2500.0
+https://rentals.ca/toronto/33-shore-breeze-drive-id908683,Rentals.ca,"33 Shore Breeze Drive, Toronto, ON",1.5,1.0,660.0,43.6240074,-79.4792379,Humber Bay Shores,68.0,2500.0
+https://rentals.ca/toronto/27-rean-drive-1,Rentals.ca,"27 Rean Drive, Toronto, ON",1.0,1.0,646.0,43.7677437,-79.38226999999999,Bayview Village,57.0,2500.0
+https://rentals.ca/toronto/710-humberwood-boulevard-id907666,Rentals.ca,"710 Humberwood Boulevard, Toronto, ON",1.5,1.0,700.0,43.7247822,-79.6160393,West Humber-Clairville,142.0,2500.0
+https://rentals.ca/toronto/286-main-street-id905763,Rentals.ca,"286 Main Street, Toronto, ON",2.0,2.0,650.0,43.68745639999999,-79.30186909999999,East End-Danforth,60.0,2500.0
+https://rentals.ca/toronto/1401-oconnor-drive-2,Rentals.ca,"1401 O'Connor Drive, Toronto, ON",1.5,2.0,650.0,43.712827,-79.3066702,O'Connor-Parkview,120.0,2500.0
+https://rentals.ca/toronto/25-lower-simcoe-street-id903463,Rentals.ca,"25 Lower Simcoe Street, Toronto, ON",1.0,1.0,590.0,43.6414307,-79.38326699999999,Harbourfront-CityPlace,21.0,2500.0
+https://rentals.ca/toronto/295-adelaide-street-west-id901600,Rentals.ca,"295 Adelaide Street West, Toronto, ON",1.0,1.0,750.0,43.64767519999999,-79.390532,Wellington Place,5.0,2500.0
+https://rentals.ca/toronto/212-eglinton-avenue-east-id900811,Rentals.ca,"212 Eglinton Avenue East, Toronto, ON",1.5,1.0,608.0,43.7082953,-79.39197089999999,North Toronto,55.0,2500.0
+https://rentals.ca/toronto/68-shuter-street-id895205,Rentals.ca,"68 Shuter Street, Toronto, ON",1.5,1.0,601.0,43.6551135,-79.3757349,Downtown Yonge East,34.0,2500.0
+https://rentals.ca/toronto/2799-kingston-road-id891645,Rentals.ca,"2799 Kingston Road, Toronto, ON",1.5,1.0,699.0,43.7202424,-79.2375017,Cliffcrest,131.0,2500.0
+https://rentals.ca/toronto/15-grenville-street-street-unit-4102,Rentals.ca,"15 GRENVILLE STREET Unit# 4102, Toronto, ON",2.0,1.0,550.0,43.66186140000001,-79.3841461,Bay-Cloverhill,8.0,2500.0
+https://rentals.ca/toronto/430-roncesvalles-avenue,Rentals.ca,"430 Roncesvalles Avenue, Toronto, ON",1.0,1.0,550.0,43.6519708,-79.451622,High Park-Swansea,37.0,2500.0
+https://rentals.ca/toronto/28-freeland-street-id838472,Rentals.ca,"28 Freeland Street, Toronto, ON",1.5,1.0,600.0,43.6435887,-79.37399309999999,St Lawrence-East Bayfront-The Islands,35.0,2500.0
+https://rentals.ca/toronto/633-bay,Rentals.ca,"633 Bay St, Toronto, ON",1.5,1.0,650.0,43.6568913,-79.3833976,Yonge-Bay Corridor,18.0,2500.0
+https://rentals.ca/toronto/377-madison-avenue-1,Rentals.ca,"377 Madison Avenue, Toronto, ON",1.5,2.0,720.0,43.6771071,-79.40594229999999,Casa Loma,29.0,2500.0
+https://rentals.ca/toronto/15-mercer-street-2,Rentals.ca,"15 Mercer Street, Toronto, ON",1.5,1.0,500.0,43.64556959999999,-79.39015359999999,Wellington Place,5.0,2500.0
+https://rentals.ca/toronto/5791-yonge-street-id797149,Rentals.ca,"5791 Yonge Street, Toronto, ON",1.0,1.0,565.0,43.7845275,-79.41619200000001,Newtonbrook East,73.0,2500.0
+https://rentals.ca/toronto/25-carlton,Rentals.ca,"25 Carlton St, Toronto, ON",1.5,1.0,550.0,43.6612664,-79.38159279999999,Downtown Yonge East,34.0,2500.0
+https://rentals.ca/toronto/390-cherry-street-id807717,Rentals.ca,"390 Cherry Street, Toronto, ON",1.0,1.0,600.0,43.6508543,-79.3573616,St Lawrence-East Bayfront-The Islands,35.0,2500.0
+https://rentals.ca/toronto/1135-royal-york-road,Rentals.ca,"1135 Royal York Road, Toronto, ON",1.0,1.0,600.0,43.6601448,-79.5161415,Edenbridge-Humber Valley,84.0,2500.0
+https://rentals.ca/toronto/12-york-street-id747254,Rentals.ca,"12 York Street, Toronto, ON",1.0,1.0,522.0,43.6418435,-79.38151119999999,Harbourfront-CityPlace,21.0,2500.0
+https://rentals.ca/toronto/12-yonge-street-id739049,Rentals.ca,"12 Yonge Street, Toronto, ON",1.0,1.0,629.0,43.6430224,-79.37614959999999,St Lawrence-East Bayfront-The Islands,35.0,2500.0
+https://rentals.ca/toronto/53-mccaul-street-id707488,Rentals.ca,"53 McCaul Street, Toronto, ON",1.0,1.0,500.0,43.652285,-79.3903666,Kensington-Chinatown,48.0,2500.0
+https://rentals.ca/toronto/28-olive-avenue,Rentals.ca,"28 Olive Avenue, Toronto, ON",1.5,1.0,650.0,43.7793476,-79.41370859999999,Yonge-Doris,6.0,2500.0
+https://rentals.ca/toronto/17-bathurst-street-2,Rentals.ca,"17 Bathurst Street, Toronto, ON",1.0,1.0,492.0,43.6376464,-79.39901110000001,Harbourfront-CityPlace,21.0,2500.0
+https://rentals.ca/etobicoke/5365-dundas-street-west-1,Rentals.ca,"5365 Dundas Street West, Etobicoke, ON",1.5,1.0,566.0,43.63532,-79.5403,Etobicoke City Centre,64.0,2500.0
+https://rentals.ca/toronto/128-fairview-mall-drive,Rentals.ca,"128 Fairview Mall Drive, Toronto, ON",1.0,1.0,553.0,43.77997999999999,-79.3449211,Don Valley Village,111.0,2500.0
+https://rentals.ca/toronto/10-gibbs-road-2,Rentals.ca,"10 Gibbs Road, Toronto, ON",1.5,1.0,650.0,43.6387355,-79.55806539999999,Islington,80.0,2500.0
+https://rentals.ca/toronto/555-yonge-street-2,Rentals.ca,"555 Yonge Street, Toronto, ON",1.0,1.0,640.0,43.664717,-79.3840893,Church-Wellesley,28.0,2525.0
+https://rentals.ca/toronto/386-yonge-street-id908374,Rentals.ca,"386 Yonge Street, Toronto, ON",1.0,1.0,550.0,43.65911070000001,-79.38361040000001,Yonge-Bay Corridor,18.0,2550.0
+https://rentals.ca/toronto/501-adelaide-street-west-id906367,Rentals.ca,"501 Adelaide Street West, Toronto, ON",1.0,1.0,530.0,43.64546379999999,-79.40130189999999,Wellington Place,5.0,2550.0
+https://rentals.ca/toronto/80-queens-wharf-road-id905445,Rentals.ca,"80 Queens Wharf Road, Toronto, ON",1.5,1.0,599.0,43.63859859999999,-79.400027,Harbourfront-CityPlace,21.0,2550.0
+https://rentals.ca/toronto/19-grand-trunk-infinity-3,Rentals.ca,"19 Grand Trunk Cres, Toronto, ON",1.5,1.0,650.0,43.6415732,-79.3826131,Harbourfront-CityPlace,21.0,2500.0
+https://rentals.ca/north-york/6-sonic-way,Rentals.ca,"6 Sonic way, North York, ON",1.5,2.0,641.0,43.7194953,-79.3365032,Flemingdon Park,109.0,2550.0
+https://rentals.ca/toronto/55-stewart-street-7,Rentals.ca,"55 Stewart Street, Toronto, ON",1.0,1.0,550.0,43.6432934,-79.4013564,Wellington Place,5.0,2550.0
+https://rentals.ca/toronto/381-front-street-west-8,Rentals.ca,"381 Front Street West, Toronto, ON",1.5,1.0,640.0,43.6428078,-79.39266180000001,Harbourfront-CityPlace,21.0,2550.0
+https://rentals.ca/toronto/238-simcoe,Rentals.ca,"238 Simcoe St, Toronto, ON",1.5,1.0,550.0,43.6534014,-79.38904769999999,Kensington-Chinatown,48.0,2550.0
+https://rentals.ca/toronto/main-street-2,Rentals.ca,"Main Street, Toronto, ON",1.5,1.0,600.0,43.6879495,-79.3017111,East End-Danforth,60.0,2550.0
+https://rentals.ca/toronto/125-peter-tableau-condos,Rentals.ca,"125 Peter St, Toronto, ON",1.5,1.0,650.0,43.6484754,-79.392676,Wellington Place,5.0,2550.0
+https://rentals.ca/toronto/128-pears-avenue,Rentals.ca,"128 Pears Avenue, Toronto, ON",1.0,1.0,550.0,43.675611,-79.3978528,Annex,12.0,2550.0
+https://rentals.ca/toronto/11-wellesley-wellesley-on-the-park,Rentals.ca,"11 Wellesley St W, Toronto, ON",1.5,1.0,550.0,43.66459769999999,-79.3852242,Bay-Cloverhill,8.0,2550.0
+https://rentals.ca/toronto/1-the-esplanade-1,Rentals.ca,"1 The Esplanade, Toronto, ON",1.0,1.0,600.0,43.6458823,-79.375992,St Lawrence-East Bayfront-The Islands,35.0,2575.0
+https://rentals.ca/toronto/5168-yonge-street,Rentals.ca,"5168 Yonge Street, Toronto, ON",1.5,1.0,650.0,43.76966849999999,-79.413859,Willowdale West,54.0,2550.0
+https://rentals.ca/toronto/30-tretti-way-7,Rentals.ca,"30 Tretti Way, Toronto, ON",2.0,2.0,600.0,43.7329753,-79.4486331,Clanton Park,76.0,2550.0
+https://rentals.ca/toronto/20-edward-street-id756245,Rentals.ca,"20 Edward Street, Toronto, ON",1.0,1.0,550.0,43.6569939,-79.3821206,Yonge-Bay Corridor,18.0,2590.0
+https://rentals.ca/toronto/321-181-sheppard-ave-e-toronto-ontario-m2n-3a6,Rentals.ca,"181 Sheppard Avenue East, Toronto, ON",1.5,2.0,700.0,43.7635005,-79.4000727,Avondale,4.0,2595.0
+https://rentals.ca/toronto/100-dalhousie-social,Rentals.ca,"100 Dalhousie St, Toronto, ON",1.5,1.0,550.0,43.65631740000001,-79.37669629999999,Downtown Yonge East,34.0,2595.0
+https://rentals.ca/toronto/1926-lake-shore-boulevard-west-id915429,Rentals.ca,"1926 Lake Shore Boulevard West, Toronto, ON",1.5,1.0,500.0,43.6361883,-79.46728569999999,South Parkdale,144.0,2600.0
+https://rentals.ca/toronto/180-fairview-mall-drive,Rentals.ca,"180 Fairview Mall Drive, Toronto, ON",1.5,1.0,580.0,43.7802158,-79.34189529999999,Don Valley Village,111.0,2588.0
+https://rentals.ca/toronto/21-iceboat-terrace-id910265,Rentals.ca,"21 Iceboat Terrace, Toronto, ON",1.5,1.0,700.0,43.64049809999999,-79.3974313,Harbourfront-CityPlace,21.0,2600.0
+https://rentals.ca/toronto/11-wellesley-street-west-street-unit-3906,Rentals.ca,"11 WELLESLEY STREET WEST Street, Toronto, ON",2.0,1.0,575.0,43.66459769999999,-79.3852242,Bay-Cloverhill,8.0,2600.0
+https://rentals.ca/toronto/231-fort-york-boulevard-id753423,Rentals.ca,"231 Fort York Boulevard, Toronto, ON",1.0,1.0,599.0,43.6371087,-79.4062325,Fort York-Liberty Village,52.0,2600.0
+https://rentals.ca/toronto/18-graydon-hall-drive-id891970,Rentals.ca,"18 Graydon Hall Drive, Toronto, ON",2.0,2.0,700.0,43.76279,-79.3464398,Fenside-Parkwoods,139.0,2600.0
+https://rentals.ca/toronto/3841-lake-shore-boulevard-west,Rentals.ca,"3841 Lake Shore Boulevard West, Toronto, ON",2.0,1.0,900.0,43.5910581,-79.5432367,Long Branch,112.0,2600.0
+https://rentals.ca/toronto/19-bathurst-street-unit-4209,Rentals.ca,"19 BATHURST Street, Toronto, ON",2.0,1.0,590.0,43.6375621,-79.3996469,Harbourfront-CityPlace,21.0,2600.0
+https://rentals.ca/toronto/34-tubman-avenue-id783262,Rentals.ca,"34 Tubman Avenue, Toronto, ON",1.5,1.0,575.0,43.6612119,-79.359668,Regent Park,32.0,2600.0
+https://rentals.ca/toronto/555-wilson-avenue,Rentals.ca,"555 Wilson Avenue, Toronto, ON",1.0,1.0,699.0,43.7341108,-79.4482081,Clanton Park,76.0,2600.0
+https://rentals.ca/toronto/763-bay-street,Rentals.ca,"763 Bay Street, Toronto, ON",1.0,1.0,595.0,43.6599948,-79.38519939999999,Yonge-Bay Corridor,18.0,2600.0
+https://rentals.ca/toronto/98-lillian-street-id708040,Rentals.ca,"98 Lillian Street, Toronto, ON",1.5,1.0,630.0,43.7071766,-79.394162,South Eglinton-Davisville,20.0,2600.0
+https://rentals.ca/toronto/15-northtown-way,Rentals.ca,"15 Northtown Way, Toronto, ON",1.0,1.0,599.0,43.7749213,-79.4136434,Yonge-Doris,6.0,2600.0
+https://rentals.ca/north-york/1060-sheppard-avenue-west-2,Rentals.ca,"1060 Sheppard Avenue West, North York, ON",1.5,1.0,700.0,43.7506089,-79.46386890000001,York University Heights,145.0,2600.0
+https://rentals.ca/toronto/330-richmond,Rentals.ca,"330 Richmond St W, Toronto, ON",1.5,1.0,650.0,43.6489309,-79.3927925,Wellington Place,5.0,2600.0
+https://rentals.ca/toronto/89-church-street-1,Rentals.ca,"89 Church Street, Toronto, ON",2.0,1.0,715.0,43.6521741,-79.3751113,Downtown Yonge East,34.0,2650.0
+https://rentals.ca/toronto/199-richmond-street-west-id895981,Rentals.ca,"199 Richmond Street West, Toronto, ON",1.0,1.0,550.0,43.6495729,-79.3880901,Wellington Place,5.0,2650.0
+https://rentals.ca/toronto/15-queens-quay-west,Rentals.ca,"15 Queens Quay West, Toronto, ON",1.0,1.0,526.0,43.641415,-79.37620340000001,St Lawrence-East Bayfront-The Islands,35.0,2650.0
+https://rentals.ca/toronto/2191-yonge-street-8,Rentals.ca,"2191 Yonge Street, Toronto, ON",1.5,1.0,850.0,43.70559790000001,-79.397714,South Eglinton-Davisville,20.0,2650.0
+https://rentals.ca/toronto/35-mercer-street-id895599,Rentals.ca,"35 Mercer Street, Toronto, ON",2.0,2.0,652.0,43.6454864,-79.3909407,Wellington Place,5.0,2650.0
+https://rentals.ca/toronto/15-queens-quay-east-id808859,Rentals.ca,"15 Queens Quay East, Toronto, ON",1.5,1.0,533.0,43.6419189,-79.3735985,St Lawrence-East Bayfront-The Islands,35.0,2650.0
+https://rentals.ca/toronto/55-harrison-garden-boulevard-3,Rentals.ca,"55 Harrison Garden Boulevard, Toronto, ON",1.5,1.0,700.0,43.75686169999999,-79.407129,Avondale,4.0,2650.0
+https://rentals.ca/toronto/6-sonic-way-1,Rentals.ca,"6 Sonic way, Toronto, ON",1.5,1.0,760.0,43.7194953,-79.3365032,Flemingdon Park,109.0,2650.0
+https://rentals.ca/toronto/50-john-street-id909788,Rentals.ca,"50 John Street, Toronto, ON",1.5,1.0,750.0,43.645572,-79.3895308,Wellington Place,5.0,2695.0
+https://rentals.ca/toronto/55-charles-street-east-id909304,Rentals.ca,"55 Charles Street East, Toronto, ON",2.0,2.0,800.0,43.6688239,-79.3835572,Church-Wellesley,28.0,2700.0
+https://rentals.ca/toronto/375-king-st-w-m5v-condo,Rentals.ca,"375 King St W, Toronto, ON",1.5,1.0,650.0,43.6457486,-79.3930826,Wellington Place,5.0,2650.0
+https://rentals.ca/toronto/255-richmond-space-lofts,Rentals.ca,"255 Richmond St E, Toronto, ON",1.5,1.0,750.0,43.6528455,-79.3704456,Moss Park,69.0,2700.0
+https://rentals.ca/toronto/opus-at-pantages,Rentals.ca,"220 Victoria Street, Toronto, ON",2.5,2.0,860.0,43.65485839999999,-79.3792134,Downtown Yonge East,34.0,2700.0
+https://rentals.ca/toronto/18-harrison-garden-boulevard-2,Rentals.ca,"18 Harrison Garden Boulevard, Toronto, ON",1.5,1.0,675.0,43.7574047,-79.40930159999999,Avondale,4.0,2700.0
+https://rentals.ca/toronto/3121-sheppard-avenue-east-id908517,Rentals.ca,"3121 Sheppard Avenue East, Toronto, ON",2.0,2.0,850.0,43.7763565,-79.3171447,Tam O'Shanter-Sullivan,99.0,2700.0
+https://rentals.ca/toronto/218-queens-quay-west-id813570,Rentals.ca,"218 Queens Quay West, Toronto, ON",1.0,1.0,605.0,43.6399111,-79.3820853,Harbourfront-CityPlace,21.0,2700.0
+https://rentals.ca/toronto/853-eglinton-avenue-west,Rentals.ca,"853 Eglinton Avenue West, Toronto, ON",1.5,1.0,540.0,43.70086209999999,-79.42543529999999,Forest Hill South,39.0,2700.0
+https://rentals.ca/toronto/65-bremner-boulevard,Rentals.ca,"65 Bremner Boulevard, Toronto, ON",1.0,1.0,500.0,43.6429418,-79.38055709999999,St Lawrence-East Bayfront-The Islands,35.0,2700.0
+https://rentals.ca/toronto/5-saint-joseph-street-1,Rentals.ca,"5 Saint Joseph Street, Toronto, ON",1.0,1.0,600.0,43.6657586,-79.3856777,Bay-Cloverhill,8.0,2700.0
+https://rentals.ca/toronto/5508-yonge-street-1,Rentals.ca,"5508 Yonge Street, Toronto, ON",2.0,1.0,750.0,43.7782773,-79.4155984,Willowdale West,54.0,2700.0
+https://rentals.ca/toronto/503-beecroft-road-id814919,Rentals.ca,"503 Beecroft Road, Toronto, ON",1.5,1.0,680.0,43.7784814,-79.4178161,Willowdale West,54.0,2700.0
+https://rentals.ca/north-york/100-leeward-glenway,Rentals.ca,"100 Leeward Glenway, North York, ON",2.0,1.0,900.0,43.7115446,-79.3292991,Flemingdon Park,109.0,2700.0
+https://rentals.ca/toronto/8-esplanade-l-tower,Rentals.ca,"8 The Esplanade, Toronto, ON",1.5,1.0,650.0,43.6461525,-79.37638199999999,St Lawrence-East Bayfront-The Islands,35.0,2725.0
+https://rentals.ca/toronto/15-solidarity-way,Rentals.ca,"15 Solidarity Way, Toronto, ON",1.0,1.0,590.0,43.6390329,-79.4110615,Fort York-Liberty Village,52.0,2733.0
+https://rentals.ca/scarborough/409-3560-st-clair-ave-e-scarborough-ontario-m1k-0a9,Rentals.ca,"3560 St Clair avenue, Scarborough, ON",2.0,2.0,900.0,43.7170837,-79.2611798,Kennedy Park,158.0,2745.0
+https://rentals.ca/toronto/397-front-street-west-8,Rentals.ca,"397 Front Street West, Toronto, ON",1.5,1.0,703.0,43.6426397,-79.3935863,Harbourfront-CityPlace,21.0,2700.0
+https://rentals.ca/toronto/373-front-st-w,Rentals.ca,"373 Front St, Toronto, ON",1.5,1.0,750.0,43.6429328,-79.3921472,Harbourfront-CityPlace,21.0,2700.0
+https://rentals.ca/toronto/11-st-joseph-st,Rentals.ca,"11 St Joseph St, Toronto, ON",1.0,1.0,693.0,43.6657429,-79.3861318,Bay-Cloverhill,8.0,2750.0
+https://rentals.ca/toronto/251-manitoba-street-6,Rentals.ca,"251 Manitoba Street, Toronto, ON",2.0,1.0,650.0,43.6238372,-79.4893647,Mimico-Queensway,123.0,2750.0
+https://rentals.ca/toronto/1029-king-street-w-unit-225,Rentals.ca,"1029 KING Street, Toronto, ON",1.0,1.0,690.0,43.6410711,-79.4159299,West Queen West,2.0,2750.0
+https://rentals.ca/toronto/1001-bay-street-id891608,Rentals.ca,"1001 Bay Street, Toronto, ON",1.5,1.5,750.0,43.6655763,-79.38738239999999,Bay-Cloverhill,8.0,2750.0
+https://rentals.ca/toronto/750-bay-street-id785617,Rentals.ca,"750 Bay Street, Toronto, ON",1.0,1.0,665.0,43.6596664,-79.38605749999999,Yonge-Bay Corridor,18.0,2750.0
+https://rentals.ca/toronto/151-village-green-square-id775168,Rentals.ca,"151 Village Green Square, Toronto, ON",2.0,2.0,799.0,43.7788438,-79.28132509999999,Agincourt South-Malvern West,94.0,2750.0
+https://rentals.ca/toronto/410-queens-quay-west,Rentals.ca,"410 Queens Quay West, Toronto, ON",1.0,1.0,600.0,43.63806109999999,-79.3914588,Harbourfront-CityPlace,21.0,2750.0
+https://rentals.ca/toronto/56a-lawrence-avenue-east,Rentals.ca,"56A Lawrence Avenue East, Toronto, ON",2.0,2.0,900.0,43.7259308,-79.3991571,Lawrence Park North,15.0,2750.0
+https://rentals.ca/toronto/1787-saint-clair-avenue-west-id715551,Rentals.ca,"1787 Saint Clair Avenue West, Toronto, ON",2.0,1.0,692.0,43.6735145,-79.46209689999999,Weston-Pelham Park,102.0,2750.0
+https://rentals.ca/toronto/23-brant-street-1,Rentals.ca,"23 Brant Street, Toronto, ON",1.0,1.0,685.0,43.6459366,-79.3965286,Wellington Place,5.0,2775.0
+https://rentals.ca/scarborough/2238-68-corporate-dr-scarborough-ontario-m1h-3h3,Rentals.ca,"68 Corporate Drive, Scarborough, ON",2.0,2.0,900.0,43.780487,-79.250693,Woburn North,104.0,2795.0
+https://rentals.ca/york/306-900-saint-clair-avenue-west-york-ontario-m6c-1c5,Rentals.ca,"900 Saint Clair Avenue West, York, ON",2.0,2.0,850.0,43.6803809,-79.4337494,Wychwood,22.0,2795.0
+https://rentals.ca/etobicoke/88-palace-pier-court,Rentals.ca,"88 Palace Pier Court, Etobicoke, ON",1.0,1.0,530.0,43.6308105,-79.4753542,Humber Bay Shores,68.0,2799.0
+https://rentals.ca/toronto/181-wynford-drive-id812351,Rentals.ca,"181 Wynford Drive, Toronto, ON",2.0,2.0,850.0,43.7248836,-79.3285334,Banbury-Don Mills,78.0,2795.0
+https://rentals.ca/north-york/18-parkview-avenue-1,Rentals.ca,"18 Parkview Avenue, North York, ON",2.0,2.0,850.0,43.771245,-79.4128085,Yonge-Doris,6.0,2750.0
+https://rentals.ca/toronto/195-bonis-avenue-id915062,Rentals.ca,"195 Bonis Avenue, Toronto, ON",1.5,2.0,647.0,43.7855843,-79.29150729999999,Tam O'Shanter-Sullivan,99.0,2800.0
+https://rentals.ca/toronto/14-york-street-id909307,Rentals.ca,"14 York Street, Toronto, ON",2.5,2.0,800.0,43.64195290000001,-79.38201629999999,Harbourfront-CityPlace,21.0,2800.0
+https://rentals.ca/toronto/10-meadowglen-place-2,Rentals.ca,"10 Meadowglen Place, Toronto, ON",2.0,2.0,700.0,43.7743496,-79.22992459999999,Golfdale-Cedarbrae-Woburn,147.0,2800.0
+https://rentals.ca/toronto/2-gladstone-avenue-id903489,Rentals.ca,"2 Gladstone Avenue, Toronto, ON",2.0,1.0,840.0,43.6427533,-79.4274355,Little Portugal,38.0,2800.0
+https://rentals.ca/toronto/garrison-point,Rentals.ca,"30 Ordnance Street, Toronto, ON",2.0,2.0,801.0,43.63983169999999,-79.4098558,Fort York-Liberty Village,52.0,2800.0
+https://rentals.ca/toronto/68-corporate-drive-id896158,Rentals.ca,"68 Corporate Drive, Toronto, ON",2.0,2.0,900.0,43.780487,-79.250693,Woburn North,104.0,2800.0
+https://rentals.ca/toronto/111-elizabeth-street-id896725,Rentals.ca,"111 Elizabeth Street, Toronto, ON",1.0,1.0,550.0,43.6551126,-79.3848059,Yonge-Bay Corridor,18.0,2800.0
+https://rentals.ca/toronto/82-dalhousie-street-7,Rentals.ca,"82 Dalhousie Street, Toronto, ON",2.0,2.0,615.0,43.655802,-79.3764407,Downtown Yonge East,34.0,2800.0
+https://rentals.ca/toronto/1285-dupont-street-1,Rentals.ca,"1285 Dupont Street, Toronto, ON",2.0,1.5,700.0,43.66777390000001,-79.4428166,Junction-Wallace Emerson,50.0,2800.0
+https://rentals.ca/toronto/55-charles-55c-bloor-yorkville-residences,Rentals.ca,"55 Charles St, Toronto, ON",2.0,2.0,750.0,43.6688239,-79.3835572,Church-Wellesley,28.0,2800.0
+https://rentals.ca/toronto/275-village-green-square-id887365,Rentals.ca,"275 Village Green Square, Toronto, ON",2.5,2.0,790.0,43.77935799999999,-79.2830046,Agincourt South-Malvern West,94.0,2800.0
+https://rentals.ca/toronto/395-bloor-street-east-1,Rentals.ca,"395 Bloor Street East, Toronto, ON",1.5,1.0,600.0,43.6719746,-79.3774195,North St.James Town,53.0,2800.0
+https://rentals.ca/toronto/88-park-lawn-road-id743197,Rentals.ca,"88 Park Lawn Road, Toronto, ON",1.5,1.0,653.0,43.6240551,-79.4857095,Humber Bay Shores,68.0,2800.0
+https://rentals.ca/toronto/19-western-battery-road-id588195,Rentals.ca,"19 Western Battery Road, Toronto, ON",1.5,1.0,600.0,43.6397197,-79.4113714,Fort York-Liberty Village,52.0,2800.0
+https://rentals.ca/toronto/460-adelaide-street-east-6,Rentals.ca,"460 Adelaide Street East, Toronto, ON",2.0,2.0,730.0,43.6529344,-79.36660599999999,Moss Park,69.0,2800.0
+https://rentals.ca/north-york/a201-1682-victoria-park-avenue-north-york-ontario-m1r-1p7,Rentals.ca,"1682 Victoria Park Avenue, North York, ON",2.5,2.0,900.0,43.7321979,-79.3064302,Victoria Village,129.0,2845.0
+https://rentals.ca/toronto/1808-saint-clair-avenue-west-4,Rentals.ca,"1808 Saint Clair Avenue West, Toronto, ON",2.0,2.0,721.0,43.6738836,-79.4624341,Weston-Pelham Park,102.0,2800.0
+https://rentals.ca/toronto/15-iceboat-terr,Rentals.ca,"15 Iceboat Terr, Toronto, ON",1.0,1.0,565.0,43.6405556,-79.3968958,Harbourfront-CityPlace,21.0,2850.0
+https://rentals.ca/toronto/8-tippett-road-id892859,Rentals.ca,"8 Tippett Road, Toronto, ON",2.0,2.0,787.0,43.7324138,-79.4468862,Clanton Park,76.0,2850.0
+https://rentals.ca/toronto/16-yonge-street,Rentals.ca,"16 Yonge Street, Toronto, ON",1.5,2.0,700.0,43.6432614,-79.3761533,St Lawrence-East Bayfront-The Islands,35.0,2850.0
+https://rentals.ca/toronto/152-saint-patrick-street-id731327,Rentals.ca,"152 Saint Patrick Street, Toronto, ON",1.0,1.0,590.0,43.6541583,-79.3904907,Kensington-Chinatown,48.0,2850.0
+https://rentals.ca/york/840-saint-clair-avenue-west-1,Rentals.ca,"840 Saint Clair Avenue West, York, ON",2.0,2.0,705.0,43.6806379,-79.4319422,Wychwood,22.0,2850.0
+https://rentals.ca/toronto/20-joe-shuster-way-1,Rentals.ca,"20 Joe Shuster Way, Toronto, ON",1.0,1.0,540.0,43.640128,-79.4243082,South Parkdale,144.0,2850.0
+https://rentals.ca/toronto/2-eva-road-3,Rentals.ca,"2 Eva Road, Toronto, ON",2.0,2.0,790.0,43.6404182,-79.56257389999999,Etobicoke West Mall,121.0,2899.0
+https://rentals.ca/toronto/188-fairview-mall-drive-id910281,Rentals.ca,"188 Fairview Mall Drive, Toronto, ON",2.0,1.0,800.0,43.780235,-79.3413302,Don Valley Village,111.0,2900.0
+https://rentals.ca/toronto/30-harrison-garden-boulevard-1,Rentals.ca,"30 Harrison Garden Boulevard, Toronto, ON",2.0,2.0,900.0,43.7565538,-79.408622,Avondale,4.0,2900.0
+https://rentals.ca/toronto/41-markbrook-ln,Rentals.ca,"41 Markbrook Ln, Toronto, ON",2.0,2.0,1100.0,43.7583557,-79.5866684,Mount Olive-Silverstone-Jamestown,141.0,2900.0
+https://rentals.ca/toronto/2460-eglinton-avenue-east-1,Rentals.ca,"2460 Eglinton Avenue East, Toronto, ON",2.5,2.0,1040.0,43.7342959,-79.2627505,Eglinton East,138.0,2900.0
+https://rentals.ca/toronto/155-yorkville-avenue-id910006,Rentals.ca,"155 Yorkville Avenue, Toronto, ON",1.0,1.0,650.0,43.6703838,-79.3944199,Annex,12.0,2950.0
+https://rentals.ca/toronto/25-grenville-street-id898230,Rentals.ca,"25 Grenville Street, Toronto, ON",2.0,1.0,700.0,43.6617585,-79.3846976,Bay-Cloverhill,8.0,2950.0
+https://rentals.ca/toronto/256-doris-avenue,Rentals.ca,"256 Doris Avenue, Toronto, ON",2.0,2.0,910.0,43.7716108,-79.41213719999999,Yonge-Doris,6.0,2960.0
+https://rentals.ca/toronto/500-sherbourne-street-id309484,Rentals.ca,"500 Sherbourne Street, Toronto, ON",2.0,2.0,900.0,43.6679021,-79.37568189999999,North St.James Town,53.0,2975.0
+https://rentals.ca/toronto/195-redpath-avenue-id716853,Rentals.ca,"195 Redpath Avenue, Toronto, ON",2.0,2.0,730.0,43.7101997,-79.3932422,North Toronto,55.0,2960.0
+https://rentals.ca/toronto/10-graphophone-grove-1,Rentals.ca,"10 Graphophone Grove, Toronto, ON",2.0,2.0,799.0,43.667448,-79.4422103,Junction-Wallace Emerson,50.0,2999.0
+https://rentals.ca/toronto/1285-dupont-street-id910162,Rentals.ca,"1285 DUPONT Street, Toronto, ON",2.0,2.0,865.0,43.66777390000001,-79.4428166,Junction-Wallace Emerson,50.0,2995.0
+https://rentals.ca/toronto/138-downes-street,Rentals.ca,"138 Downes Street, Toronto, ON",2.0,2.0,750.0,43.6446392,-79.3713451,St Lawrence-East Bayfront-The Islands,35.0,2995.0
+https://rentals.ca/etobicoke/760-the-queensway-id915552,Rentals.ca,"760 The Queensway, Etobicoke, ON",2.0,2.0,900.0,43.6261426,-79.5049417,Stonegate-Queensway,65.0,2995.0
+https://rentals.ca/north-york/15-northtown-way,Rentals.ca,"15 Northtown Way, North York, ON",2.0,2.0,900.0,43.7749213,-79.4136434,Yonge-Doris,6.0,3000.0
+https://rentals.ca/toronto/55-regent-park-boulevard-id910086,Rentals.ca,"55 Regent Park Boulevard, Toronto, ON",2.0,2.0,710.0,43.6596211,-79.36095759999999,Regent Park,32.0,3000.0
+https://rentals.ca/toronto/66-portland-street-id909732,Rentals.ca,"66 Portland Street, Toronto, ON",2.0,1.0,599.0,43.64385619999999,-79.40002609999999,Wellington Place,5.0,3000.0
+https://rentals.ca/toronto/155-dalhousie-street-id908869,Rentals.ca,"155 Dalhousie Street, Toronto, ON",2.0,2.0,1256.0,43.6576634,-79.3767689,Downtown Yonge East,34.0,3000.0
+https://rentals.ca/toronto/99-john-street-id908740,Rentals.ca,"99 John Street, Toronto, ON",1.5,1.0,640.0,43.6475245,-79.38993119999999,Wellington Place,5.0,3000.0
+https://rentals.ca/north-york/115-mcmahon-drive-7,Rentals.ca,"115 McMahon Drive, North York, ON",2.0,1.0,700.0,43.7669863,-79.37104200000002,Bayview Village,57.0,3000.0
+https://rentals.ca/toronto/77-lombard-street-id907009,Rentals.ca,"77 Lombard Street, Toronto, ON",1.5,2.0,854.0,43.651914,-79.3739662,Downtown Yonge East,34.0,3000.0
+https://rentals.ca/toronto/10-park-lawn-road-6,Rentals.ca,"10 Park Lawn Road, Toronto, ON",2.0,2.0,820.0,43.6233108,-79.48375089999999,Humber Bay Shores,68.0,3000.0
+https://rentals.ca/toronto/33-university-avenue-id901087,Rentals.ca,"33 University Avenue, Toronto, ON",1.5,2.0,1035.0,43.6462538,-79.38359969999999,Yonge-Bay Corridor,18.0,3000.0
+https://rentals.ca/toronto/209-fort-york-boulevard-id898125,Rentals.ca,"209 Fort York Boulevard, Toronto, ON",2.0,1.0,670.0,43.6369997,-79.4046541,Fort York-Liberty Village,52.0,3000.0
+https://rentals.ca/toronto/20-minowan-miikan-lane-id896166,Rentals.ca,"20 Minowan Miikan Lane, Toronto, ON",1.0,1.0,610.0,43.6432774,-79.4282542,Little Portugal,38.0,3000.0
+https://rentals.ca/toronto/193-mccaul-street,Rentals.ca,"193 McCaul Street, Toronto, ON",2.0,1.0,605.0,43.6567515,-79.3921081,Kensington-Chinatown,48.0,3000.0
+https://rentals.ca/toronto/100-western-battery-road,Rentals.ca,"100 Western Battery Road, Toronto, ON",1.5,1.0,652.0,43.639949,-79.41581870000002,Fort York-Liberty Village,52.0,3000.0
+https://rentals.ca/toronto/319-jarvis-prime-condos,Rentals.ca,"319 Jarvis St, Toronto, ON",2.0,2.0,650.0,43.6597863,-79.3753128,Moss Park,69.0,3000.0
+https://rentals.ca/toronto/lloyd-janes-lane-id748144,Rentals.ca,"Lloyd Janes Lane, Toronto, ON",2.0,2.5,1100.0,43.6013634,-79.5121736,New Toronto,146.0,3000.0
+https://rentals.ca/toronto/872-sheppard-avenue-west,Rentals.ca,"872 Sheppard Avenue West, Toronto, ON",2.5,2.0,850.0,43.7524082,-79.4546165,Bathurst Manor,103.0,3000.0
+https://rentals.ca/toronto/50-ordnance-street-7,Rentals.ca,"50 Ordnance Street, Toronto, ON",1.0,1.0,601.0,43.6397778,-79.40995889999999,Fort York-Liberty Village,52.0,3000.0
+https://rentals.ca/toronto/5-mabelle-avenue-2,Rentals.ca,"5 Mabelle Avenue, Toronto, ON",2.0,2.0,800.0,43.6466642,-79.5255121,Etobicoke City Centre,64.0,3000.0
+https://rentals.ca/east-york/93b-douglas-crescent,Rentals.ca,"93B Douglas Crescent, East York, ON",2.0,1.0,1000.0,43.692734,-79.3666906,Leaside-Bennington,19.0,3000.0
+https://rentals.ca/toronto/27-bathurst-street-1,Rentals.ca,"27 Bathurst Street, Toronto, ON",1.0,1.0,458.0,43.6411056,-79.4011877,Wellington Place,5.0,3000.0
+https://rentals.ca/toronto/70-temperance-street-2,Rentals.ca,"70 Temperance Street, Toronto, ON",1.5,1.0,575.0,43.6505301,-79.3821482,Yonge-Bay Corridor,18.0,3000.0
+https://rentals.ca/toronto/150-logan-avenue-4,Rentals.ca,"150 Logan Avenue, Toronto, ON",2.0,2.0,717.0,43.6580467,-79.3415625,South Riverdale,58.0,3000.0
+https://rentals.ca/toronto/25-capreol-luna-vista,Rentals.ca,"25 Capreol Crt, Toronto, ON",2.5,2.0,850.0,43.6407521,-79.3955886,Harbourfront-CityPlace,21.0,3050.0
+https://rentals.ca/scarborough/2365-kennedy-road,Rentals.ca,"2365 Kennedy Road, Scarborough, ON",2.0,2.0,1000.0,43.7852419,-79.28855349999999,Agincourt South-Malvern West,94.0,3050.0
+https://rentals.ca/toronto/2206-1926-lake-shore-blvd-w-toronto-ontario-m6s-1a1,Rentals.ca,"1926 LakeShore Boulevard West, Toronto, ON",2.5,2.0,850.0,43.6361883,-79.46728569999999,South Parkdale,144.0,3095.0
+https://rentals.ca/toronto/125-peter-street-id726340,Rentals.ca,"125 Peter Street, Toronto, ON",1.5,1.0,600.0,43.6484754,-79.392676,Wellington Place,5.0,3050.0
+https://rentals.ca/toronto/39-pemberton-avenue-1,Rentals.ca,"39 Pemberton Avenue, Toronto, ON",2.0,2.0,1000.0,43.7810664,-79.4128211,Newtonbrook East,73.0,3080.0
+https://rentals.ca/toronto/89-mcgill-street-id909969,Rentals.ca,"89 McGill Street, Toronto, ON",2.0,2.0,779.0,43.6606215,-79.3786217,Downtown Yonge East,34.0,3100.0
+https://rentals.ca/toronto/38-dan-leckie-way-id907639,Rentals.ca,"38 Dan Leckie Way, Toronto, ON",2.0,2.0,899.0,43.6374607,-79.39792589999999,Harbourfront-CityPlace,21.0,3100.0
+https://rentals.ca/toronto/142-widdicombe-hill-boulevard,Rentals.ca,"142 Widdicombe Hill Boulevard, Toronto, ON",2.0,1.5,1000.0,43.675729,-79.558544,Willowridge-Martingrove-Richview,135.0,3100.0
+https://rentals.ca/toronto/50-power-street-id889388,Rentals.ca,"50 Power Street, Toronto, ON",2.0,2.0,700.0,43.6543821,-79.3630452,Moss Park,69.0,3100.0
+https://rentals.ca/toronto/200-manitoba-street-id741448,Rentals.ca,"200 Manitoba Street, Toronto, ON",1.0,1.5,800.0,43.6244555,-79.4910182,Humber Bay Shores,68.0,3100.0
+https://rentals.ca/toronto/18-parkview-avenue-id733525,Rentals.ca,"18 Parkview Avenue, Toronto, ON",2.0,2.0,894.0,43.771245,-79.4128085,Yonge-Doris,6.0,3100.0
+https://rentals.ca/toronto/17-pembroke-street-2,Rentals.ca,"17 Pembroke Street, Toronto, ON",2.0,1.0,850.0,43.6567299,-79.3715122,Moss Park,69.0,3100.0
+https://rentals.ca/toronto/25-cole-street-6,Rentals.ca,"25 Cole Street, Toronto, ON",2.0,2.0,900.0,43.6600547,-79.3649782,Regent Park,32.0,3100.0
+https://rentals.ca/toronto/135-lower-sherbourne-time-space,Rentals.ca,"135 Lower Sherbourne St, Toronto, ON",2.0,2.0,750.0,43.6501264,-79.36723549999999,St Lawrence-East Bayfront-The Islands,35.0,3100.0
+https://rentals.ca/toronto/314-402-the-east-mall-toronto-ontario-m9b-3z9,Rentals.ca,"402 The East Mall, Toronto, ON",2.0,2.5,1200.0,43.6465721,-79.56063080000001,Islington,80.0,3150.0
+https://rentals.ca/toronto/varna-drive,Rentals.ca,"Varna Drive, Toronto, ON",2.0,2.0,699.0,43.7213157,-79.4410196,Englemount-Lawrence,97.0,3150.0
+https://rentals.ca/north-york/120-harrison-garden-boulevard-4,Rentals.ca,"120 Harrison Garden Boulevard, North York, ON",2.0,2.0,800.0,43.7580581,-79.40333679999999,Avondale,4.0,3150.0
+https://rentals.ca/toronto/1223-333-adelaide-street-east-toronto-ontario-m5a-4t4,Rentals.ca,"333 Adelaide St E, Toronto, ON",1.5,1.5,900.0,43.651655,-79.3687142,Moss Park,69.0,3150.0
+https://rentals.ca/toronto/70-temperance-indx,Rentals.ca,"70 Temperance St, Toronto, ON",2.5,2.0,750.0,43.6505301,-79.3821482,Yonge-Bay Corridor,18.0,3100.0
+https://rentals.ca/toronto/1010-83-redpath-ave-toronto-ontario-m4s-0a2,Rentals.ca,"83 Redpath Ave, Toronto, ON",2.5,2.0,900.0,43.70650699999999,-79.3918961,South Eglinton-Davisville,20.0,3195.0
+https://rentals.ca/toronto/403-church-stanley-condos,Rentals.ca,"403 Church St, Toronto, ON",2.0,2.0,850.0,43.6622424,-79.37927909999999,Church-Wellesley,28.0,3195.0
+https://rentals.ca/toronto/438-king-street-west-8,Rentals.ca,"438 King Street West, Toronto, ON",2.0,2.0,799.0,43.6457098,-79.3945777,Wellington Place,5.0,3200.0
+https://rentals.ca/toronto/308-jarvis-street-id910067,Rentals.ca,"308 Jarvis Street, Toronto, ON",1.5,2.0,650.0,43.6616593,-79.37671519999999,Downtown Yonge East,34.0,3200.0
+https://rentals.ca/toronto/85-mcmahon-drive-id908441,Rentals.ca,"85 McMahon Drive, Toronto, ON",2.0,2.0,755.0,43.7669136,-79.37223569999999,Bayview Village,57.0,3200.0
+https://rentals.ca/toronto/130-river-street-id716687,Rentals.ca,"130 River Street, Toronto, ON",2.0,2.0,700.0,43.6615739,-79.3586529,Regent Park,32.0,3180.0
+https://rentals.ca/toronto/8-telegram-mews-id884542,Rentals.ca,"8 Telegram Mews, Toronto, ON",3.0,2.0,800.0,43.6404522,-79.39477049999999,Harbourfront-CityPlace,21.0,3200.0
+https://rentals.ca/toronto/4-grange-avenue,Rentals.ca,"4 Grange Avenue, Toronto, ON",2.0,1.0,1199.0,43.6528186,-79.3938234,Kensington-Chinatown,48.0,3200.0
+https://rentals.ca/toronto/3391-bloor-street-west-id753158,Rentals.ca,"3391 Bloor Street West, Toronto, ON",2.0,2.0,978.0,43.6442533,-79.52385249999999,Etobicoke City Centre,64.0,3200.0
+https://rentals.ca/toronto/225-sumach-street-id745494,Rentals.ca,"225 Sumach Street, Toronto, ON",2.0,2.0,827.0,43.6611009,-79.3604498,Regent Park,32.0,3200.0
+https://rentals.ca/toronto/70-annie-craig-drive-2,Rentals.ca,"70 Annie Craig Drive, Toronto, ON",1.5,2.0,663.0,43.6247425,-79.4789275,Humber Bay Shores,68.0,3200.0
+https://rentals.ca/toronto/80-harrison-garden-boulevard,Rentals.ca,"80 Harrison Garden Boulevard, Toronto, ON",1.5,1.5,955.0,43.7563231,-79.40576109999999,Avondale,4.0,3200.0
+https://rentals.ca/north-york/18-harrison-garden-boulevard-1,Rentals.ca,"18 Harrison Garden Boulevard, North York, ON",2.0,2.0,850.0,43.7574047,-79.40930159999999,Avondale,4.0,3200.0
+https://rentals.ca/toronto/169-fort-york-boulevard-7,Rentals.ca,"169 Fort York Boulevard, Toronto, ON",1.0,1.0,500.0,43.63849889999999,-79.40094909999999,Fort York-Liberty Village,52.0,3200.0
+https://rentals.ca/etobicoke/59-annie-craig-drive-6,Rentals.ca,"59 Annie Craig Drive, Etobicoke, ON",1.0,1.0,645.0,43.6249692,-79.47822099999999,Humber Bay Shores,68.0,3200.0
+https://rentals.ca/toronto/58-orchard-view-boulevard,Rentals.ca,"58 Orchard View Boulevard, Toronto, ON",2.0,2.0,900.0,43.7081369,-79.4005574,Yonge-Eglinton,36.0,3200.0
+https://rentals.ca/toronto/1190-dundas-the-carlaw,Rentals.ca,"1190 Dundas St E, Toronto, ON",2.0,1.0,750.0,43.6652349,-79.3411672,South Riverdale,58.0,3250.0
+https://rentals.ca/toronto/101-charles-x2-condos,Rentals.ca,"101 Charles St, Toronto, ON",2.0,2.0,850.0,43.6696371,-79.3805424,Church-Wellesley,28.0,3250.0
+https://rentals.ca/toronto/161-roehampton-avenue-3,Rentals.ca,"161 Roehampton Avenue, Toronto, ON",2.0,2.0,991.0,43.70877249999999,-79.3937821,North Toronto,55.0,3250.0
+https://rentals.ca/toronto/500-sherbourne-street-unit-408,Rentals.ca,"500 SHERBOURNE Street, Toronto, ON",2.0,2.0,1000.0,43.6679021,-79.37568189999999,North St.James Town,53.0,3250.0
+https://rentals.ca/toronto/25-baseball-place-1,Rentals.ca,"25 Baseball Place, Toronto, ON",2.5,2.0,760.0,43.6575617,-79.35106239999999,South Riverdale,58.0,3250.0
+https://rentals.ca/toronto/800-king-street-west,Rentals.ca,"800 King Street West, Toronto, ON",2.0,1.5,950.0,43.6432411,-79.4072,West Queen West,2.0,3250.0
+https://rentals.ca/toronto/2433-dufferin-street-4,Rentals.ca,"2433 Dufferin Street, Toronto, ON",3.0,2.0,1100.0,43.6990699,-79.45089329999999,Briar Hill-Belgravia,100.0,3300.0
+https://rentals.ca/toronto/16-brookers-lane-2,Rentals.ca,"16 Brookers Lane, Toronto, ON",2.0,2.0,810.0,43.6269107,-79.4786185,Humber Bay Shores,68.0,3275.0
+https://rentals.ca/toronto/585-bloor-street-east-id907668,Rentals.ca,"585 Bloor Street East, Toronto, ON",2.0,2.0,836.0,43.6717536,-79.3714449,North St.James Town,53.0,3300.0
+https://rentals.ca/toronto/1926-lakeshore-boulevard-w-unit-3211,Rentals.ca,"1926 LAKESHORE Boulevard, Toronto, ON",2.0,2.0,799.0,43.6361883,-79.46728569999999,South Parkdale,144.0,3300.0
+https://rentals.ca/toronto/297-college-street-5,Rentals.ca,"297 College Street, Toronto, ON",2.0,2.0,775.0,43.6575255,-79.4015589,Kensington-Chinatown,48.0,3300.0
+https://rentals.ca/toronto/185-alberta-avenue-3,Rentals.ca,"185 Alberta Avenue, Toronto, ON",2.0,2.0,875.0,43.6804759,-79.43349590000001,Wychwood,22.0,3300.0
+https://rentals.ca/toronto/96-strachan-avenue,Rentals.ca,"96 Strachan Avenue, Toronto, ON",2.0,1.0,900.0,43.6411719,-79.4118136,West Queen West,2.0,3300.0
+https://rentals.ca/toronto/208-queens-quay-west,Rentals.ca,"208 Queens Quay West, Toronto, ON",1.0,2.0,820.0,43.6401517,-79.38068369999999,Harbourfront-CityPlace,21.0,3300.0
+https://rentals.ca/toronto/11-william-carson-crescent,Rentals.ca,"11 William Carson Crescent, Toronto, ON",2.0,2.0,1050.0,43.7493136,-79.4060495,St.Andrew-Windfields,90.0,3300.0
+https://rentals.ca/toronto/25-earlington-avenue-unit-110,Rentals.ca,"25 EARLINGTON Avenue, Toronto, ON",3.0,2.0,960.0,43.6612966,-79.5079112,Kingsway South,16.0,3350.0
+https://rentals.ca/toronto/135-east-liberty-street,Rentals.ca,"135 East Liberty Street, Toronto, ON",2.0,2.0,660.0,43.638566,-79.416906,Fort York-Liberty Village,52.0,3300.0
+https://rentals.ca/toronto/50-wellesley,Rentals.ca,"50 Wellesley St E, Toronto, ON",2.0,2.0,750.0,43.6656342,-79.3825671,Church-Wellesley,28.0,3300.0
+https://rentals.ca/toronto/the-uptown-residences,Rentals.ca,"35 Balmuto St, Toronto, ON",2.0,2.0,900.0,43.6692215,-79.3873579,Bay-Cloverhill,8.0,3350.0
+https://rentals.ca/toronto/5-concorde-place-id894868,Rentals.ca,"5 Concorde Place, Toronto, ON",2.0,2.0,1400.0,43.729872,-79.3272799,Banbury-Don Mills,78.0,3400.0
+https://rentals.ca/toronto/21-widmer-street-id736302,Rentals.ca,"21 Widmer Street, Toronto, ON",1.0,1.0,650.0,43.6472415,-79.3909937,Wellington Place,5.0,3400.0
+https://rentals.ca/toronto/383-sorauren-avenue-1,Rentals.ca,"383 Sorauren Avenue, Toronto, ON",2.0,2.0,805.0,43.650384,-79.4448584,Roncesvalles,25.0,3400.0
+https://rentals.ca/toronto/17-anndale-drive,Rentals.ca,"17 Anndale Drive, Toronto, ON",2.0,2.0,1000.0,43.760124,-79.40765379999999,Avondale,4.0,3400.0
+https://rentals.ca/toronto/33-charles-street-east-id809678,Rentals.ca,"33 Charles Street East, Toronto, ON",2.0,1.0,802.0,43.6685778,-79.3844795,Church-Wellesley,28.0,3400.0
+https://rentals.ca/north-york/35-empress-avenue-1,Rentals.ca,"35 Empress Avenue, North York, ON",2.0,2.0,1100.0,43.7693129,-79.41122109999999,Yonge-Doris,6.0,3400.0
+https://rentals.ca/toronto/32-camden-street-id859909,Rentals.ca,"32 Camden Street, Toronto, ON",2.0,2.0,740.0,43.6472244,-79.397228,Wellington Place,5.0,3495.0
+https://rentals.ca/toronto/80-western-battery-road-id915368,Rentals.ca,"80 Western Battery Road, Toronto, ON",1.5,1.0,790.0,43.63966,-79.41463999999999,Fort York-Liberty Village,52.0,3500.0
+https://rentals.ca/toronto/299-campbell-avenue-id909798,Rentals.ca,"299 Campbell Avenue, Toronto, ON",2.0,2.0,1058.0,43.6656694,-79.4496364,Junction-Wallace Emerson,50.0,3495.0
+https://rentals.ca/toronto/100-harrison-garden-boulevard-4,Rentals.ca,"100 Harrison Garden Boulevard, Toronto, ON",2.5,2.0,1000.0,43.7571072,-79.4040667,Avondale,4.0,3450.0
+https://rentals.ca/toronto/115-ford-street,Rentals.ca,"115 Ford Street, Toronto, ON",2.5,3.0,1000.0,43.673186,-79.46211269999999,Weston-Pelham Park,102.0,3500.0
+https://rentals.ca/toronto/270-wellington-street-west-id904795,Rentals.ca,"270 Wellington Street West, Toronto, ON",2.0,2.0,900.0,43.6450977,-79.39083509999999,Wellington Place,5.0,3500.0
+https://rentals.ca/toronto/8-the-esplanade-unit-2411,Rentals.ca,"8 THE ESPLANADE Unit# 2411, Toronto, ON",2.0,2.0,804.0,43.6461525,-79.37638199999999,St Lawrence-East Bayfront-The Islands,35.0,3500.0
+https://rentals.ca/toronto/100-hayden-street-id743836,Rentals.ca,"100 Hayden Street, Toronto, ON",1.5,1.0,852.0,43.6705901,-79.38164139999999,Church-Wellesley,28.0,3500.0
+https://rentals.ca/toronto/293-the-kingsway-1,Rentals.ca,"293 The Kingsway, Toronto, ON",2.0,2.0,910.0,43.66335309999999,-79.52034280000001,Edenbridge-Humber Valley,84.0,3500.0
+https://rentals.ca/toronto/101-erskine-avenue-1,Rentals.ca,"101 Erskine Avenue, Toronto, ON",2.0,2.0,820.0,43.7115382,-79.39532299999999,North Toronto,55.0,3500.0
+https://rentals.ca/toronto/65-east-liberty-street-id908450,Rentals.ca,"65 East Liberty Street, Toronto, ON",2.5,2.0,905.0,43.6383065,-79.4140764,Fort York-Liberty Village,52.0,3600.0
+https://rentals.ca/toronto/955-bay-street-8,Rentals.ca,"955 Bay Street, Toronto, ON",2.0,2.0,800.0,43.6646319,-79.3869529,Bay-Cloverhill,8.0,3500.0
+https://rentals.ca/toronto/180-mill-street-2,Rentals.ca,"180 Mill Street, Toronto, ON",2.5,2.5,1134.0,43.6520432,-79.3551781,St Lawrence-East Bayfront-The Islands,35.0,3600.0
+https://rentals.ca/toronto/bliss-55-east-liberty-street,Rentals.ca,"55 East Liberty Street, Toronto, ON",2.5,2.0,930.0,43.6386684,-79.4127931,Fort York-Liberty Village,52.0,3600.0
+https://rentals.ca/north-york/28-harrison-garden-boulevard-7,Rentals.ca,"28 Harrison Garden Boulevard, North York, ON",2.0,2.0,899.0,43.7573254,-79.408659,Avondale,4.0,3500.0
+https://rentals.ca/toronto/980-broadview-avenue,Rentals.ca,"980 Broadview Avenue, Toronto, ON",3.0,2.0,1100.0,43.6823063,-79.3580102,Broadview North,70.0,3600.0
+https://rentals.ca/toronto/99-the-donway-west-id752821,Rentals.ca,"99 The Donway West, Toronto, ON",1.0,1.0,600.0,43.73388910000001,-79.3467757,Banbury-Don Mills,78.0,3600.0
+https://rentals.ca/toronto/736-spadina-avenue-1,Rentals.ca,"736 Spadina Avenue, Toronto, ON",2.0,2.0,900.0,43.66583079999999,-79.40352519999999,University,17.0,3600.0
+https://rentals.ca/etobicoke/370-dixon-road-3,Rentals.ca,"370 Dixon Road, Etobicoke, ON",3.0,1.0,1200.0,43.69595169999999,-79.5561523,Kingsview Village-The Westway,137.0,3640.0
+https://rentals.ca/toronto/625-queen-street-east-id852233,Rentals.ca,"625 Queen Street East, Toronto, ON",2.0,2.0,850.0,43.65787419999999,-79.3529361,South Riverdale,58.0,3650.0
+https://rentals.ca/toronto/44-saint-joseph-street-id894503,Rentals.ca,"44 Saint Joseph Street, Toronto, ON",2.0,2.0,1137.0,43.6659641,-79.3874079,Bay-Cloverhill,8.0,3700.0
+https://rentals.ca/york/2300-saint-clair-avenue-west-6,Rentals.ca,"2300 Saint Clair Avenue West, York, ON",2.0,1.0,905.0,43.6704884,-79.4781969,Junction Area,41.0,3700.0
+https://rentals.ca/toronto/100-coxwell-avenue,Rentals.ca,"100 Coxwell Avenue, Toronto, ON",2.0,2.5,1300.0,43.6690597,-79.317905,Greenwood-Coxwell,56.0,3750.0
+https://rentals.ca/toronto/106-dovercourt-road-2,Rentals.ca,"106 Dovercourt Road, Toronto, ON",2.0,2.0,905.0,43.6433602,-79.4224764,Little Portugal,38.0,3800.0
+https://rentals.ca/toronto/77-harbour-square-3,Rentals.ca,"77 Harbour Square, Toronto, ON",1.0,1.0,692.0,43.6396638,-79.3792757,St Lawrence-East Bayfront-The Islands,35.0,3800.0
+https://rentals.ca/toronto/101-roehampton-avenue,Rentals.ca,"101 Roehampton Avenue, Toronto, ON",2.0,2.0,788.0,43.7083877,-79.39550109999999,North Toronto,55.0,3875.0
+https://rentals.ca/toronto/42-charles-street-east-8,Rentals.ca,"42 Charles Street East, Toronto, ON",2.0,2.0,763.0,43.6695837,-79.38416389999999,Church-Wellesley,28.0,3850.0
+https://rentals.ca/toronto/1638-bloor-street-west-2,Rentals.ca,"1638 Bloor Street West, Toronto, ON",2.5,2.0,1087.0,43.6556705,-79.456426,High Park North,47.0,3800.0
+https://rentals.ca/toronto/200-bloor-street-west,Rentals.ca,"200 Bloor Street West, Toronto, ON",1.5,2.0,730.0,43.6686152,-79.3953592,Annex,12.0,3880.0
+https://rentals.ca/toronto/30-grand-trunk-crescent-id904820,Rentals.ca,"30 Grand Trunk Crescent, Toronto, ON",2.0,2.0,850.0,43.6422693,-79.3828647,Harbourfront-CityPlace,21.0,3950.0
+https://rentals.ca/toronto/701-dovercourt-road,Rentals.ca,"701 Dovercourt Road, Toronto, ON",2.0,2.0,1100.0,43.6600999,-79.4286267,Palmerston-Little Italy,9.0,3950.0
+https://rentals.ca/toronto/3443-bathurst-street,Rentals.ca,"3443 Bathurst Street, Toronto, ON",3.0,3.0,1480.0,43.72804319999999,-79.4314916,Bedford Park-Nortown,46.0,3999.0
+https://rentals.ca/toronto/12-bonnycastle-street-7,Rentals.ca,"12 Bonnycastle Street, Toronto, ON",1.0,1.0,568.0,43.6460368,-79.3649192,St Lawrence-East Bayfront-The Islands,35.0,4000.0
+https://rentals.ca/toronto/99-harbour-square,Rentals.ca,"99 Harbour Square, Toronto, ON",2.0,2.0,1300.0,43.639602,-79.3791136,St Lawrence-East Bayfront-The Islands,35.0,3950.0
+https://rentals.ca/north-york/5785-yonge-street-2,Rentals.ca,"5785 Yonge Street, North York, ON",3.0,2.0,1250.0,43.7837213,-79.4154497,Newtonbrook East,73.0,4000.0
+https://rentals.ca/north-york/15-vicora-linkway,Rentals.ca,"15 Vicora Linkway, North York, ON",3.0,2.0,1400.0,43.7109095,-79.3252112,Flemingdon Park,109.0,4100.0
+https://rentals.ca/toronto/65-saint-mary-street-id905335,Rentals.ca,"65 Saint Mary Street, Toronto, ON",2.0,2.0,996.0,43.6672065,-79.389162,Bay-Cloverhill,8.0,4150.0
+https://rentals.ca/toronto/8-charlotte-street-id749913,Rentals.ca,"8 Charlotte Street, Toronto, ON",2.0,2.0,1023.0,43.6460181,-79.3938391,Wellington Place,5.0,4000.0
+https://rentals.ca/toronto/75-canterbury-place,Rentals.ca,"75 Canterbury Place, Toronto, ON",2.0,2.0,1050.0,43.774199,-79.4152874,Willowdale West,54.0,4200.0
+https://rentals.ca/toronto/480-front-street-west-id739292,Rentals.ca,"480 Front Street West, Toronto, ON",2.5,2.0,965.0,43.6423804,-79.3968586,Wellington Place,5.0,4200.0
+https://rentals.ca/toronto/151-avenue-road-id740806,Rentals.ca,"151 Avenue Road, Toronto, ON",1.5,2.0,800.0,43.674107,-79.3961297,Annex,12.0,4200.0
+https://rentals.ca/toronto/175-jones-avenue,Rentals.ca,"175 Jones Avenue, Toronto, ON",1.5,2.0,1250.0,43.6673876,-79.3342777,South Riverdale,58.0,4500.0
+https://rentals.ca/toronto/52-ruby-lang-lane,Rentals.ca,"52 RUBY LANG Lane, Toronto, ON",3.0,3.0,2237.0,43.6204591,-79.5082322,Mimico-Queensway,123.0,4500.0
+https://rentals.ca/toronto/18-yorkville-avenue,Rentals.ca,"18 Yorkville Avenue, Toronto, ON",2.0,2.0,799.0,43.6720014,-79.3879279,Annex,12.0,4290.0
+https://rentals.ca/toronto/1-bloor-street-east-id909768,Rentals.ca,"1 Bloor Street East, Toronto, ON",2.5,2.5,1052.0,43.6701928,-79.38624209999999,Church-Wellesley,28.0,4500.0
+https://rentals.ca/etobicoke/88-park-lawn-road-2,Rentals.ca,"88 Park Lawn Road, Etobicoke, ON",2.0,2.0,1100.0,43.6240551,-79.4857095,Humber Bay Shores,68.0,4200.0
+https://rentals.ca/toronto/50-lombard-street,Rentals.ca,"50 Lombard Street, Toronto, ON",2.0,2.0,1100.0,43.6518811,-79.3759898,Downtown Yonge East,34.0,4600.0
+https://rentals.ca/toronto/35-hayden-street-7,Rentals.ca,"35 Hayden Street, Toronto, ON",2.5,2.0,1230.0,43.6696226,-79.3847443,Church-Wellesley,28.0,4650.0
+https://rentals.ca/toronto/11-wellesley-street-west-4,Rentals.ca,"11 Wellesley Street West, Toronto, ON",3.0,2.0,900.0,43.66459769999999,-79.3852242,Bay-Cloverhill,8.0,4700.0
+https://rentals.ca/etobicoke/165-legion-road-north,Rentals.ca,"165 Legion Road North, Etobicoke, ON",2.0,2.0,1150.0,43.6241214,-79.48801,Mimico-Queensway,123.0,4800.0
+https://rentals.ca/toronto/39-brant-street-id909774,Rentals.ca,"39 Brant Street, Toronto, ON",2.0,2.5,1300.0,43.6464821,-79.39809850000002,Wellington Place,5.0,4800.0
+https://rentals.ca/toronto/35-mariner-terrace,Rentals.ca,"35 Mariner Terrace, Toronto, ON",3.0,2.0,1299.0,43.6396694,-79.3920888,Harbourfront-CityPlace,21.0,4800.0
+https://rentals.ca/toronto/60-colborne-street-id652373,Rentals.ca,"60 Colborne Street, Toronto, ON",2.0,2.0,1100.0,43.649504,-79.3744937,Downtown Yonge East,34.0,4800.0
+https://rentals.ca/toronto/11-ordnance-street-id909794,Rentals.ca,"11 Ordnance Street, Toronto, ON",2.5,2.5,1169.0,43.6389908,-79.4096283,Fort York-Liberty Village,52.0,4795.0
+https://rentals.ca/toronto/88-scott-street-3,Rentals.ca,"88 Scott Street, Toronto, ON",1.5,1.0,880.0,43.6484074,-79.3763344,Downtown Yonge East,34.0,5500.0
+https://rentals.ca/toronto/575-bloor-street-east-id701228,Rentals.ca,"575 Bloor Street East, Toronto, ON",2.0,2.0,800.0,43.6719003,-79.3725853,North St.James Town,53.0,5500.0
+https://rentals.ca/toronto/1-gloucester-street-id909780,Rentals.ca,"1 Gloucester Street, Toronto, ON",2.0,2.0,1100.0,43.6664936,-79.3848558,Church-Wellesley,28.0,5800.0
+https://rentals.ca/toronto/156-logan-avenue,Rentals.ca,"156 Logan Avenue, Toronto, ON",2.0,2.5,1700.0,43.65826,-79.34174999999999,South Riverdale,58.0,5750.0
+https://rentals.ca/toronto/2692-yonge-street,Rentals.ca,"2692 Yonge Street, Toronto, ON",3.0,3.0,2000.0,43.71699479999999,-79.4005351,Lawrence Park South,27.0,5000.0
+https://rentals.ca/east-york/1048-broadview-avenue-1,Rentals.ca,"1048 Broadview Avenue, East York, ON",2.5,2.5,1911.0,43.6845593,-79.35709480000001,Broadview North,70.0,4995.0
+https://rentals.ca/toronto/39-queens-quay-east,Rentals.ca,"39 Queens Quay East, Toronto, ON",2.5,2.0,1600.0,43.6416066,-79.3719866,St Lawrence-East Bayfront-The Islands,35.0,6500.0
+https://rentals.ca/toronto/388-yonge-street-2,Rentals.ca,"388 Yonge Street, Toronto, ON",2.0,2.0,1300.0,43.659636,-79.38274120000001,Yonge-Bay Corridor,18.0,6500.0
+https://rentals.ca/etobicoke/30-shore-breeze-drive,Rentals.ca,"30 Shore Breeze Drive, Etobicoke, ON",2.5,2.0,1475.0,43.62377619999999,-79.47963299999999,Humber Bay Shores,68.0,7995.0
+https://rentals.ca/toronto/3-southvale-drive,Rentals.ca,"3 Southvale Drive, Toronto, ON",3.0,3.0,1500.0,43.7021435,-79.36135689999999,Leaside-Bennington,19.0,8000.0
