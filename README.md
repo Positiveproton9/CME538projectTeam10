@@ -13,3 +13,4 @@ Rate My Rent is a data-driven project designed to help renters assess whether th
 `Machine Learning`: Linear Regression and Random Forest were trained on the dataset to predict rental prices based on user input and see which model was better.
 
 `User Input`: Renters can input key details like apartment size, number of rooms, and neighborhood to receive an estimated fair rental price.
+
