@@ -17,3 +17,29 @@ Rate My Rent is a data-driven project designed to help renters assess whether th
 **Workflow**
 
  <img src="https://github.com/Positiveproton9/CME538projectTeam10/blob/main/Rent%20Data/DATA%20UNNDER.jpg" alt="Overview of Rate my rent project's pipeline" width="500">
+ 
+ **ATTRIBUTION**
+ 
+ |**TASK** | **NAME (CONTRIBUTION)**|
+ |----------|-----------------------|
+ 
+ | DATA COLLECTION | JONATHAN (MAJOR), NICOLAS (MAJOR), OMAR (MINOR), VIVIAN (MINOR) |
+ |----------|-----------------------|
+ 
+ | DATA WRANGLING | [NICOLAS (MAJOR), JONATHAN (MINOR), OMAR (MINOR), VIVIAN (MINOR) |
+ |-----------------|------------------------|
+
+| DATA PROCESSING | OMAR (MAJOR), VIVIAN (MAJOR), JONATHAN (MAJOR), NICOLAS (MINOR) |
+ |-----------------|------------------------|
+ 
+ | MODEL | JONATHAN (MAJOR), OMAR (MAJOR), NICOLAS (MAJOR), VIVIAN (MINOR) |
+ |-----------------|------------------------|
+ 
+ | PRESENTATION SLIDE | VIVIAN (MAJOR), OMAR (MINOR), JONATHAN (MINOR), NICOLAS (MINOR)] |
+ |---------------|------------------|
+
+ | MEDIUM ARTICLE | VIVIAN (MAJOR), JONATHAN (MINOR), NICOLAS (MINOR), OMAR [MINOR] |
+ |---------------|------------------|
+ 
+ 
+ 
