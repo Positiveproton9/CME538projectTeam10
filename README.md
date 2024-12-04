@@ -10,9 +10,10 @@ Rate My Rent is a data-driven project designed to help renters assess whether th
 
 `Data Processing`: Data is cleaned and preprocessed, including handling missing values, normalizing features, and creating new features based on apartment characteristics and location.
 
-`Machine Learning`: Linear Regression and Random Forest were trained on the dataset to predict rental prices based on user input and see which model was better.
+`Rentals_cleaning.ipynb`: 
 
 `TRREB_data_cleaning2.ipynb`: 
+
 **Workflow**
 
  <img src="https://github.com/Positiveproton9/CME538projectTeam10/blob/main/Rent%20Data/DATA%20UNNDER.jpg" alt="Overview of Rate my rent project's pipeline" width="500">
