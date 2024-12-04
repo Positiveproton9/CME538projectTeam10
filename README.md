@@ -14,3 +14,6 @@ Rate My Rent is a data-driven project designed to help renters assess whether th
 
 `User Input`: Renters can input key details like apartment size, number of rooms, and neighborhood to receive an estimated fair rental price.
 
+**Workflow**
+
+ <img src="https://github.com/Positiveproton9/CME538projectTeam10/blob/main/Rent%20Data/DATA%20UNNDER.jpg" alt="Overview of Rate my rent project's pipeline" width="500">
