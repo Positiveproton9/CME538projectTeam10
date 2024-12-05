@@ -35,7 +35,7 @@ Rate My Rent is a data-driven project designed to help renters assess whether th
  | MODEL | JONATHAN (MAJOR), OMAR (MAJOR), NICOLAS (MAJOR), VIVIAN (MINOR) |
  |-----------------|------------------------|
  
- | PRESENTATION SLIDE | VIVIAN (MAJOR), OMAR (MINOR), JONATHAN (MINOR), NICOLAS (MINOR)] |
+ | PRESENTATION SLIDE | VIVIAN (MAJOR), OMAR (MINOR), NICOLAS (MINOR), JONATHAN (MINOR) |
  |---------------|------------------|
 
  | MEDIUM ARTICLE | VIVIAN (MAJOR), JONATHAN (MINOR), NICOLAS (MINOR), OMAR [MINOR] |
