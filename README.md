@@ -58,7 +58,7 @@ Rate My Rent is a data-driven project designed to help renters assess whether th
  | DATA COLLECTION | JONATHAN (MAJOR), NICOLAS (MAJOR), OMAR (MINOR), VIVIAN (MINOR) |
  |----------|-----------------------|
  
- | DATA WRANGLING | [NICOLAS (MAJOR), JONATHAN (MINOR), OMAR (MINOR), VIVIAN (MINOR) |
+ | DATA WRANGLING | [NICOLAS (MAJOR), OMAR (MAJOR), JONATHAN (MINOR) VIVIAN (MINOR) |
  |-----------------|------------------------|
 
 | DATA PROCESSING | OMAR (MAJOR), VIVIAN (MAJOR), JONATHAN (MAJOR), NICOLAS (MINOR) |
