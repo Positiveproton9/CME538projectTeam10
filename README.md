@@ -4,6 +4,7 @@
 
 Rate My Rent is a data-driven project designed to help renters assess whether the price they are paying for an apartment is fair based on key factors like neighborhood, size, and amenities. By utilizing machine learning techniques, we aim to provide a reliable rental price prediction tool that is particularly useful for international students and anyone looking to make informed rental decisions in Toronto.
 
+[Check the Medium article here](https://medium.com/@nicolas.domaniczky/rate-my-rent-46cff7c0c2e4)
 ---
 
 ## How to Use  
