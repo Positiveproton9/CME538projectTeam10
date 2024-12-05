@@ -6,9 +6,9 @@ Rate My Rent is a data-driven project designed to help renters assess whether th
 
 **Features**
 
-`Data Collection`: The project collects rental listings from sources like rentals.ca, Zillow, and the TRREB.
+`Rent Data`: Final model icludeing all merged filtered data sources (rentals.ca, Zillow, and the TRREB).
 
-`Data Processing`: Data is cleaned and preprocessed, including handling missing values, normalizing features, and creating new features based on apartment characteristics and location.
+`Cleaningdata.ipynb`: Handled missing values, correcting errors, and standardizing units to ensure consistency across the dataset.
 
 `Rentals_cleaning.ipynb`: 
 
