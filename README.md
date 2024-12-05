@@ -14,8 +14,9 @@ Rate My Rent is a data-driven project designed to help renters assess whether th
 2. Navigate to the `Rent Data` folder
 3. Navigate to the `Zillow` folder   
 
-5. Run the notebook in sequence:  
-   - `Model (with _no_TRREB_data).ipynb`  
+4. Run the notebook:  
+   - `Model (with _no_TRREB_data).ipynb`, the best performing model.
+   - Optional to run the other model
 ---
 
 ## Features  
